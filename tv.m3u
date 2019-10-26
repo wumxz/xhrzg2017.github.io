@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 ,番禺电视台
+http://live.pybtv.cn/channel1/sd/live.m3u8
+#EXTINF:-1 ,南方卫视卫星
+http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1 ,南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8?_upt=d085e4df1552673100&autoPlay=true
+#EXTINF:-1 ,珠江频道
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 ,广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 ,广东体育
+http://qdntv96789.applinzi.com/96tv.php?624303497
+#EXTINF:-1 ,广东体育
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 ,深圳体育
+http://www.szmgiptv.com:14436/hls/10.m3u8
+#EXTINF:-1 ,广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,广东卫视
+http://qdntv96789.applinzi.com/96tv.php?608831231
+#EXTINF:-1 ,广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 ,广东影视
+http://nclive.grtn.cn/tvs4/sd/live.m3u8?ts
+#EXTINF:-1 ,嘉佳卡通
+http://qdntv96789.applinzi.com/96tv.php?614952364
+#EXTINF:-1 ,优漫卡通
+http://qdntv96789.applinzi.com/96tv.php?626064703
+#EXTINF:-1 ,少儿动漫
+http://qdntv96789.applinzi.com/96tv.php?615809462
+#EXTINF:-1 ,浙江少儿
+http://qdntv96789.applinzi.com/96tv.php?611318244
+#EXTINF:-1 ,广州少儿
+http://aplay.gztv.com/sec/shaoer.m3u8
+#EXTINF:-1 ,广州生活
+http://aplay.gztv.com/sec/shenghuo.m3u8
+#EXTINF:-1 ,广州台
+http://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 ,广州影视
+http://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,凤凰中文
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰中文
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 ,凤凰信息
+http://183.251.61.221/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 ,凤凰信息
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,tvb财经
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,明珠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,星空电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 ,吉信
+rtmp://220.130.241.203:1935/sjtv/livestream_720p
+#EXTINF:-1 ,日本卫星剧场Eisei Gekijo
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1 ,日本映画Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:-1 ,日本朝日
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8
+#EXTINF:-1 ,BBC经典系列展播
+http://qdntv96789.applinzi.com/96tv.php?633138330
+#EXTINF:-1 ,BTV文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 ,北京卫视
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 ,北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV1
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 ,CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV3
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://qdntv96789.applinzi.com/96tv.php?609017193
+#EXTINF:-1 ,CCTV4
+http://qdntv96789.applinzi.com/96tv.php?608807424
+#EXTINF:-1 ,CCTV5
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1 ,CCTV5+
+http://qdntv96789.applinzi.com/96tv.php?641886733
+#EXTINF:-1 ,CCTV5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV6
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 ,CCTV7
+http://qdntv96789.applinzi.com/96tv.php?609018153
+#EXTINF:-1 ,CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV8
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://qdntv96789.applinzi.com/96tv.php?609154254
+#EXTINF:-1 ,CCTV9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 ,CCTV9
+http://qdntv96789.applinzi.com/96tv.php?609006487
+#EXTINF:-1 ,CCTV10
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://qdntv96789.applinzi.com/96tv.php?624878405
+#EXTINF:-1 ,CCTV10
+http://qdntv96789.applinzi.com/96tv.php?608880731
+#EXTINF:-1 ,CCTV11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 ,CCTV12
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://qdntv96789.applinzi.com/96tv.php?608807423
+#EXTINF:-1 ,CCTV14
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://qdntv96789.applinzi.com/96tv.php?609017204
+#EXTINF:-1 ,CCTV14
+http://qdntv96789.applinzi.com/96tv.php?624878440
+#EXTINF:-1 ,CCTV15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 ,CCTV15
+http://qdntv96789.applinzi.com/96tv.php?608807408
+#EXTINF:-1 ,CHC高清电影HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 ,CCTV老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1 ,CCTV阿拉伯语
+http://qdntv96789.applinzi.com/96tv.php?609154345
+#EXTINF:-1 ,CCTV俄语
+http://qdntv96789.applinzi.com/96tv.php?609006446
+#EXTINF:-1 ,CCTV西班牙语
+http://qdntv96789.applinzi.com/96tv.php?609006450
+#EXTINF:-1 ,Newtv爱情喜剧
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 ,Newtv爱情喜剧
+http://183.207.249.14/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 ,Newtv动作电影
+http://183.207.249.10/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 ,Newtv古装剧场
+http://183.207.249.7/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1 ,NewTV超级电影
+http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 ,超级体育1
+http://39.134.52.162/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
+#EXTINF:-1 ,超级体育3
+http://39.134.52.180/wh7f454c46tw3571653152_2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+#EXTINF:-1 ,超级体育4
+http://39.134.52.183/wh7f454c46tw3605758820_2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
+#EXTINF:-1 ,超级体育5
+http://39.134.52.172/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
+#EXTINF:-1 ,超级体育6
+http://39.134.52.183/wh7f454c46tw3669132437_1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1 ,超级体育7
+http://39.134.52.181/wh7f454c46tw3821303500_921252786/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
+#EXTINF:-1 ,超级体育8
+http://39.134.52.155/wh7f454c46tw3865793157_581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
+#EXTINF:-1 ,newtv超级体育
+http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,江苏公共
+http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/
+#EXTINF:-1 ,江苏影视
+http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/
+#EXTINF:-1 ,江苏综艺
+http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/
+#EXTINF:-1 ,南京科教
+http://223.110.241.204:6610/gitv/live1/G_NJJK/G_NJJK/
+#EXTINF:-1 ,南京十八
+http://223.110.241.204:6610/gitv/live1/G_NJSB/G_NJSB/
+#EXTINF:-1 ,南京新闻综合
+http://223.110.241.204:6610/gitv/live1/G_NJXW/G_NJXW/
+#EXTINF:-1 ,农林卫视
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1 ,厦门二套
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 ,厦门三套
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 ,厦门一套
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 ,厦门移动电视
+http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
+#EXTINF:-1 ,黄河卫视
+http://qdntv96789.applinzi.com/96tv.php?628473059
+#EXTINF:-1 ,中国交通
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+#EXTINF:-1 ,恩施公共
+http://qdntv96789.applinzi.com/96tv.php?638811568
+#EXTINF:-1 ,漳县综合
+http://qdntv96789.applinzi.com/96tv.php?637620045
+#EXTINF:-1 ,常州新闻综合
+http://qdntv96789.applinzi.com/96tv.php?639731892
+#EXTINF:-1 ,镇江新闻综合
+http://qdntv96789.applinzi.com/96tv.php?639731783
+#EXTINF:-1 ,西藏卫视
+http://qdntv96789.applinzi.com/96tv.php?630291593
+#EXTINF:-1 ,新疆卫视
+http://qdntv96789.applinzi.com/96tv.php?635385783
+#EXTINF:-1 ,新视讯直播
+http://qdntv96789.applinzi.com/96tv.php?628335133
+#EXTINF:-1 ,法治天地
+http://qdntv96789.applinzi.com/96tv.php?631095330
+#EXTINF:-1 ,国学频道
+http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1 ,体坛名栏汇
+http://qdntv96789.applinzi.com/96tv.php?629943305
+#EXTINF:-1 ,体育休闲
+http://qdntv96789.applinzi.com/96tv.php?626064707
+#EXTINF:-1 ,学龄前宝宝最爱
+http://qdntv96789.applinzi.com/96tv.php?639528181
+#EXTINF:-1 ,游戏风云
+http://qdntv96789.applinzi.com/96tv.php?623674816
+#EXTINF:-1 ,职业指南
+http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
+#EXTINF:-1 ,Discovery王牌节目展播
+http://qdntv96789.applinzi.com/96tv.php?637483721
+#EXTINF:-1 ,红色谍战剧场
+http://qdntv96789.applinzi.com/96tv.php?634274665
+#EXTINF:-1 ,追剧少女
+http://qdntv96789.applinzi.com/96tv.php?617432318
+#EXTINF:-1 ,最强综艺趴
+http://qdntv96789.applinzi.com/96tv.php?629942228
+#EXTINF:-1 ,高尔夫
+http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+#EXTINF:-1 ,女性时尚
+http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
+#EXTINF:-1 ,热剧联播
+http://qdntv96789.applinzi.com/96tv.php?629943613
+#EXTINF:-1 ,赛事最经典
+http://qdntv96789.applinzi.com/96tv.php?646596895
+#EXTINF:-1 ,韩国Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 ,韩国Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 ,SEA TV
+http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+#EXTINF:-1 ,PTV NEW
+http://67.231.248.131:1935/live/PTVnews/player.m3u8
+#EXTINF:-1 ,Company TV（US|MUSIC）
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 ,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 ,FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 ,FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+#EXTINF:-1 ,FASHION PG9
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1 ,FASHION PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 ,FASHION TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 ,泰国DDTV
+rtmp://203.156.63.20:1935/live/ddtv
+#EXTINF:-1 ,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+#EXTINF:-1 ,SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 ,ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
