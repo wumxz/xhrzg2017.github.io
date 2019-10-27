@@ -42,27 +42,27 @@
     <div class="sidenav text-center">
 		<script>
 	function runTime(){
-var d = new Date(),str = '';
-BirthDay=new Date("2013/02/19");
-today=new Date();
-timeold=(today.getTime()-BirthDay.getTime());
-sectimeold=timeold/1000
-secondsold=Math.floor(sectimeold);
-msPerDay=24*60*60*1000
-msPerYear=365*24*60*60*1000
-e_daysold=timeold/msPerDay
-e_yearsold=timeold/msPerYear
-daysold=Math.floor(e_daysold);
-yearsold=Math.floor(e_yearsold);
-str = daysold+"天";
-str += d.getHours()+'时';
-str  += d.getMinutes()+'分';
-str+= d.getSeconds()+'秒';
-return str;
-}
-setInterval(function(){$('#run_time').html(runTime())},1000);
-</script>
-<p>本网站稳定已运行: <font color="#00FFFF"><span id="run_time"></font> </span>
+	var d = new Date(),str = '';
+	BirthDay=new Date("2013/02/19");
+	today=new Date();
+	timeold=(today.getTime()-BirthDay.getTime());
+	sectimeold=timeold/1000
+	secondsold=Math.floor(sectimeold);
+	msPerDay=24*60*60*1000
+	msPerYear=365*24*60*60*1000
+	e_daysold=timeold/msPerDay
+	e_yearsold=timeold/msPerYear
+	daysold=Math.floor(e_daysold);
+	yearsold=Math.floor(e_yearsold);
+	str = daysold+"天";
+	str += d.getHours()+'时';
+	str  += d.getMinutes()+'分';
+	str+= d.getSeconds()+'秒';
+	return str;
+	}
+	setInterval(function(){$('#run_time').html(runTime())},1000);
+	</script>
+<p>本网站稳定已运行: </p><font color="#00FFFF"><span id="run_time"></font> </span>
 
 <!--统计start-->
       <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -73,7 +73,7 @@ setInterval(function(){$('#run_time').html(runTime())},1000);
 <span id="busuanzi_container_site_uv">
   您是初哥第<span id="busuanzi_value_site_uv"></span>位小伙伴
 </span>
-<meta name="sogou_site_verification" content="Of54CXRALf"/>
+
 		<div class="side_top">
 			<img src="img/about.jpg" alt="news image" class="img-fluid navimg">
 			<h1 class="top_hd mt-2"><a href="index.html">电脑初哥</a></h1>
