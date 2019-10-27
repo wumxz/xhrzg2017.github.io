@@ -40,29 +40,43 @@
 </head>
 <body>
     <div class="sidenav text-center">
-		<script>
-	function runTime(){
-	var d = new Date(),str = '';
-	BirthDay=new Date("2013/02/19");
-	today=new Date();
-	timeold=(today.getTime()-BirthDay.getTime());
-	sectimeold=timeold/1000
-	secondsold=Math.floor(sectimeold);
-	msPerDay=24*60*60*1000
-	msPerYear=365*24*60*60*1000
-	e_daysold=timeold/msPerDay
-	e_yearsold=timeold/msPerYear
-	daysold=Math.floor(e_daysold);
-	yearsold=Math.floor(e_yearsold);
-	str = daysold+"天";
-	str += d.getHours()+'时';
-	str  += d.getMinutes()+'分';
-	str+= d.getSeconds()+'秒';
-	return str;
-	}
-	setInterval(function(){$('#run_time').html(runTime())},1000);
-	</script>
-<p>本网站稳定已运行: </p><font color="#00FFFF"><span id="run_time"></font> </span>
+	<span>
+    网站 已运行:
+    <b> 
+        <font color="#FF0000" id="adian_time"> 
+        <script language="JavaScript"> 
+        function stime(){
+            //设置网站创建时间
+            var star_year = 2013;//设置年
+            var star_month = 2;//设置月
+            var star_day = 19;//设置日
+            var star_hour = 0;//设置时
+            var star_min = 0;//设置分
+            var star_send = 0;//设置秒
+            //获取当前时间
+            var date = new Date(); 
+            var now_year = date.getFullYear(); 
+            var now_month = date.getMonth(); 
+            var now_day = date.getDate(); 
+            var now_hour = date.getHours(); 
+            var now_min = date.getMinutes(); 
+            var now_send = date.getSeconds(); 
+            //时间计算
+            var dni_m = (now_month+1-star_month);
+            var dni_d = now_day-star_day;
+            var dni_h = now_hour-star_hour;
+            var dni_min = now_min-star_min;
+            var dni_s = now_send-star_send;
+			var dni_y = (now_year - star_year)
+            var dni = dni_y+"年"+dni_m+"月"+dni_d+"天"+dni_h+"小时"+dni_min+"分"+dni_s+"秒";
+            document.getElementById("adian_time").innerHTML = dni;
+        }
+        setInterval("stime()",1000);//这个地方是刷新时间，单位为毫秒，1000毫秒=1秒
+        </script>
+        </font>
+    </b>
+</span>
+
 
 <!--统计start-->
       <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -138,9 +152,8 @@
 					<div class="col-lg-5 news_top">
 						<img src="img/g2.jpg" alt="news image" class="img-fluid">
 					</div>
-					<div class="col-lg-7 news_top1" >
-						<h5 href="https://mp.weixin.qq.com/s/DIQ4dNScq81tpaHkSrW22g
-" target="_blank">CoolStar更新Substitute,修复Chimera存在的BUG</h5>
+					<div class="col-lg-7 news_top1" ><a href="https://mp.weixin.qq.com/s/DIQ4dNScq81tpaHkSrW22g"></a>
+						<h5>CoolStar更新Substitute,修复Chimera存在的BUG</h5>
 						<p class="mt-3">使用奇美拉可在Sileo更新</p>
 						<p align="right">10/25</p>
 					</div>
