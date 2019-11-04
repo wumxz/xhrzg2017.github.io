@@ -3,7 +3,6 @@
 .mod_1b{background:#f7fbfe}
 #calculator_base input,#calculator_complete input{color:#fff;border:0px;font-family:"microsoft yahei",Helvetica,sans-serif;}
 #calculator_base,#calculator_complete {position:relative;margin:0 auto;width:380px;}
-#calculator_base_container,#calculator_complete_container {width:304px;height:350px;background:url(../images/siverbg.png) no-repeat 0 0;}
 #calculator_complete_container {height:578px;background-color:#959595;}
 /* table */
 #base_table_main td {height:44px;}
