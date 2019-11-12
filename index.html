@@ -71,7 +71,7 @@
             var dni_min = now_min-star_min;
             var dni_s = now_send-star_send;
 			var dni_y = (now_year - star_year)
-            var dni = dni_y+"年"+dni_m+"月"+dni_d+"天"+dni_h+"小时"+dni_min+"分"+dni_s+"秒";
+            var dni = Math.abs(dni_y)+"年"+Math.abs(dni_m)+"月"+Math.abs(dni_d)+"天"+Math.abs(dni_h)+"小时"+Math.abs(dni_min)+"分"+Math.abs(dni_s)+"秒";
             document.getElementById("adian_time").innerHTML = dni;
         }
         setInterval("stime()",1000);//这个地方是刷新时间，单位为毫秒，1000毫秒=1秒
