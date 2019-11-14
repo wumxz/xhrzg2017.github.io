@@ -123,7 +123,8 @@ function CheckElem3(curObj, msg){
 
 //输出保留两位小数
 function Format(myFloat){
-    return Math.round(myFloat*Math.pow(10,2))/Math.pow(10,2);
+  var num = Math.round(myFloat*Math.pow(10,2))/Math.pow(10,2);
+  return   num = num.toFixed(2);
 }
 
 /****功能： 校验一个合法的且在规定范围内的浮点数

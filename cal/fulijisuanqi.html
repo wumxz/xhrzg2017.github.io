@@ -63,23 +63,23 @@
                                             <dl class="clearfix">
                                                 <dt>存入本金&nbsp;
                                                 </dt>
-                                                <dd><input value="" class="txt" id="principal" name="principal" type="text"></dd>
+                                                <dd><input value="" class="txt" id="principal" name="principal" type="text"onkeyup="this.value=this.value.replace(/^(\d*\.?\d{0,2}).*/,'$1')" /></dd>
                                             </dl>
                                             <dl class="clearfix">
                                                 <dt>年利率(%)&nbsp;</dt>
-                                                <dd><input value="" class="txt" id="yearrate" name="yearrate" type="text"></dd>
+                                                <dd><input value="" class="txt" id="yearrate" name="yearrate" type="text"onkeyup="this.value=this.value.replace(/^(\d*\.?\d{0,2}).*/,'$1')"></dd>
                                             </dl>
                                             <dl class="clearfix">
                                                 <dt>存入年限&nbsp;</dt>
-                                                <dd><input value="" class="txt" id="years" name="years" type="text"></dd>
+                                                <dd><input value="" class="txt" id="years" name="years" type="text"onkeyup="this.value=this.value.replace(/^(\d*\.?\d{0,2}).*/,'$1')"></dd>
                                             </dl>
                                             <dl class="clearfix">
                                                 <dt>年复利次数&nbsp;</dt>
-                                                <dd><input value="12" class="txt" id="bonustime" name="bonustime" type="text" ></dd>
+                                                <dd><input value="12" class="txt" id="bonustime" name="bonustime" type="text" onkeyup="this.value=this.value.replace(/^(\d*\.?\d{0,2}).*/,'$1')"></dd>
                                             </dl>
                                             <dl class="clearfix">
                                                 <dt>复利终值&nbsp;</dt>
-                                                <dd><input class="txt" readonly="" id="compinterest" value="计算得出" name="compinterest" type="text"></dd>
+                                                <dd><input class="txt" readonly="" id="compinterest" value="计算得出" name="compinterest" type="text"onkeyup="this.value=this.value.replace(/^(\d*\.?\d{0,2}).*/,'$1')" ></dd>
                                             </dl>
                                             <dl class="clearfix">
                                                 <dt>&nbsp;</dt>
@@ -103,6 +103,7 @@
                             </div>
 <!-- contact -->
 <p>注 年复利次数默认值为“12”可修改，按季算请输入“4”。</p>
+<p>    2019年中国银行官网，活期存款利率是0.3%；三个月期的存款利率是1.35%，六个月期的存款利率是1.55%，一年期的存款利率是1.75%，两年期的存款利率是2.25%，三年期的存款利率是2.75%，五年期的存款利率是2.75%。</p>
 			<div class="cpy-right text-center">
 				<p>|| Copyright &copy; 2019 <a href="https://xhrzg2017.github.io/" target="_blank" title="广州电脑初哥工作室">广州电脑初哥工作室</a> 版权所有 最后编辑 2019/11/04</a></p>
 			</div>
@@ -120,9 +121,9 @@
 
 </body>
 
+
 <script type="text/javascript">
     function calc_t(e){if($(e).val()=="CalcPrinc")var t="#compinterest",n="#principal";else var n="#compinterest",t="#principal";$(t).attr("readonly",!0).val("计算得出"),$(n).attr("readonly",!1).val("")}function calc(){var e=$("#yearrate").val(),t=$("#years").val(),n=$("#bonustime").val();if($('input[name="Calculate"]:checked').val()=="CalcPrinc"){var r=$("#principal").val();if(!r.match(/\d{1,10}(\.\d{1,2})?/)){alert("存入本金请输入正数（整数最多10位,小数点后最多2位)");return}}else{var i=$("#compinterest").val();if(!i.match(/\d{1,12}(\.\d{1,2})?/)){alert("复利终值请输入正数（整数最多12位,小数点后最多2位)");return}}if(!e.match(/\d{1,10}(\.\d{1,2})?/)){alert("年利率请输入正数");return}if(!t.match(/\d{1,4}(\.\d{1,2})?/)){alert("存入年限请输入正数");return}if(!n.match(/\d{1,4}/)){alert("年复利次数请输入正整数");return}$('input[name="Calculate"]:checked').val()=="CalcPrinc"?$("#compinterest").val(calc_c(e,n,t,r)):$("#principal").val(calc_p(e,n,t,i))}function calc_c(e,t,n,r){var i=parseFloat(e)/100,s=parseInt(t),o=parseFloat(n),u=Math.pow(1+i/s,s)-1,a=parseFloat(r),f=a*Math.pow(1+u,o);return Round(f,4)}function calc_p(e,t,n,r){var i=parseFloat(e)/100,s=parseInt(t),o=parseFloat(n),u=Math.pow(1+i/s,s)-1,a=parseFloat(r),f=a*Math.pow(1+u,-o);return Round(f,4)}function Round(e,t){return t==0?p=1:t?p=Math.pow(10,t):p=100,Math.round(e*p)/p}
 </script>
-
 
 </html>
