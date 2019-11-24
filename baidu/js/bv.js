@@ -1,5 +1,5 @@
 ﻿function bv(){
-	alert("如果设置背景视频失败 可去豚鼠公众号自行修改代码（有提示） 公众号@豚鼠极客");
+	alert("如果设置背景视频失败 可填网络地址");
 	bvbvb=document.getElementById("bvt");
 			xinbiao=document.createElement("source");
 			xinbiao.setAttribute("type","video/mp4");
