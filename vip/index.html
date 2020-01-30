@@ -22,16 +22,20 @@
 		<meta name="apple-mobile-web-app-title" content="全网VIP解析">
 		<!--苹果桌面图标-->
 		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://xhrzg2017.github.io/vip/static/picture/tvlogo.png">
+		<script language='javascript' src='static/js/zh.js'></script>
 	</head>
 
 	<body>
+
 		
 		<!--视频box区域-->
 		<div class="container-fluid video-box">
 			<div class="container ">
 				<div class="tit-name">
-					<span>正在播放視頻:</span>
-					<h1 id="">感謝您使用雲解析服務</h1>
+					<span>正在播放视频:</span>
+					<h1 id="">感谢您使用云解析服务</h1>
+					<a href="javascript:zh_tran('t');" class="zh_click" id="zh_click_t">繁體</a>
+	<a href="javascript:zh_tran('s');" class="zh_click" id="zh_click_s">简体</a>
 				</div>
               			<iframe id="palybox" src="./jx" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="true">></iframe>
 
@@ -41,25 +45,33 @@
 					<div class="input-group">
 						<input type="text" id="url" class="form-control url-text" aria-label="Text input with segmented button dropdown" placeholder="请粘贴视频网址" title="請複制你想要看的視頻網址，粘貼到此處點擊播放即可！">
 						<div class="input-group-addon">
-							<select class="url-c url-text" title="如發現視頻無法正常播放請嘗試更換視頻線路！" id="jk">
+							<select class="url-c url-text" title="如發現視頻無法正常播放請嘗試更換視頻线路！" id="jk">
 								<option value="//www.kpezp.cn/jlexi.php?url=" selected="">
-									默認一								</option>
+									默认一								</option>
 								<option value="https://www.kpezp.cn/jlexi.php?url=">
-									推薦二								</option>
+									推荐二								</option>
 								<option value="http://www.41478.net/?url=">
-									線路三								</option>
+									线路三								</option>
 								<option value="http://jiexi.071811.cc/jx2.php?url=">
-									線路四								</option>
+									线路四								</option>
 								<option value="http://api.xfsub.com/index.php?url=">
-									線路五								</option>
+									线路五								</option>
 								<option value="http://api.baiyug.cn/vip/?url=">
-									線路六								</option>
+									线路六								</option>
 								<option value="http://aikan-tv.com/?url=">
-									線路七								</option>
+									线路七								</option>
+								<option value="http://okjx.cc/?url=">
+									线路八								</option>
 								<option value="http://jx.618g.com/?url=">
-									線路九							</option>
+									线路九							</option>
 								<option value="https://www.administrator5.com/admin.php?url=">
-									線路十								</option>
+									线路十								</option>
+								<option value="http://17kyun.com/api.php?url=">
+									线路十一								</option>
+								<option value="http://jx.598110.com/index.php?url=">
+									线路十二								</option>
+								<option value="	http://jx.598110.com/?url=">
+									线路十三								</option>
 								<option value="">
 									直連								</option>
 								
