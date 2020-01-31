@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -45,7 +46,7 @@
 					<div class="input-group">
 						<input type="text" id="url" class="form-control url-text" aria-label="Text input with segmented button dropdown" placeholder="请粘贴视频网址" title="請複制你想要看的視頻網址，粘貼到此處點擊播放即可！">
 						<div class="input-group-addon">
-							<select class="url-c url-text" title="如發現視頻無法正常播放請嘗試更換視頻线路！" id="jk">
+							<select class="url-c url-text" title="线路" id="jk">
 								<option value="//www.kpezp.cn/jlexi.php?url=" selected="">
 									默认一								</option>
 								<option value="https://www.kpezp.cn/jlexi.php?url=">
@@ -73,19 +74,21 @@
 								<option value="	http://jx.598110.com/?url=">
 									线路十三								</option>
 								<option value="">
-									直連								</option>
+									直连								</option>
 								
 							</select>
 						</div>
 						<div class="input-group-btn">
 
-							<button type="button" class="btn btn-default btn-play" title="點擊開始解析并開始播放" onclick="play()">解析播放</button>
+							<button type="button" class="btn btn-default btn-play" title="点击开始解析并开始播放" onclick="play()">解析播放</button>
 						</div>
 					</div>
 
 				</div>
 				<div class="tit-gg">
-					<span>如果视频无法正常解析，请您手动更换播放线路！<br>切勿相信视频在的广告，广告与本站无利益关系！</span>
+					<span>如果视频无法正常解析，请您手动更换播放线路！<br>
+					<img style="-webkit-user-select: none;" src="https://ip.skkdd.com/1/">
+					<br>切勿相信视频在的广告，广告与本站无利益关系！</span>
 				</div>
 			</div>
 		</div>
@@ -355,7 +358,7 @@
 
 				if(width < 960) {
 
-					window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="static/js/changyan_mobile.js' + appid + '&conf=' + conf + '"><\/script>');
+					window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="static/js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>');
 
 				} else {
 
@@ -401,7 +404,7 @@
 
 					};
 
-					loadJs("https://woowo.vip/upload/changyan.js", function() {
+					loadJs("static/js/changyan_mobile.js", function() {
 
 						window.changyan.api.config({
 
