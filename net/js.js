@@ -184,7 +184,12 @@ $('#txt').keydown(function(ev){
 $(function(){
   //$('#box ul').html() === '' ? $('#box').css('height','0px') : $('#box').css('height','auto');
   var search = {
-    data: [{
+    data: [
+	{
+	 name: '秘迹',
+      img: './images/logo_6.jpg',
+      url: 'https://mijisou.com/?q='
+	},{
       name: '百度',
       img: './images/logo.jpg',
       url: 'https://www.baidu.com/s?wd='
@@ -205,11 +210,6 @@ $(function(){
       img: './images/logo_5.jpg',
       url: 'https://www.sogou.com/web?query='
     },{
-	 name: '秘迹',
-      img: './images/logo_6.jpg',
-      url: 'https://mijisou.com/?q='
-	},
-	{
 	 name: '雅虎',
       img: './images/logo_7.jpg',
       url: 'https://search.yahoo.com/search?p='
