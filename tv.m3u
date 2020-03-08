@@ -1,1045 +1,1045 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=ÄÏ·½ÎÀÊÓ group-title=¹ã¶«,ÄÏ·½ÎÀÊÓ
+#EXTINF:-1 tvg-name=å—æ–¹å«è§† group-title=å¹¿ä¸œ,å—æ–¹å«è§†
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Öé½­ÆµµÀgroup-title=¹ã¶«,Öé½­ÆµµÀ
+#EXTINF:-1 tvg-name=ç æ±Ÿé¢‘é“group-title=å¹¿ä¸œ,ç æ±Ÿé¢‘é“
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=Öé½­µçÓ°group-title=¹ã¶«,Öé½­µçÓ°
+#EXTINF:-1 tvg-name=ç æ±Ÿç”µå½±group-title=å¹¿ä¸œ,ç æ±Ÿç”µå½±
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-name=¹ã¶«¹«¹²group-title=¹ã¶«,¹ã¶«¹«¹²
+#EXTINF:-1 tvg-name=å¹¿ä¸œå…¬å…±group-title=å¹¿ä¸œ,å¹¿ä¸œå…¬å…±
 http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«¹ú¼Êgroup-title=¹ã¶«,¹ã¶«¹ú¼Ê
+#EXTINF:-1 tvg-name=å¹¿ä¸œå›½é™…group-title=å¹¿ä¸œ,å¹¿ä¸œå›½é™…
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«ÌåÓıgroup-title=¹ã¶«,¹ã¶«ÌåÓı
+#EXTINF:-1 tvg-name=å¹¿ä¸œä½“è‚²group-title=å¹¿ä¸œ,å¹¿ä¸œä½“è‚²
 http://nclive.grtn.cn/typd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«ÎÀÊÓgroup-title=¹ã¶«,¹ã¶«ÎÀÊÓ
+#EXTINF:-1 tvg-name=å¹¿ä¸œå«è§†group-title=å¹¿ä¸œ,å¹¿ä¸œå«è§†
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«ĞÂÎÅgroup-title=¹ã¶«,¹ã¶«ĞÂÎÅ
+#EXTINF:-1 tvg-name=å¹¿ä¸œæ–°é—»group-title=å¹¿ä¸œ,å¹¿ä¸œæ–°é—»
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«Ó°ÊÓgroup-title=¹ã¶«,¹ã¶«Ó°ÊÓ
+#EXTINF:-1 tvg-name=å¹¿ä¸œå½±è§†group-title=å¹¿ä¸œ,å¹¿ä¸œå½±è§†
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«ÉÙ¶ùgroup-title=¹ã¶«,¹ã¶«ÉÙ¶ù
+#EXTINF:-1 tvg-name=å¹¿ä¸œå°‘å„¿group-title=å¹¿ä¸œ,å¹¿ä¸œå°‘å„¿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«·¿²úgroup-title=¹ã¶«,¹ã¶«·¿²ú
+#EXTINF:-1 tvg-name=å¹¿ä¸œæˆ¿äº§group-title=å¹¿ä¸œ,å¹¿ä¸œæˆ¿äº§
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«¿Æ½Ìgroup-title=¹ã¶«,¹ã¶«¿Æ½Ì
+#EXTINF:-1 tvg-name=å¹¿ä¸œç§‘æ•™group-title=å¹¿ä¸œ,å¹¿ä¸œç§‘æ•™
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¼Î¼Ñ¿¨Í¨group-title=¹ã¶«,¼Î¼Ñ¿¨Í¨
+#EXTINF:-1 tvg-name=å˜‰ä½³å¡é€šgroup-title=å¹¿ä¸œ,å˜‰ä½³å¡é€š
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«¾­¼Ã¿Æ½ÌHDgroup-title=¹ã¶«,¹ã¶«¾­¼Ã¿Æ½ÌHD
+#EXTINF:-1 tvg-name=å¹¿ä¸œç»æµç§‘æ•™HDgroup-title=å¹¿ä¸œ,å¹¿ä¸œç»æµç§‘æ•™HD
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«·¿²úgroup-title=¹ã¶«,¹ã¶«·¿²ú
+#EXTINF:-1 tvg-name=å¹¿ä¸œæˆ¿äº§group-title=å¹¿ä¸œ,å¹¿ä¸œæˆ¿äº§
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼Î¼Ñ¿¨Í¨group-title=¹ã¶«,¼Î¼Ñ¿¨Í¨
+#EXTINF:-1 tvg-name=å˜‰ä½³å¡é€šgroup-title=å¹¿ä¸œ,å˜‰ä½³å¡é€š
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 tvg-name=¸ß¶û·òÆµµÀgroup-title=¹ã¶«,¸ß¶û·òÆµµÀ
+#EXTINF:-1 tvg-name=é«˜å°”å¤«é¢‘é“group-title=å¹¿ä¸œ,é«˜å°”å¤«é¢‘é“
 http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«¾­¼Ã¿Æ½Ìgroup-title=¹ã¶«,¹ã¶«¾­¼Ã¿Æ½Ì
+#EXTINF:-1 tvg-name=å¹¿ä¸œç»æµç§‘æ•™group-title=å¹¿ä¸œ,å¹¿ä¸œç»æµç§‘æ•™
 http://nclive.grtn.cn/tvs1/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«ÉÙ¶ùgroup-title=¹ã¶«,¹ã¶«ÉÙ¶ù
+#EXTINF:-1 tvg-name=å¹¿ä¸œå°‘å„¿group-title=å¹¿ä¸œ,å¹¿ä¸œå°‘å„¿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1 tvg-name=¹ã¶«×ÛÒÕ4Kgroup-title=¹ã¶«,¹ã¶«×ÛÒÕ4K
+#EXTINF:-1 tvg-name=å¹¿ä¸œç»¼è‰º4Kgroup-title=å¹¿ä¸œ,å¹¿ä¸œç»¼è‰º4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ·½¹ºÎïgroup-title=¹ã¶«,ÄÏ·½¹ºÎï
+#EXTINF:-1 tvg-name=å—æ–¹è´­ç‰©group-title=å¹¿ä¸œ,å—æ–¹è´­ç‰©
 http://nclive.grtn.cn/nfgw/sd/live.m3u8
-#EXTINF:-1 tvg-name=·¬Ø®group-title=¹ã¶«,·¬Ø®
+#EXTINF:-1 tvg-name=ç•ªç¦ºgroup-title=å¹¿ä¸œ,ç•ªç¦º
 http://live.pybtv.cn/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Ôö³Ç×ÛºÏgroup-title=¹ã¶«,Ôö³Ç×ÛºÏ
+#EXTINF:-1 tvg-name=å¢åŸç»¼åˆgroup-title=å¹¿ä¸œ,å¢åŸç»¼åˆ
 http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8
-#EXTINF:-1 tvg-name=ÇåÔ¶×ÛºÏgroup-title=¹ã¶«,ÇåÔ¶×ÛºÏ
+#EXTINF:-1 tvg-name=æ¸…è¿œç»¼åˆgroup-title=å¹¿ä¸œ,æ¸…è¿œç»¼åˆ
 http://stream1.0763f.com/qyzh/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÇåÔ¶¹«¹²group-title=¹ã¶«,ÇåÔ¶¹«¹²
+#EXTINF:-1 tvg-name=æ¸…è¿œå…¬å…±group-title=å¹¿ä¸œ,æ¸…è¿œå…¬å…±
 http://stream1.0763f.com/qygg/sd/live.m3u8
-#EXTINF:-1 tvg-name=³±Öİ×ÛºÏgroup-title=¹ã¶«,³±Öİ×ÛºÏ
+#EXTINF:-1 tvg-name=æ½®å·ç»¼åˆgroup-title=å¹¿ä¸œ,æ½®å·ç»¼åˆ
 http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1 tvg-name=³±Öİ¹«¹²group-title=¹ã¶«,³±Öİ¹«¹²
+#EXTINF:-1 tvg-name=æ½®å·å…¬å…±group-title=å¹¿ä¸œ,æ½®å·å…¬å…±
 http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1 tvg-name=µç°××ÛºÏgroup-title=¹ã¶«,µç°××ÛºÏ
+#EXTINF:-1 tvg-name=ç”µç™½ç»¼åˆgroup-title=å¹¿ä¸œ,ç”µç™½ç»¼åˆ
 http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=µç°×ÊÓ´°group-title=¹ã¶«,µç°×ÊÓ´°
+#EXTINF:-1 tvg-name=ç”µç™½è§†çª—group-title=å¹¿ä¸œ,ç”µç™½è§†çª—
 http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉîÛÚÎÀÊÓHDgroup-title=¹ã¶«,ÉîÛÚÎÀÊÓHD
+#EXTINF:-1 tvg-name=æ·±åœ³å«è§†HDgroup-title=å¹¿ä¸œ,æ·±åœ³å«è§†HD
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-name=Éß¿Ú×ÛºÏgroup-title=¹ã¶«,Éß¿Ú×ÛºÏ
+#EXTINF:-1 tvg-name=è›‡å£ç»¼åˆgroup-title=å¹¿ä¸œ,è›‡å£ç»¼åˆ
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 tvg-name=ÉîÛÚÉß¿Úgroup-title=¹ã¶«,ÉîÛÚÉß¿Ú
+#EXTINF:-1 tvg-name=æ·±åœ³è›‡å£group-title=å¹¿ä¸œ,æ·±åœ³è›‡å£
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 tvg-name=ÓĞÏßĞÂÎÅgroup-title=¸Û°Ä,ÓĞÏßĞÂÎÅ
+#EXTINF:-1 tvg-name=æœ‰çº¿æ–°é—»group-title=æ¸¯æ¾³,æœ‰çº¿æ–°é—»
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-name=·ï»ËÏã¸Ûgroup-title=¸Û°Ä,·ï»ËÏã¸Û
+#EXTINF:-1 tvg-name=å‡¤å‡°é¦™æ¸¯group-title=æ¸¯æ¾³,å‡¤å‡°é¦™æ¸¯
 http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
-#EXTINF:-1 tvg-name=·ï»ËÏã¸Ûgroup-title=¸Û°Ä,·ï»ËÏã¸Û
+#EXTINF:-1 tvg-name=å‡¤å‡°é¦™æ¸¯group-title=æ¸¯æ¾³,å‡¤å‡°é¦™æ¸¯
 rtmp://58.200.131.2:1935/livetv/fhzw&autoPlay=true
-#EXTINF:-1 tvg-name=·ï»ËÖĞÎÄgroup-title=¸Û°Ä,·ï»ËÖĞÎÄ
+#EXTINF:-1 tvg-name=å‡¤å‡°ä¸­æ–‡group-title=æ¸¯æ¾³,å‡¤å‡°ä¸­æ–‡
 http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1 tvg-name=·ï»ËÖĞÎÄgroup-title=¸Û°Ä,·ï»ËÖĞÎÄ
+#EXTINF:-1 tvg-name=å‡¤å‡°ä¸­æ–‡group-title=æ¸¯æ¾³,å‡¤å‡°ä¸­æ–‡
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-name=·ï»Ë×ÊÑ¶group-title=¸Û°Ä,·ï»Ë×ÊÑ¶
+#EXTINF:-1 tvg-name=å‡¤å‡°èµ„è®¯group-title=æ¸¯æ¾³,å‡¤å‡°èµ„è®¯
 http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1 tvg-name=·ï»Ë×ÊÑ¶group-title=¸Û°Ä,·ï»Ë×ÊÑ¶
+#EXTINF:-1 tvg-name=å‡¤å‡°èµ„è®¯group-title=æ¸¯æ¾³,å‡¤å‡°èµ„è®¯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-name=Ïã¸ÛÎÀÊÓHKSgroup-title=¸Û°Ä,Ïã¸ÛÎÀÊÓHKS
+#EXTINF:-1 tvg-name=é¦™æ¸¯å«è§†HKSgroup-title=æ¸¯æ¾³,é¦™æ¸¯å«è§†HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name=°ÄÃÅÎÀÊÓgroup-title=¸Û°Ä,°ÄÃÅÎÀÊÓ
+#EXTINF:-1 tvg-name=æ¾³é—¨å«è§†group-title=æ¸¯æ¾³,æ¾³é—¨å«è§†
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 tvg-name=°ÄÑÇÎÀÊÓgroup-title=¸Û°Ä,°ÄÑÇÎÀÊÓ
+#EXTINF:-1 tvg-name=æ¾³äºšå«è§†group-title=æ¸¯æ¾³,æ¾³äºšå«è§†
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 tvg-name=°ÄÊÓ°ÄÃÅgroup-title=¸Û°Ä,°ÄÊÓ°ÄÃÅ
+#EXTINF:-1 tvg-name=æ¾³è§†æ¾³é—¨group-title=æ¸¯æ¾³,æ¾³è§†æ¾³é—¨
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-name=°ÄÃÅÓĞÏß¢ÛÌ¨group-title=¸Û°Ä,°ÄÃÅÓĞÏß¢ÛÌ¨
+#EXTINF:-1 tvg-name=æ¾³é—¨æœ‰çº¿â‘¢å°group-title=æ¸¯æ¾³,æ¾³é—¨æœ‰çº¿â‘¢å°
 http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 tvg-name=°ÄÃÅÓĞÏß¢ÙÌ¨group-title=¸Û°Ä,°ÄÃÅÓĞÏß¢ÙÌ¨
+#EXTINF:-1 tvg-name=æ¾³é—¨æœ‰çº¿â‘ å°group-title=æ¸¯æ¾³,æ¾³é—¨æœ‰çº¿â‘ å°
 http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1 tvg-name=°ÄÃÅÓĞÏß¢ÚÌ¨group-title=¸Û°Ä,°ÄÃÅÓĞÏß¢ÚÌ¨
+#EXTINF:-1 tvg-name=æ¾³é—¨æœ‰çº¿â‘¡å°group-title=æ¸¯æ¾³,æ¾³é—¨æœ‰çº¿â‘¡å°
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 tvg-name=ÈıÁ¢ĞÂÎÅÌ¨group-title=¸Û°Ä,ÈıÁ¢ĞÂÎÅÌ¨
+#EXTINF:-1 tvg-name=ä¸‰ç«‹æ–°é—»å°group-title=æ¸¯æ¾³,ä¸‰ç«‹æ–°é—»å°
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 tvg-name=ÏÌÑôTV¢ÚÌ¨group-title=¸Û°Ä,ÏÌÑôTV¢ÚÌ¨
+#EXTINF:-1 tvg-name=å’¸é˜³TVâ‘¡å°group-title=æ¸¯æ¾³,å’¸é˜³TVâ‘¡å°
 http://ks-hls.juyun.tv/live/xianyang3/index.m3u8
-#EXTINF:-1 tvg-name=TVBSĞÂÎÅÌ¨group-title=¸Û°Ä,TVBSĞÂÎÅÌ¨
+#EXTINF:-1 tvg-name=TVBSæ–°é—»å°group-title=æ¸¯æ¾³,TVBSæ–°é—»å°
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 tvg-name=°ÙÊÓÍ¨4K(ÒÆ¶¯Íø)group-title=ÒÆ¶¯,°ÙÊÓÍ¨4K(ÒÆ¶¯Íø)
+#EXTINF:-1 tvg-name=ç™¾è§†é€š4K(ç§»åŠ¨ç½‘)group-title=ç§»åŠ¨,ç™¾è§†é€š4K(ç§»åŠ¨ç½‘)
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾×ÛºÏ¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾×ÛºÏ¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€ç»¼åˆã€‘group-title=ä¹è§†,ä¹è§†ã€ç»¼åˆã€‘
 http://www.zgrqq.top/letv.m3u8?id=zonghe_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾×ÛÒÕ¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾×ÛÒÕ¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€ç»¼è‰ºã€‘group-title=ä¹è§†,ä¹è§†ã€ç»¼è‰ºã€‘
 http://www.zgrqq.top/letv.m3u8?id=ent_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾ÓéÀÖ¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾ÓéÀÖ¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€å¨±ä¹ã€‘group-title=ä¹è§†,ä¹è§†ã€å¨±ä¹ã€‘
 http://www.zgrqq.top/letv.m3u8?id=yule_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾Ï²¾çÈË¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾Ï²¾çÈË¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€å–œå‰§äººã€‘group-title=ä¹è§†,ä¹è§†ã€å–œå‰§äººã€‘
 http://www.zgrqq.top/letv.m3u8?id=hlxjr_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾µçÓ°¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾µçÓ°¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€ç”µå½±ã€‘group-title=ä¹è§†,ä¹è§†ã€ç”µå½±ã€‘
 http://www.zgrqq.top/letv.m3u8?id=movie_1300#[url=http://www.zgrqq.top/letv.m3u8?id=movie_720p]http://www.zgrqq.top/letv.m3u8?id=movie_720p
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾¶¯×÷µçÓ°¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾¶¯×÷µçÓ°¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€åŠ¨ä½œç”µå½±ã€‘group-title=ä¹è§†,ä¹è§†ã€åŠ¨ä½œç”µå½±ã€‘
 http://www.zgrqq.top/letv.m3u8?id=dzdy_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾Ï²¾çµçÓ°¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾Ï²¾çµçÓ°¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€å–œå‰§ç”µå½±ã€‘group-title=ä¹è§†,ä¹è§†ã€å–œå‰§ç”µå½±ã€‘
 http://www.zgrqq.top/letv.m3u8?id=comedy_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾»ªÓïµçÓ°¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾»ªÓïµçÓ°¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€åè¯­ç”µå½±ã€‘group-title=ä¹è§†,ä¹è§†ã€åè¯­ç”µå½±ã€‘
 http://www.zgrqq.top/letv.m3u8?id=hydy_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾ÉîÛÚÅÔ±ßµçÓ°¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾ÉîÛÚÅÔ±ßµçÓ°¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€æ·±åœ³æ—è¾¹ç”µå½±ã€‘group-title=ä¹è§†,ä¹è§†ã€æ·±åœ³æ—è¾¹ç”µå½±ã€‘
 http://www.zgrqq.top/letv.m3u8?id=hkmovie_1300#[url=http://www.zgrqq.top/letv.m3u8?id=hkmovie_720p]http://www.zgrqq.top/letv.m3u8?id=hkmovie_720p
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾µçÊÓ¾ç¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾µçÊÓ¾ç¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€ç”µè§†å‰§ã€‘group-title=ä¹è§†,ä¹è§†ã€ç”µè§†å‰§ã€‘
 http://www.zgrqq.top/letv.m3u8?id=tv_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾¿¹Õ½¾ç¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾¿¹Õ½¾ç¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€æŠ—æˆ˜å‰§ã€‘group-title=ä¹è§†,ä¹è§†ã€æŠ—æˆ˜å‰§ã€‘
 http://www.zgrqq.top/letv.m3u8?id=kangz_1300
-#EXTINF:-1 tvg-name=ÀÖÊÓ¡¾Ç××Ó¿ÎÌÃ¡¿group-title=ÀÖÊÓ,ÀÖÊÓ¡¾Ç××Ó¿ÎÌÃ¡¿
+#EXTINF:-1 tvg-name=ä¹è§†ã€äº²å­è¯¾å ‚ã€‘group-title=ä¹è§†,ä¹è§†ã€äº²å­è¯¾å ‚ã€‘
 http://www.zgrqq.top/letv.m3u8?id=make_1300
-#EXTINF:-1 tvg-name=CCTV1group-title=ÑëÊÓ,CCTV1
+#EXTINF:-1 tvg-name=CCTV1group-title=å¤®è§†,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name=CCTV1group-title=ÑëÊÓ,CCTV1
+#EXTINF:-1 tvg-name=CCTV1group-title=å¤®è§†,CCTV1
 http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 tvg-name=CCTV1group-title=ÑëÊÓ,CCTV1
+#EXTINF:-1 tvg-name=CCTV1group-title=å¤®è§†,CCTV1
 http://ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
-#EXTINF:-1 tvg-name=CCTV2group-title=ÑëÊÓ,CCTV2
+#EXTINF:-1 tvg-name=CCTV2group-title=å¤®è§†,CCTV2
 http://ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-name=CCTV3group-title=ÑëÊÓ,CCTV3
+#EXTINF:-1 tvg-name=CCTV3group-title=å¤®è§†,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name=CCTV3group-title=ÑëÊÓ,CCTV3
+#EXTINF:-1 tvg-name=CCTV3group-title=å¤®è§†,CCTV3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name=CCTV4group-title=ÑëÊÓ,CCTV4
+#EXTINF:-1 tvg-name=CCTV4group-title=å¤®è§†,CCTV4
 http://ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8
-#EXTINF:-1 tvg-name=CCTV5group-title=ÑëÊÓ,CCTV5
+#EXTINF:-1 tvg-name=CCTV5group-title=å¤®è§†,CCTV5
 http://ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 tvg-name=CCTV5group-title=ÑëÊÓ,CCTV5
+#EXTINF:-1 tvg-name=CCTV5group-title=å¤®è§†,CCTV5
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-name=CCTV5+group-title=ÑëÊÓ,CCTV5+
+#EXTINF:-1 tvg-name=CCTV5+group-title=å¤®è§†,CCTV5+
 http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
-#EXTINF:-1 tvg-name=CCTV5+group-title=ÑëÊÓ,CCTV5+
+#EXTINF:-1 tvg-name=CCTV5+group-title=å¤®è§†,CCTV5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=ÑëÊÓ,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=å¤®è§†,CCTV6
 http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=ÑëÊÓ,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=å¤®è§†,CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=ÑëÊÓ,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=å¤®è§†,CCTV6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=ÑëÊÓ,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=å¤®è§†,CCTV6
 http://ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=ÑëÊÓ,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=å¤®è§†,CCTV8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227433/index.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=ÑëÊÓ,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=å¤®è§†,CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=ÑëÊÓ,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=å¤®è§†,CCTV8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=ÑëÊÓ,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=å¤®è§†,CCTV8
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV9group-title=ÑëÊÓ,CCTV9
+#EXTINF:-1 tvg-name=CCTV9group-title=å¤®è§†,CCTV9
 http://cctvcnch5c.v.wscdns.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10group-title=ÑëÊÓ,CCTV10
+#EXTINF:-1 tvg-name=CCTV10group-title=å¤®è§†,CCTV10
 http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10group-title=ÑëÊÓ,CCTV10
+#EXTINF:-1 tvg-name=CCTV10group-title=å¤®è§†,CCTV10
 http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10group-title=ÑëÊÓ,CCTV10
+#EXTINF:-1 tvg-name=CCTV10group-title=å¤®è§†,CCTV10
 http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV11group-title=ÑëÊÓ,CCTV11
+#EXTINF:-1 tvg-name=CCTV11group-title=å¤®è§†,CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-name=CCTV11group-title=ÑëÊÓ,CCTV11
+#EXTINF:-1 tvg-name=CCTV11group-title=å¤®è§†,CCTV11
 http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=ÑëÊÓ,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=å¤®è§†,CCTV12
 http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=ÑëÊÓ,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=å¤®è§†,CCTV12
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=ÑëÊÓ,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=å¤®è§†,CCTV12
 http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-name=CCTV13group-title=ÑëÊÓ,CCTV13
+#EXTINF:-1 tvg-name=CCTV13group-title=å¤®è§†,CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 tvg-name=CCTV14group-title=ÑëÊÓ,CCTV14
+#EXTINF:-1 tvg-name=CCTV14group-title=å¤®è§†,CCTV14
 http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1 tvg-name=CCTV15group-title=ÑëÊÓ,CCTV15
+#EXTINF:-1 tvg-name=CCTV15group-title=å¤®è§†,CCTV15
 http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV15group-title=ÑëÊÓ,CCTV15
+#EXTINF:-1 tvg-name=CCTV15group-title=å¤®è§†,CCTV15
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?
-#EXTINF:-1 tvg-name=ÛÆæË‡_ëŠÓ°´óÆ¬group-title=°®ÆæÒÕ,ÛÆæË‡_ëŠÓ°´óÆ¬
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_é›»å½±å¤§ç‰‡group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_é›»å½±å¤§ç‰‡
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_ºÃÈR‰]´óÆ¬group-title=°®ÆæÒÕ,ÛÆæË‡_ºÃÈR‰]´óÆ¬
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_å¥½èŠå¡¢å¤§ç‰‡group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_å¥½èŠå¡¢å¤§ç‰‡
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_ÎåĞÇÓ°Ôºgroup-title=°®ÆæÒÕ,ÛÆæË‡_ÎåĞÇÓ°Ôº
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_äº”æ˜Ÿå½±é™¢group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_äº”æ˜Ÿå½±é™¢
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_„Ó×÷ëŠÓ°group-title=°®ÆæÒÕ,ÛÆæË‡_„Ó×÷ëŠÓ°
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_å‹•ä½œé›»å½±group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_å‹•ä½œé›»å½±
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_ºÚÍëŠÓ°group-title=°®ÆæÒÕ,ÛÆæË‡_ºÚÍëŠÓ°
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_é»‘å¹«é›»å½±group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_é»‘å¹«é›»å½±
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_Ï²„¡ëŠÓ°group-title=°®ÆæÒÕ,ÛÆæË‡_Ï²„¡ëŠÓ°
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_å–œåŠ‡é›»å½±group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_å–œåŠ‡é›»å½±
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=ÛÆæË‡_½›µä¸ÛÆ¬group-title=°®ÆæÒÕ,ÛÆæË‡_½›µä¸ÛÆ¬
+#EXTINF:-1 tvg-name=æ„›å¥‡è—_ç¶“å…¸æ¸¯ç‰‡group-title=çˆ±å¥‡è‰º,æ„›å¥‡è—_ç¶“å…¸æ¸¯ç‰‡
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_¾üÊÂ¼ÍÊµgroup-title=»ªÊı,»ªÊı_¾üÊÂ¼ÍÊµ
+#EXTINF:-1 tvg-name=åæ•°_å†›äº‹çºªå®group-title=åæ•°,åæ•°_å†›äº‹çºªå®
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_ÀúÊ·½âÃÜgroup-title=»ªÊı,»ªÊı_ÀúÊ·½âÃÜ
+#EXTINF:-1 tvg-name=åæ•°_å†å²è§£å¯†group-title=åæ•°,åæ•°_å†å²è§£å¯†
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_´ó¹úÊ±´úgroup-title=»ªÊı,»ªÊı_´ó¹úÊ±´ú
+#EXTINF:-1 tvg-name=åæ•°_å¤§å›½æ—¶ä»£group-title=åæ•°,åæ•°_å¤§å›½æ—¶ä»£
 http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_ÈÈÑª¿¹Õ½group-title=»ªÊı,»ªÊı_ÈÈÑª¿¹Õ½
+#EXTINF:-1 tvg-name=åæ•°_çƒ­è¡€æŠ—æˆ˜group-title=åæ•°,åæ•°_çƒ­è¡€æŠ—æˆ˜
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_¹«Ö÷³Ç±¤group-title=»ªÊı,»ªÊı_¹«Ö÷³Ç±¤
+#EXTINF:-1 tvg-name=åæ•°_å…¬ä¸»åŸå ¡group-title=åæ•°,åæ•°_å…¬ä¸»åŸå ¡
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_ºÃÈR‰]´óÙpgroup-title=»ªÊı,»ªÊı_ºÃÈR‰]´óÙp
+#EXTINF:-1 tvg-name=åæ•°_å¥½èŠå¡¢å¤§è³group-title=åæ•°,åæ•°_å¥½èŠå¡¢å¤§è³
 http://hls-ott-zhibo.wasu.tv/live/351/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_ŸáéT¾W´ógroup-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊı_ŸáéT¾W´ó
+#EXTINF:-1 tvg-name=åæ•°_ç†±é–€ç¶²å¤§group-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°_ç†±é–€ç¶²å¤§
 http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı_¶¯ÂşµçÓ°group-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊı_¶¯ÂşµçÓ°
+#EXTINF:-1 tvg-name=åæ•°_åŠ¨æ¼«ç”µå½±group-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°_åŠ¨æ¼«ç”µå½±
 http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı¾ªã¤ĞüÒÉgroup-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊı¾ªã¤ĞüÒÉ
+#EXTINF:-1 tvg-name=åæ•°æƒŠæ‚šæ‚¬ç–‘group-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°æƒŠæ‚šæ‚¬ç–‘
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊıºÃÀ³Îë´óÉÍgroup-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊıºÃÀ³Îë´óÉÍ
+#EXTINF:-1 tvg-name=åæ•°å¥½è±åå¤§èµgroup-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°å¥½è±åå¤§èµ
 http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊıÏÖ´ú¾ç³¡group-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊıÏÖ´ú¾ç³¡
+#EXTINF:-1 tvg-name=åæ•°ç°ä»£å‰§åœºgroup-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°ç°ä»£å‰§åœº
 http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı¿¹ÈÕ¾ç³¡group-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊı¿¹ÈÕ¾ç³¡
+#EXTINF:-1 tvg-name=åæ•°æŠ—æ—¥å‰§åœºgroup-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°æŠ—æ—¥å‰§åœº
 http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1 tvg-name=»ªÊı¹Å×°¾ç³¡group-title=»ªÊı_ĞüÒÉhttp://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,»ªÊı¹Å×°¾ç³¡
+#EXTINF:-1 tvg-name=åæ•°å¤è£…å‰§åœºgroup-title=åæ•°_æ‚¬ç–‘http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8,åæ•°å¤è£…å‰§åœº
 http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1 tvg-name=³¬¼¶ÌåÓı3group-title=³¬¼¶ÌåÓı,³¬¼¶ÌåÓı3
+#EXTINF:-1 tvg-name=è¶…çº§ä½“è‚²3group-title=è¶…çº§ä½“è‚²,è¶…çº§ä½“è‚²3
 http://39.134.52.180/wh7f454c46tw3571653152_2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
-#EXTINF:-1 tvg-name=³¬¼¶ÌåÓı5group-title=³¬¼¶ÌåÓı,³¬¼¶ÌåÓı5
+#EXTINF:-1 tvg-name=è¶…çº§ä½“è‚²5group-title=è¶…çº§ä½“è‚²,è¶…çº§ä½“è‚²5
 http://39.134.52.172/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-name=³¬¼¶ÌåÓı6group-title=³¬¼¶ÌåÓı,³¬¼¶ÌåÓı6
+#EXTINF:-1 tvg-name=è¶…çº§ä½“è‚²6group-title=è¶…çº§ä½“è‚²,è¶…çº§ä½“è‚²6
 http://39.134.52.183/wh7f454c46tw3669132437_1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1 tvg-name=BTVÎÀÊÓgroup-title=ÎÀÊÓ,BTVÎÀÊÓ
+#EXTINF:-1 tvg-name=BTVå«è§†group-title=å«è§†,BTVå«è§†
 http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 tvg-name=BTVÎÀÊÓgroup-title=ÎÀÊÓ,BTVÎÀÊÓ
+#EXTINF:-1 tvg-name=BTVå«è§†group-title=å«è§†,BTVå«è§†
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-name=BTVÎÄÒÕgroup-title=ÎÀÊÓ,BTVÎÄÒÕ
+#EXTINF:-1 tvg-name=BTVæ–‡è‰ºgroup-title=å«è§†,BTVæ–‡è‰º
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-name=BTV¿Æ½Ìgroup-title=ÎÀÊÓ,BTV¿Æ½Ì
+#EXTINF:-1 tvg-name=BTVç§‘æ•™group-title=å«è§†,BTVç§‘æ•™
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 tvg-name=BTVÓ°ÊÓgroup-title=ÎÀÊÓ,BTVÓ°ÊÓ
+#EXTINF:-1 tvg-name=BTVå½±è§†group-title=å«è§†,BTVå½±è§†
 http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 tvg-name=BTV²Æ¾­group-title=ÎÀÊÓ,BTV²Æ¾­
+#EXTINF:-1 tvg-name=BTVè´¢ç»group-title=å«è§†,BTVè´¢ç»
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 tvg-name=BTVÉú»îgroup-title=ÎÀÊÓ,BTVÉú»î
+#EXTINF:-1 tvg-name=BTVç”Ÿæ´»group-title=å«è§†,BTVç”Ÿæ´»
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 tvg-name=BTVÇàÄêgroup-title=ÎÀÊÓ,BTVÇàÄê
+#EXTINF:-1 tvg-name=BTVé’å¹´group-title=å«è§†,BTVé’å¹´
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-name=BTVĞÂÎÅgroup-title=ÎÀÊÓ,BTVĞÂÎÅ
+#EXTINF:-1 tvg-name=BTVæ–°é—»group-title=å«è§†,BTVæ–°é—»
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 tvg-name=BTV¼ÍÊµgroup-title=ÎÀÊÓ,BTV¼ÍÊµ
+#EXTINF:-1 tvg-name=BTVçºªå®group-title=å«è§†,BTVçºªå®
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-name=É½¶«½ÌÓıgroup-title=ÎÀÊÓ,É½¶«½ÌÓı
+#EXTINF:-1 tvg-name=å±±ä¸œæ•™è‚²group-title=å«è§†,å±±ä¸œæ•™è‚²
 http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
-#EXTINF:-1 tvg-name=É½¶«½ÌÓıgroup-title=ÎÀÊÓ,É½¶«½ÌÓı
+#EXTINF:-1 tvg-name=å±±ä¸œæ•™è‚²group-title=å«è§†,å±±ä¸œæ•™è‚²
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
-#EXTINF:-1 tvg-name=ÖØÇìĞÂÎÅgroup-title=ÎÀÊÓ,ÖØÇìĞÂÎÅ
+#EXTINF:-1 tvg-name=é‡åº†æ–°é—»group-title=å«è§†,é‡åº†æ–°é—»
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-#EXTINF:-1 tvg-name=¸ß¶û·ògroup-title=ÎÀÊÓ,¸ß¶û·ò
+#EXTINF:-1 tvg-name=é«˜å°”å¤«group-title=å«è§†,é«˜å°”å¤«
 http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÁÉÄş¹«¹²group-title=ÎÀÊÓ,ÁÉÄş¹«¹²
+#EXTINF:-1 tvg-name=è¾½å®å…¬å…±group-title=å«è§†,è¾½å®å…¬å…±
 http://lms.csytv.com/Live/124/live/livestream.m3u8
-#EXTINF:-1 tvg-name=ÈªÖİ×ÛºÏgroup-title=ÎÀÊÓ,ÈªÖİ×ÛºÏ
+#EXTINF:-1 tvg-name=æ³‰å·ç»¼åˆgroup-title=å«è§†,æ³‰å·ç»¼åˆ
 http://live.qztvxwgj.com/live/news.m3u8
-#EXTINF:-1 tvg-name=ÈªÖİÃöÄÏÓïgroup-title=ÎÀÊÓ,ÈªÖİÃöÄÏÓï
+#EXTINF:-1 tvg-name=æ³‰å·é—½å—è¯­group-title=å«è§†,æ³‰å·é—½å—è¯­
 http://live.qztvxwgj.com/live/mny.m3u8
-#EXTINF:-1 tvg-name=¸£Öİ×ÛºÏgroup-title=ÎÀÊÓ,¸£Öİ×ÛºÏ
+#EXTINF:-1 tvg-name=ç¦å·ç»¼åˆgroup-title=å«è§†,ç¦å·ç»¼åˆ
 http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÓ°ÊÓgroup-title=ÎÀÊÓ,¸£ÖİÓ°ÊÓ
+#EXTINF:-1 tvg-name=ç¦å·å½±è§†group-title=å«è§†,ç¦å·å½±è§†
 http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÉú»îgroup-title=ÎÀÊÓ,¸£ÖİÉú»î
+#EXTINF:-1 tvg-name=ç¦å·ç”Ÿæ´»group-title=å«è§†,ç¦å·ç”Ÿæ´»
 http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÉÙ¶ùgroup-title=ÎÀÊÓ,¸£ÖİÉÙ¶ù
+#EXTINF:-1 tvg-name=ç¦å·å°‘å„¿group-title=å«è§†,ç¦å·å°‘å„¿
 http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉÛÎä×ÛºÏgroup-title=ÎÀÊÓ,ÉÛÎä×ÛºÏ
+#EXTINF:-1 tvg-name=é‚µæ­¦ç»¼åˆgroup-title=å«è§†,é‚µæ­¦ç»¼åˆ
 http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
-#EXTINF:-1 tvg-name=Ò¶ÏØÒ»Ì×group-title=ÎÀÊÓ,Ò¶ÏØÒ»Ì×
+#EXTINF:-1 tvg-name=å¶å¿ä¸€å¥—group-title=å«è§†,å¶å¿ä¸€å¥—
 http://hnyx.chinashadt.com:1935/live/yexian1001.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ò¶ÏØ¶şÌ×group-title=ÎÀÊÓ,Ò¶ÏØ¶şÌ×
+#EXTINF:-1 tvg-name=å¶å¿äºŒå¥—group-title=å«è§†,å¶å¿äºŒå¥—
 http://hnyx.chinashadt.com:1935/live/1002.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¦µ××ÛºÏgroup-title=ÎÀÊÓ,Â¦µ××ÛºÏ
+#EXTINF:-1 tvg-name=å¨„åº•ç»¼åˆgroup-title=å«è§†,å¨„åº•ç»¼åˆ
 http://218.77.102.118:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¦µ×¹«¹²group-title=ÎÀÊÓ,Â¦µ×¹«¹²
+#EXTINF:-1 tvg-name=å¨„åº•å…¬å…±group-title=å«è§†,å¨„åº•å…¬å…±
 http://218.77.102.118:1935/live/gonggong/playlist.m3u8
-#EXTINF:-1 tvg-name=³±Öİ×ÛºÏgroup-title=ÎÀÊÓ,³±Öİ×ÛºÏ
+#EXTINF:-1 tvg-name=æ½®å·ç»¼åˆgroup-title=å«è§†,æ½®å·ç»¼åˆ
 http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1 tvg-name=³±Öİ¹«¹²group-title=ÎÀÊÓ,³±Öİ¹«¹²
+#EXTINF:-1 tvg-name=æ½®å·å…¬å…±group-title=å«è§†,æ½®å·å…¬å…±
 http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1 tvg-name=º£¿ÚÒ»Ì×group-title=ÎÀÊÓ,º£¿ÚÒ»Ì×
+#EXTINF:-1 tvg-name=æµ·å£ä¸€å¥—group-title=å«è§†,æµ·å£ä¸€å¥—
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKmL4K2dmqqW7KGgn6uWoqk/playlist.m3u8
-#EXTINF:-1 tvg-name=º£¿Ú¶şÌ×group-title=ÎÀÊÓ,º£¿Ú¶şÌ×
+#EXTINF:-1 tvg-name=æµ·å£äºŒå¥—group-title=å«è§†,æµ·å£äºŒå¥—
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc/playlist.m3u8
-#EXTINF:-1 tvg-name=º£¿ÚÈıÌ×group-title=ÎÀÊÓ,º£¿ÚÈıÌ×
+#EXTINF:-1 tvg-name=æµ·å£ä¸‰å¥—group-title=å«è§†,æµ·å£ä¸‰å¥—
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉÂÎ÷ĞÂÎÅgroup-title=ÎÀÊÓ,ÉÂÎ÷ĞÂÎÅ
+#EXTINF:-1 tvg-name=é™•è¥¿æ–°é—»group-title=å«è§†,é™•è¥¿æ–°é—»
 http://stream.snrtv.com/sxtvs-1.m3u8
-#EXTINF:-1 tvg-name=ÉÂÎ÷¶¼ÊĞgroup-title=ÎÀÊÓ,ÉÂÎ÷¶¼ÊĞ
+#EXTINF:-1 tvg-name=é™•è¥¿éƒ½å¸‚group-title=å«è§†,é™•è¥¿éƒ½å¸‚
 http://stream.snrtv.com/sxtvs-2.m3u8
-#EXTINF:-1 tvg-name=ÉÂÎ÷Éú»îgroup-title=ÎÀÊÓ,ÉÂÎ÷Éú»î
+#EXTINF:-1 tvg-name=é™•è¥¿ç”Ÿæ´»group-title=å«è§†,é™•è¥¿ç”Ÿæ´»
 http://stream.snrtv.com/sxtvs-3.m3u8
-#EXTINF:-1 tvg-name=ÉÂÎ÷¹«¹²group-title=ÎÀÊÓ,ÉÂÎ÷¹«¹²
+#EXTINF:-1 tvg-name=é™•è¥¿å…¬å…±group-title=å«è§†,é™•è¥¿å…¬å…±
 http://stream.snrtv.com/sxtvs-5.m3u8
-#EXTINF:-1 tvg-name=Î÷°²ĞÂÎÅgroup-title=ÎÀÊÓ,Î÷°²ĞÂÎÅ
+#EXTINF:-1 tvg-name=è¥¿å®‰æ–°é—»group-title=å«è§†,è¥¿å®‰æ–°é—»
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²°×¸ëgroup-title=ÎÀÊÓ,Î÷°²°×¸ë
+#EXTINF:-1 tvg-name=è¥¿å®‰ç™½é¸½group-title=å«è§†,è¥¿å®‰ç™½é¸½
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²×ÊÑ¶group-title=ÎÀÊÓ,Î÷°²×ÊÑ¶
+#EXTINF:-1 tvg-name=è¥¿å®‰èµ„è®¯group-title=å«è§†,è¥¿å®‰èµ„è®¯
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²Ó°ÊÓgroup-title=ÎÀÊÓ,Î÷°²Ó°ÊÓ
+#EXTINF:-1 tvg-name=è¥¿å®‰å½±è§†group-title=å«è§†,è¥¿å®‰å½±è§†
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²½¡¿µgroup-title=ÎÀÊÓ,Î÷°²½¡¿µ
+#EXTINF:-1 tvg-name=è¥¿å®‰å¥åº·group-title=å«è§†,è¥¿å®‰å¥åº·
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-name=½­Î÷ĞÂÎÅHDgroup-title=ÎÀÊÓ,½­Î÷ĞÂÎÅHD
+#EXTINF:-1 tvg-name=æ±Ÿè¥¿æ–°é—»HDgroup-title=å«è§†,æ±Ÿè¥¿æ–°é—»HD
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv07.m3u8
-#EXTINF:-1 tvg-name=°ö²ºĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,°ö²ºĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=èšŒåŸ æ–°é—»ç»¼åˆgroup-title=å«è§†,èšŒåŸ æ–°é—»ç»¼åˆ
 http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=°ö²º¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,°ö²º¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=èšŒåŸ å…¬å…±é¢‘é“group-title=å«è§†,èšŒåŸ å…¬å…±é¢‘é“
 http://newvod.ahbbtv.com:1935/live/smil:ggpd_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=°ö²ºÉú»îÆµµÀgroup-title=ÎÀÊÓ,°ö²ºÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=èšŒåŸ ç”Ÿæ´»é¢‘é“group-title=å«è§†,èšŒåŸ ç”Ÿæ´»é¢‘é“
 http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=°ö²º¹«½»ÆµµÀgroup-title=ÎÀÊÓ,°ö²º¹«½»ÆµµÀ
+#EXTINF:-1 tvg-name=èšŒåŸ å…¬äº¤é¢‘é“group-title=å«è§†,èšŒåŸ å…¬äº¤é¢‘é“
 http://newvod.ahbbtv.com:1935/live/smil:gjpd_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=ËŞÖİ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ËŞÖİ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å®¿å·å…¬å…±é¢‘é“group-title=å«è§†,å®¿å·å…¬å…±é¢‘é“
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-name=ËŞÖİ¿Æ½ÌÆµµÀgroup-title=ÎÀÊÓ,ËŞÖİ¿Æ½ÌÆµµÀ
+#EXTINF:-1 tvg-name=å®¿å·ç§‘æ•™é¢‘é“group-title=å«è§†,å®¿å·ç§‘æ•™é¢‘é“
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 tvg-name=ÙñÖİĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ÙñÖİĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=äº³å·æ–°é—»é¢‘é“group-title=å«è§†,äº³å·æ–°é—»é¢‘é“
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
-#EXTINF:-1 tvg-name=ÙñÖİÅ©´åÆµµÀgroup-title=ÎÀÊÓ,ÙñÖİÅ©´åÆµµÀ
+#EXTINF:-1 tvg-name=äº³å·å†œæ‘é¢‘é“group-title=å«è§†,äº³å·å†œæ‘é¢‘é“
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
-#EXTINF:-1 tvg-name=ÎßºşĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÎßºşĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=èŠœæ¹–æ–°é—»ç»¼åˆgroup-title=å«è§†,èŠœæ¹–æ–°é—»ç»¼åˆ
 http://live1.wuhubtv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÎßºşÉú»îÆµµÀgroup-title=ÎÀÊÓ,ÎßºşÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=èŠœæ¹–ç”Ÿæ´»é¢‘é“group-title=å«è§†,èŠœæ¹–ç”Ÿæ´»é¢‘é“
 http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Îßºş¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Îßºş¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=èŠœæ¹–å…¬å…±é¢‘é“group-title=å«è§†,èŠœæ¹–å…¬å…±é¢‘é“
 http://live1.wuhubtv.com/channel3/sd/live.m3u8
-#EXTINF:-1 tvg-name=Îßºş½ÌÓıÆµµÀgroup-title=ÎÀÊÓ,Îßºş½ÌÓıÆµµÀ
+#EXTINF:-1 tvg-name=èŠœæ¹–æ•™è‚²é¢‘é“group-title=å«è§†,èŠœæ¹–æ•™è‚²é¢‘é“
 http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:-1 tvg-name=Áù°²ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Áù°²ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å…­å®‰æ–°é—»ç»¼åˆgroup-title=å«è§†,å…­å®‰æ–°é—»ç»¼åˆ
 http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Áù°²¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Áù°²¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å…­å®‰å…¬å…±é¢‘é“group-title=å«è§†,å…­å®‰å…¬å…±é¢‘é“
 http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Âí°°É½ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Âí°°É½ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é©¬éå±±æ–°é—»ç»¼åˆgroup-title=å«è§†,é©¬éå±±æ–°é—»ç»¼åˆ
 http://live.massp.cn:5011/vod/video_hls/c01.m3u8
-#EXTINF:-1 tvg-name=Âí°°É½¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Âí°°É½¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=é©¬éå±±å…¬å…±é¢‘é“group-title=å«è§†,é©¬éå±±å…¬å…±é¢‘é“
 http://live.massp.cn:5011/vod/video_hls/c03.m3u8
-#EXTINF:-1 tvg-name=Âí°°É½Ó°ÊÓÆµµÀgroup-title=ÎÀÊÓ,Âí°°É½Ó°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=é©¬éå±±å½±è§†é¢‘é“group-title=å«è§†,é©¬éå±±å½±è§†é¢‘é“
 http://live.massp.cn:5011/vod/video_hls/c02.m3u8
-#EXTINF:-1 tvg-name=³üÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,³üÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ»å·æ–°é—»ç»¼åˆgroup-title=å«è§†,æ»å·æ–°é—»ç»¼åˆ
 http://183.167.193.45:1935/live/cztvzh/playlist.m3u8
-#EXTINF:-1 tvg-name=³üÖİ¿Æ½ÌÆµµÀgroup-title=ÎÀÊÓ,³üÖİ¿Æ½ÌÆµµÀ
+#EXTINF:-1 tvg-name=æ»å·ç§‘æ•™é¢‘é“group-title=å«è§†,æ»å·ç§‘æ•™é¢‘é“
 http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
-#EXTINF:-1 tvg-name=³üÖİ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,³üÖİ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=æ»å·å…¬å…±é¢‘é“group-title=å«è§†,æ»å·å…¬å…±é¢‘é“
 http://183.167.193.45:1935/live/cztvgg/playlist.m3u8
-#EXTINF:-1 tvg-name=¶«ÖÁÓ°ÊÓÆµµÀgroup-title=ÎÀÊÓ,¶«ÖÁÓ°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=ä¸œè‡³å½±è§†é¢‘é“group-title=å«è§†,ä¸œè‡³å½±è§†é¢‘é“
 http://223.247.33.124:1935/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-name=¶«ÖÁÎÄ»¯×ÊÑ¶group-title=ÎÀÊÓ,¶«ÖÁÎÄ»¯×ÊÑ¶
+#EXTINF:-1 tvg-name=ä¸œè‡³æ–‡åŒ–èµ„è®¯group-title=å«è§†,ä¸œè‡³æ–‡åŒ–èµ„è®¯
 http://223.247.33.124:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-name=ÔÀÎ÷×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÔÀÎ÷×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å²³è¥¿ç»¼åˆé¢‘é“group-title=å«è§†,å²³è¥¿ç»¼åˆé¢‘é“
 http://58.243.4.22:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name=ÔÀÎ÷Ó°ÊÓÆµµÀgroup-title=ÎÀÊÓ,ÔÀÎ÷Ó°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=å²³è¥¿å½±è§†é¢‘é“group-title=å«è§†,å²³è¥¿å½±è§†é¢‘é“
 http://58.243.4.22:1935/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-name=ÔÀÎ÷Í¼ÎÄÆµµÀgroup-title=ÎÀÊÓ,ÔÀÎ÷Í¼ÎÄÆµµÀ
+#EXTINF:-1 tvg-name=å²³è¥¿å›¾æ–‡é¢‘é“group-title=å«è§†,å²³è¥¿å›¾æ–‡é¢‘é“
 http://58.243.4.22:1935/live/tuwen/playlist.m3u8
-#EXTINF:-1 tvg-name=ÎĞÑôĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÎĞÑôĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ¶¡é˜³æ–°é—»ç»¼åˆgroup-title=å«è§†,æ¶¡é˜³æ–°é—»ç»¼åˆ
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
-#EXTINF:-1 tvg-name=»ôÉ½×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,»ôÉ½×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=éœå±±ç»¼åˆé¢‘é“group-title=å«è§†,éœå±±ç»¼åˆé¢‘é“
 http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÍòÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÍòÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ä¸‡å·ç»¼åˆé¢‘é“group-title=å«è§†,ä¸‡å·ç»¼åˆé¢‘é“
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 tvg-name=ÍòÖİÈıÏ¿ÒÆÃñgroup-title=ÎÀÊÓ,ÍòÖİÈıÏ¿ÒÆÃñ
+#EXTINF:-1 tvg-name=ä¸‡å·ä¸‰å³¡ç§»æ°‘group-title=å«è§†,ä¸‡å·ä¸‰å³¡ç§»æ°‘
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name=ÍòÖİÓ°ÊÓÎÄÒÕgroup-title=ÎÀÊÓ,ÍòÖİÓ°ÊÓÎÄÒÕ
+#EXTINF:-1 tvg-name=ä¸‡å·å½±è§†æ–‡è‰ºgroup-title=å«è§†,ä¸‡å·å½±è§†æ–‡è‰º
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 tvg-name=ÍòÖİ¿Æ½ÌÆµµÀgroup-title=ÎÀÊÓ,ÍòÖİ¿Æ½ÌÆµµÀ
+#EXTINF:-1 tvg-name=ä¸‡å·ç§‘æ•™é¢‘é“group-title=å«è§†,ä¸‡å·ç§‘æ•™é¢‘é“
 http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1 tvg-name=ÁºÆ½×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÁºÆ½×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ¢å¹³ç»¼åˆé¢‘é“group-title=å«è§†,æ¢å¹³ç»¼åˆé¢‘é“
 http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=³¤ÊÙÎÄ»¯ÂÃÓÎgroup-title=ÎÀÊÓ,³¤ÊÙÎÄ»¯ÂÃÓÎ
+#EXTINF:-1 tvg-name=é•¿å¯¿æ–‡åŒ–æ—…æ¸¸group-title=å«è§†,é•¿å¯¿æ–‡åŒ–æ—…æ¸¸
 http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÓÏÑôĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÓÏÑôĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é…‰é˜³æ–°é—»ç»¼åˆgroup-title=å«è§†,é…‰é˜³æ–°é—»ç»¼åˆ
 http://qxlmlive.cbg.cn:1935/app_2/ls_68.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name=¿ªÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,¿ªÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å¼€å·ç»¼åˆé¢‘é“group-title=å«è§†,å¼€å·ç»¼åˆé¢‘é“
 http://kaixianlive.cbg.cn:10345/1.m3u8
-#EXTINF:-1 tvg-name=¿ªÖİÉú»îÆµµÀgroup-title=ÎÀÊÓ,¿ªÖİÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=å¼€å·ç”Ÿæ´»é¢‘é“group-title=å«è§†,å¼€å·ç”Ÿæ´»é¢‘é“
 http://kaixianlive.cbg.cn:10345/5.m3u8
-#EXTINF:-1 tvg-name=ôë½­×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ôë½­×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ç¶¦æ±Ÿç»¼åˆé¢‘é“group-title=å«è§†,ç¶¦æ±Ÿç»¼åˆé¢‘é“
 http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=½­½òĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,½­½òĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ±Ÿæ´¥æ–°é—»ç»¼åˆgroup-title=å«è§†,æ±Ÿæ´¥æ–°é—»ç»¼åˆ
 http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 tvg-name=½­½ò¾­¼ÃÉú»îgroup-title=ÎÀÊÓ,½­½ò¾­¼ÃÉú»î
+#EXTINF:-1 tvg-name=æ±Ÿæ´¥ç»æµç”Ÿæ´»group-title=å«è§†,æ±Ÿæ´¥ç»æµç”Ÿæ´»
 http://jiangjinlive.cbg.cn:1935/ch0.m3u8
-#EXTINF:-1 tvg-name=½­½òÎÄ»¯ÂÃÓÎgroup-title=ÎÀÊÓ,½­½òÎÄ»¯ÂÃÓÎ
+#EXTINF:-1 tvg-name=æ±Ÿæ´¥æ–‡åŒ–æ—…æ¸¸group-title=å«è§†,æ±Ÿæ´¥æ–‡åŒ–æ—…æ¸¸
 http://222.179.155.21:1935/ch2.m3u8
-#EXTINF:-1 tvg-name=ÅíË®ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÅíË®ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å½­æ°´æ–°é—»ç»¼åˆgroup-title=å«è§†,å½­æ°´æ–°é—»ç»¼åˆ
 http://pengshuilive.cbg.cn/pengshui01.m3u8
-#EXTINF:-1 tvg-name=·á¶¼ÎÄ»¯ÂÃÓÎgroup-title=ÎÀÊÓ,·á¶¼ÎÄ»¯ÂÃÓÎ
+#EXTINF:-1 tvg-name=ä¸°éƒ½æ–‡åŒ–æ—…æ¸¸group-title=å«è§†,ä¸°éƒ½æ–‡åŒ–æ—…æ¸¸
 http://125.62.25.201:1936/output0.m3u8
-#EXTINF:-1 tvg-name=ÖÒÏØ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÖÒÏØ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å¿ å¿ç»¼åˆé¢‘é“group-title=å«è§†,å¿ å¿ç»¼åˆé¢‘é“
 http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ç­½­×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,Ç­½­×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é»”æ±Ÿç»¼åˆé¢‘é“group-title=å«è§†,é»”æ±Ÿç»¼åˆé¢‘é“
 http://qianjianglive.cbg.cn:9001/hls/live/live1/starsam.m3u8
-#EXTINF:-1 tvg-name=Ç­½­ÎäÁêÆµµÀgroup-title=ÎÀÊÓ,Ç­½­ÎäÁêÆµµÀ
+#EXTINF:-1 tvg-name=é»”æ±Ÿæ­¦é™µé¢‘é“group-title=å«è§†,é»”æ±Ÿæ­¦é™µé¢‘é“
 http://qianjianglive.cbg.cn:9001/hls/live/live2/starsam.m3u8
-#EXTINF:-1 tvg-name=Ç­½­ÉúÌ¬ÎÄ»¯group-title=ÎÀÊÓ,Ç­½­ÉúÌ¬ÎÄ»¯
+#EXTINF:-1 tvg-name=é»”æ±Ÿç”Ÿæ€æ–‡åŒ–group-title=å«è§†,é»”æ±Ÿç”Ÿæ€æ–‡åŒ–
 http://qianjianglive.cbg.cn:9001/hls/live/live3/starsam.m3u8
-#EXTINF:-1 tvg-name=³Ç¿Ú×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,³Ç¿Ú×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=åŸå£ç»¼åˆé¢‘é“group-title=å«è§†,åŸå£ç»¼åˆé¢‘é“
 http://chengkoulive2.cbg.cn:1935/chengkou01.m3u8
-#EXTINF:-1 tvg-name=ÍòÊ¢ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÍòÊ¢ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä¸‡ç››æ–°é—»ç»¼åˆgroup-title=å«è§†,ä¸‡ç››æ–°é—»ç»¼åˆ
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¸£½¨µ¼ÊÓgroup-title=ÎÀÊÓ,¸£½¨µ¼ÊÓ
+#EXTINF:-1 tvg-name=ç¦å»ºå¯¼è§†group-title=å«è§†,ç¦å»ºå¯¼è§†
 http://fjnh.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¸£Öİ×ÛºÏgroup-title=ÎÀÊÓ,¸£Öİ×ÛºÏ
+#EXTINF:-1 tvg-name=ç¦å·ç»¼åˆgroup-title=å«è§†,ç¦å·ç»¼åˆ
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÓ°ÊÓgroup-title=ÎÀÊÓ,¸£ÖİÓ°ÊÓ
+#EXTINF:-1 tvg-name=ç¦å·å½±è§†group-title=å«è§†,ç¦å·å½±è§†
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÉú»îgroup-title=ÎÀÊÓ,¸£ÖİÉú»î
+#EXTINF:-1 tvg-name=ç¦å·ç”Ÿæ´»group-title=å«è§†,ç¦å·ç”Ÿæ´»
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 tvg-name=¸£ÖİÉÙ¶ùgroup-title=ÎÀÊÓ,¸£ÖİÉÙ¶ù
+#EXTINF:-1 tvg-name=ç¦å·å°‘å„¿group-title=å«è§†,ç¦å·å°‘å„¿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-name=ÈªÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÈªÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ³‰å·æ–°é—»ç»¼åˆgroup-title=å«è§†,æ³‰å·æ–°é—»ç»¼åˆ
 http://live.qztvxwgj.com/live/news.m3u8
-#EXTINF:-1 tvg-name=ÈªÖİÃöÄÏÓïgroup-title=ÎÀÊÓ,ÈªÖİÃöÄÏÓï
+#EXTINF:-1 tvg-name=æ³‰å·é—½å—è¯­group-title=å«è§†,æ³‰å·é—½å—è¯­
 http://live.qztvxwgj.com/live/mny.m3u8
-#EXTINF:-1 tvg-name=ÕÄÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÕÄÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ¼³å·æ–°é—»ç»¼åˆgroup-title=å«è§†,æ¼³å·æ–°é—»ç»¼åˆ
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name=ÈıÃ÷ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÈıÃ÷ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä¸‰æ˜æ–°é—»ç»¼åˆgroup-title=å«è§†,ä¸‰æ˜æ–°é—»ç»¼åˆ
 http://stream.smntv.cn/smtv1/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÈıÃ÷¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ÈıÃ÷¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=ä¸‰æ˜å…¬å…±é¢‘é“group-title=å«è§†,ä¸‰æ˜å…¬å…±é¢‘é“
 http://stream.smntv.cn/smtv2/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÉÏº¼×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÉÏº¼×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ä¸Šæ­ç»¼åˆé¢‘é“group-title=å«è§†,ä¸Šæ­ç»¼åˆé¢‘é“
 http://fjsh.chinashadt.com:1935/live/fjds.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉÛÎäĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ÉÛÎäĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=é‚µæ­¦æ–°é—»é¢‘é“group-title=å«è§†,é‚µæ­¦æ–°é—»é¢‘é“
 http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
-#EXTINF:-1 tvg-name=ĞÂÂŞµçÊÓÒ»Ì×group-title=ÎÀÊÓ,ĞÂÂŞµçÊÓÒ»Ì×
+#EXTINF:-1 tvg-name=æ–°ç½—ç”µè§†ä¸€å¥—group-title=å«è§†,æ–°ç½—ç”µè§†ä¸€å¥—
 http://stream.lyxltv.com/xltv/sd/live.m3u8
-#EXTINF:-1 tvg-name=ĞÂÂŞµçÊÓ¶şÌ×group-title=ÎÀÊÓ,ĞÂÂŞµçÊÓ¶şÌ×
+#EXTINF:-1 tvg-name=æ–°ç½—ç”µè§†äºŒå¥—group-title=å«è§†,æ–°ç½—ç”µè§†äºŒå¥—
 http://stream.lyxltv.com/xinluotv/sd/live.m3u8
-#EXTINF:-1 tvg-name=Äş»¯µçÊÓÒ»Ì×group-title=ÎÀÊÓ,Äş»¯µçÊÓÒ»Ì×
+#EXTINF:-1 tvg-name=å®åŒ–ç”µè§†ä¸€å¥—group-title=å«è§†,å®åŒ–ç”µè§†ä¸€å¥—
 http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=½ú½­ÇÈÏçgroup-title=ÎÀÊÓ,½ú½­ÇÈÏç
+#EXTINF:-1 tvg-name=æ™‹æ±Ÿä¾¨ä¹¡group-title=å«è§†,æ™‹æ±Ÿä¾¨ä¹¡
 http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-name=³¤ÀÖ×ÛºÏgroup-title=ÎÀÊÓ,³¤ÀÖ×ÛºÏ
+#EXTINF:-1 tvg-name=é•¿ä¹ç»¼åˆgroup-title=å«è§†,é•¿ä¹ç»¼åˆ
 http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
-#EXTINF:-1 tvg-name=¸£°²×ÛºÏgroup-title=ÎÀÊÓ,¸£°²×ÛºÏ
+#EXTINF:-1 tvg-name=ç¦å®‰ç»¼åˆgroup-title=å«è§†,ç¦å®‰ç»¼åˆ
 http://r.gslb.lecloud.com/live/hls/2017102030000008116/desc.m3u8
-#EXTINF:-1 tvg-name=¸ÊÄÏ²ØÓïÆµµÀgroup-title=ÎÀÊÓ,¸ÊÄÏ²ØÓïÆµµÀ
+#EXTINF:-1 tvg-name=ç”˜å—è—è¯­é¢‘é“group-title=å«è§†,ç”˜å—è—è¯­é¢‘é“
 http://live.gnrtv.com:9600/live/live2/tzwj_video.m3u8
-#EXTINF:-1 tvg-name=¶Ø»Í×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,¶Ø»Í×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ•¦ç…Œç»¼åˆé¢‘é“group-title=å«è§†,æ•¦ç…Œç»¼åˆé¢‘é“
 http://live.todaydunhuang.com:1935/live/live100/500K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name=ÌìË®ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÌìË®ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å¤©æ°´æ–°é—»ç»¼åˆgroup-title=å«è§†,å¤©æ°´æ–°é—»ç»¼åˆ
 http://61.178.129.74:5021/live_hls/1/playlist.m3u8
-#EXTINF:-1 tvg-name=ÌìË®¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ÌìË®¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å¤©æ°´å…¬å…±é¢‘é“group-title=å«è§†,å¤©æ°´å…¬å…±é¢‘é“
 http://61.178.129.74:5021/live_hls/3/playlist.m3u8
-#EXTINF:-1 tvg-name=Å©ÁÖÎÀÊÓgroup-title=ÎÀÊÓ,Å©ÁÖÎÀÊÓ
+#EXTINF:-1 tvg-name=å†œæ—å«è§†group-title=å«è§†,å†œæ—å«è§†
 http://stream.snrtv.com/sxtvs-nl.m3u8
-#EXTINF:-1 tvg-name=³±°²×ÛºÏgroup-title=ÎÀÊÓ,³±°²×ÛºÏ
+#EXTINF:-1 tvg-name=æ½®å®‰ç»¼åˆgroup-title=å«è§†,æ½®å®‰ç»¼åˆ
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-#EXTINF:-1 tvg-name=³±°²Ó°ÊÓgroup-title=ÎÀÊÓ,³±°²Ó°ÊÓ
+#EXTINF:-1 tvg-name=æ½®å®‰å½±è§†group-title=å«è§†,æ½®å®‰å½±è§†
 http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
-#EXTINF:-1 tvg-name=ÇÕÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÇÕÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é’¦å·ç»¼åˆé¢‘é“group-title=å«è§†,é’¦å·ç»¼åˆé¢‘é“
 http://live.gxqztv.com/cspd1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Ç­Î÷ÄÏ×ÛºÏgroup-title=ÎÀÊÓ,Ç­Î÷ÄÏ×ÛºÏ
+#EXTINF:-1 tvg-name=é»”è¥¿å—ç»¼åˆgroup-title=å«è§†,é»”è¥¿å—ç»¼åˆ
 http://live.qxndt.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Ç­Î÷ÄÏ¹«¹²group-title=ÎÀÊÓ,Ç­Î÷ÄÏ¹«¹²
+#EXTINF:-1 tvg-name=é»”è¥¿å—å…¬å…±group-title=å«è§†,é»”è¥¿å—å…¬å…±
 http://live.qxndt.com/channel3/sd/live.m3u8
-#EXTINF:-1 tvg-name=º£¿ÚĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,º£¿ÚĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æµ·å£æ–°é—»ç»¼åˆgroup-title=å«è§†,æµ·å£æ–°é—»ç»¼åˆ
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKmL4K2dmqqW7KGgn6uWoqk/playlist.m3u8
-#EXTINF:-1 tvg-name=º£¿ÚÉú»îÓéÀÖgroup-title=ÎÀÊÓ,º£¿ÚÉú»îÓéÀÖ
+#EXTINF:-1 tvg-name=æµ·å£ç”Ÿæ´»å¨±ä¹group-title=å«è§†,æµ·å£ç”Ÿæ´»å¨±ä¹
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc/playlist.m3u8
-#EXTINF:-1 tvg-name=º£¿ÚË«´´ÆµµÀgroup-title=ÎÀÊÓ,º£¿ÚË«´´ÆµµÀ
+#EXTINF:-1 tvg-name=æµ·å£åŒåˆ›é¢‘é“group-title=å«è§†,æµ·å£åŒåˆ›é¢‘é“
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU/playlist.m3u8
-#EXTINF:-1 tvg-name=ºâË®Ó°ÊÓÓéÀÖgroup-title=ÎÀÊÓ,ºâË®Ó°ÊÓÓéÀÖ
+#EXTINF:-1 tvg-name=è¡¡æ°´å½±è§†å¨±ä¹group-title=å«è§†,è¡¡æ°´å½±è§†å¨±ä¹
 http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:-1 tvg-name=ºâË®¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ºâË®¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=è¡¡æ°´å…¬å…±é¢‘é“group-title=å«è§†,è¡¡æ°´å…¬å…±é¢‘é“
 http://hls.hsrtv.cn/hls/hstv3.m3u8
-#EXTINF:-1 tvg-name=ÇØ»ÊµºĞÂÎÅgroup-title=ÎÀÊÓ,ÇØ»ÊµºĞÂÎÅ
+#EXTINF:-1 tvg-name=ç§¦çš‡å²›æ–°é—»group-title=å«è§†,ç§¦çš‡å²›æ–°é—»
 http://vod.qhdcm.com:1935/live/qhdtv1/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name=ÇØ»ÊµºÕş·¨group-title=ÎÀÊÓ,ÇØ»ÊµºÕş·¨
+#EXTINF:-1 tvg-name=ç§¦çš‡å²›æ”¿æ³•group-title=å«è§†,ç§¦çš‡å²›æ”¿æ³•
 http://vod.qhdcm.com:1935/live/qhdtv2/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name=ÇØ»ÊµºÓ°ÊÓgroup-title=ÎÀÊÓ,ÇØ»ÊµºÓ°ÊÓ
+#EXTINF:-1 tvg-name=ç§¦çš‡å²›å½±è§†group-title=å«è§†,ç§¦çš‡å²›å½±è§†
 http://vod.qhdcm.com:1935/live/qhdtv3/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name=ĞÁ¼¯ĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ĞÁ¼¯ĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=è¾›é›†æ–°é—»é¢‘é“group-title=å«è§†,è¾›é›†æ–°é—»é¢‘é“
 http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=ĞÁ¼¯Éú»îÆµµÀgroup-title=ÎÀÊÓ,ĞÁ¼¯Éú»îÆµµÀ
+#EXTINF:-1 tvg-name=è¾›é›†ç”Ÿæ´»é¢‘é“group-title=å«è§†,è¾›é›†ç”Ÿæ´»é¢‘é“
 http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=ÔæÇ¿×ÛºÏgroup-title=ÎÀÊÓ,ÔæÇ¿×ÛºÏ
+#EXTINF:-1 tvg-name=æ£å¼ºç»¼åˆgroup-title=å«è§†,æ£å¼ºç»¼åˆ
 http://hbzq.chinashadt.com:1936/live/zaoqiang5.stream_360p/palylist.m3u8
-#EXTINF:-1 tvg-name=¹İÌÕÃÀÀöÏç´ågroup-title=ÎÀÊÓ,¹İÌÕÃÀÀöÏç´å
+#EXTINF:-1 tvg-name=é¦†é™¶ç¾ä¸½ä¹¡æ‘group-title=å«è§†,é¦†é™¶ç¾ä¸½ä¹¡æ‘
 http://hbgt.chinashadt.com:1935/live/stream:mlxc.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name=É³ºÓĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,É³ºÓĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ²™æ²³æ–°é—»ç»¼åˆgroup-title=å«è§†,æ²™æ²³æ–°é—»ç»¼åˆ
 http://hbsh.chinashadt.com:2036/live/1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÎâÇÅ×ÛºÏgroup-title=ÎÀÊÓ,ÎâÇÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å´æ¡¥ç»¼åˆgroup-title=å«è§†,å´æ¡¥ç»¼åˆ
 http://wuqiao.chinashadt.com:2035/live/di5.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÎâÇÅÉú»îgroup-title=ÎÀÊÓ,ÎâÇÅÉú»î
+#EXTINF:-1 tvg-name=å´æ¡¥ç”Ÿæ´»group-title=å«è§†,å´æ¡¥ç”Ÿæ´»
 http://wuqiao.chinashadt.com:2035/live/di6.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÔŞ»Ê×ÛºÏgroup-title=ÎÀÊÓ,ÔŞ»Ê×ÛºÏ
+#EXTINF:-1 tvg-name=èµçš‡ç»¼åˆgroup-title=å«è§†,èµçš‡ç»¼åˆ
 http://hbzz.chinashadt.com:2036/zhibo/4.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=»ÆæèÒ»Ì×group-title=ÎÀÊÓ,»ÆæèÒ»Ì×
+#EXTINF:-1 tvg-name=é»„éª…ä¸€å¥—group-title=å«è§†,é»„éª…ä¸€å¥—
 http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=»Ææè¶şÌ×group-title=ÎÀÊÓ,»Ææè¶şÌ×
+#EXTINF:-1 tvg-name=é»„éª…äºŒå¥—group-title=å«è§†,é»„éª…äºŒå¥—
 http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=»ÆæèÓ°ÊÓgroup-title=ÎÀÊÓ,»ÆæèÓ°ÊÓ
+#EXTINF:-1 tvg-name=é»„éª…å½±è§†group-title=å«è§†,é»„éª…å½±è§†
 http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=»Ææè»¥¶¯group-title=ÎÀÊÓ,»Ææè»¥¶¯
+#EXTINF:-1 tvg-name=é»„éª…äº’åŠ¨group-title=å«è§†,é»„éª…äº’åŠ¨
 http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ç¨°²ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Ç¨°²ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=è¿å®‰æ–°é—»ç»¼åˆgroup-title=å«è§†,è¿å®‰æ–°é—»ç»¼åˆ
 http://app.qatv.cn:1936/live/stream:xwzh.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name=Ç¨°²Éú»îÓ°ÊÓgroup-title=ÎÀÊÓ,Ç¨°²Éú»îÓ°ÊÓ
+#EXTINF:-1 tvg-name=è¿å®‰ç”Ÿæ´»å½±è§†group-title=å«è§†,è¿å®‰ç”Ÿæ´»å½±è§†
 http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name=Ç¨°²¿ìÀÖ3ÆµµÀgroup-title=ÎÀÊÓ,Ç¨°²¿ìÀÖ3ÆµµÀ
+#EXTINF:-1 tvg-name=è¿å®‰å¿«ä¹3é¢‘é“group-title=å«è§†,è¿å®‰å¿«ä¹3é¢‘é“
 http://app.qatv.cn:1936/live/stream:kl3pd.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name=ÓÀÄêÃñÉúÆµµÀgroup-title=ÎÀÊÓ,ÓÀÄêÃñÉúÆµµÀ
+#EXTINF:-1 tvg-name=æ°¸å¹´æ°‘ç”Ÿé¢‘é“group-title=å«è§†,æ°¸å¹´æ°‘ç”Ÿé¢‘é“
 http://hbyn.chinashadt.com:1936/live/stream:ynms.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=ÓÀÄê½¡¿µÆµµÀgroup-title=ÎÀÊÓ,ÓÀÄê½¡¿µÆµµÀ
+#EXTINF:-1 tvg-name=æ°¸å¹´å¥åº·é¢‘é“group-title=å«è§†,æ°¸å¹´å¥åº·é¢‘é“
 http://hbyn.chinashadt.com:1936/live/stream:ynjk.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¡»¯×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,Â¡»¯×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=éš†åŒ–ç»¼åˆé¢‘é“group-title=å«è§†,éš†åŒ–ç»¼åˆé¢‘é“
 http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¡»¯Ó°ÊÓÆµµÀgroup-title=ÎÀÊÓ,Â¡»¯Ó°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=éš†åŒ–å½±è§†é¢‘é“group-title=å«è§†,éš†åŒ–å½±è§†é¢‘é“
 http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=²×ÏØµçÊÓ×ÛºÏgroup-title=ÎÀÊÓ,²×ÏØµçÊÓ×ÛºÏ
+#EXTINF:-1 tvg-name=æ²§å¿ç”µè§†ç»¼åˆgroup-title=å«è§†,æ²§å¿ç”µè§†ç»¼åˆ
 http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=°ÔÖİĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,°ÔÖİĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=éœ¸å·æ–°é—»é¢‘é“group-title=å«è§†,éœ¸å·æ–°é—»é¢‘é“
 http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=°ÔÖİÎÄ»¯ÆµµÀgroup-title=ÎÀÊÓ,°ÔÖİÎÄ»¯ÆµµÀ
+#EXTINF:-1 tvg-name=éœ¸å·æ–‡åŒ–é¢‘é“group-title=å«è§†,éœ¸å·æ–‡åŒ–é¢‘é“
 http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=°ÔÖİ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,°ÔÖİ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=éœ¸å·å…¬å…±é¢‘é“group-title=å«è§†,éœ¸å·å…¬å…±é¢‘é“
 http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=°ÔÖİÉÙ¶ùÆµµÀgroup-title=ÎÀÊÓ,°ÔÖİÉÙ¶ùÆµµÀ
+#EXTINF:-1 tvg-name=éœ¸å·å°‘å„¿é¢‘é“group-title=å«è§†,éœ¸å·å°‘å„¿é¢‘é“
 http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÂĞÏØ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÂĞÏØ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ»¦å¿ç»¼åˆé¢‘é“group-title=å«è§†,æ»¦å¿ç»¼åˆé¢‘é“
 http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÂĞÏØ×ÛÒÕÆµµÀgroup-title=ÎÀÊÓ,ÂĞÏØ×ÛÒÕÆµµÀ
+#EXTINF:-1 tvg-name=æ»¦å¿ç»¼è‰ºé¢‘é“group-title=å«è§†,æ»¦å¿ç»¼è‰ºé¢‘é“
 http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¸ß±®µêÒ»Ì×group-title=ÎÀÊÓ,¸ß±®µêÒ»Ì×
+#EXTINF:-1 tvg-name=é«˜ç¢‘åº—ä¸€å¥—group-title=å«è§†,é«˜ç¢‘åº—ä¸€å¥—
 http://34540.hlsplay.aodianyun.com/guangdianyun_34540/tv_channel_206.m3u8
-#EXTINF:-1 tvg-name=Â¹ÈªÒ»Ì×group-title=ÎÀÊÓ,Â¹ÈªÒ»Ì×
+#EXTINF:-1 tvg-name=é¹¿æ³‰ä¸€å¥—group-title=å«è§†,é¹¿æ³‰ä¸€å¥—
 http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÕÔÏØµçÊÓÒ»Ì×group-title=ÎÀÊÓ,ÕÔÏØµçÊÓÒ»Ì×
+#EXTINF:-1 tvg-name=èµµå¿ç”µè§†ä¸€å¥—group-title=å«è§†,èµµå¿ç”µè§†ä¸€å¥—
 http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=½úÖİĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,½úÖİĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=æ™‹å·æ–°é—»é¢‘é“group-title=å«è§†,æ™‹å·æ–°é—»é¢‘é“
 http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉîÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÉîÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ·±å·ç»¼åˆé¢‘é“group-title=å«è§†,æ·±å·ç»¼åˆé¢‘é“
 http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¾°ÏØµçÊÓ¶şÌ×group-title=ÎÀÊÓ,¾°ÏØµçÊÓ¶şÌ×
+#EXTINF:-1 tvg-name=æ™¯å¿ç”µè§†äºŒå¥—group-title=å«è§†,æ™¯å¿ç”µè§†äºŒå¥—
 http://hbjx.chinashadt.com:1935/live/stream:jx2.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=Ö£Öİ½ÌÓıÆµµÀgroup-title=ÎÀÊÓ,Ö£Öİ½ÌÓıÆµµÀ
+#EXTINF:-1 tvg-name=éƒ‘å·æ•™è‚²é¢‘é“group-title=å«è§†,éƒ‘å·æ•™è‚²é¢‘é“
 http://218.28.177.199:1935/live/mp4:500k/playlist.m3u8
-#EXTINF:-1 tvg-name=ÂåÑô×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÂåÑô×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ´›é˜³ç»¼åˆé¢‘é“group-title=å«è§†,æ´›é˜³ç»¼åˆé¢‘é“
 http://live1.lytv.com.cn:1935/live/LYTV1-2/playlist.m3u8
-#EXTINF:-1 tvg-name=ÂåÑô¿Æ½ÌÆµµÀgroup-title=ÎÀÊÓ,ÂåÑô¿Æ½ÌÆµµÀ
+#EXTINF:-1 tvg-name=æ´›é˜³ç§‘æ•™é¢‘é“group-title=å«è§†,æ´›é˜³ç§‘æ•™é¢‘é“
 http://live2.lytv.com.cn:1935/live/LYTV2-1/playlist.m3u8
-#EXTINF:-1 tvg-name=ÂåÑô¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ÂåÑô¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=æ´›é˜³å…¬å…±é¢‘é“group-title=å«è§†,æ´›é˜³å…¬å…±é¢‘é“
 http://live2.lytv.com.cn:1935/live/LYTV3-1/playlist.m3u8
-#EXTINF:-1 tvg-name=º×±Ú×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,º×±Ú×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é¹¤å£ç»¼åˆé¢‘é“group-title=å«è§†,é¹¤å£ç»¼åˆé¢‘é“
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1 tvg-name=Çå·áÓĞÏßÆµµÀgroup-title=ÎÀÊÓ,Çå·áÓĞÏßÆµµÀ
+#EXTINF:-1 tvg-name=æ¸…ä¸°æœ‰çº¿é¢‘é“group-title=å«è§†,æ¸…ä¸°æœ‰çº¿é¢‘é“
 http://hnqf.chinashadt.com:2036/live/2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Çå·áµ³½¨ÆµµÀgroup-title=ÎÀÊÓ,Çå·áµ³½¨ÆµµÀ
+#EXTINF:-1 tvg-name=æ¸…ä¸°å…šå»ºé¢‘é“group-title=å«è§†,æ¸…ä¸°å…šå»ºé¢‘é“
 http://hnqf.chinashadt.com:2036/live/4.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¾£ÖİĞÂÎÅgroup-title=ÎÀÊÓ,¾£ÖİĞÂÎÅ
+#EXTINF:-1 tvg-name=è†å·æ–°é—»group-title=å«è§†,è†å·æ–°é—»
 http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_216.m3u8
-#EXTINF:-1 tvg-name=¾£ÖİÂ¢ÉÏgroup-title=ÎÀÊÓ,¾£ÖİÂ¢ÉÏ
+#EXTINF:-1 tvg-name=è†å·å„ä¸Šgroup-title=å«è§†,è†å·å„ä¸Š
 http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_325.m3u8
-#EXTINF:-1 tvg-name=ÏåÑô×ÛºÏgroup-title=ÎÀÊÓ,ÏåÑô×ÛºÏ
+#EXTINF:-1 tvg-name=è¥„é˜³ç»¼åˆgroup-title=å«è§†,è¥„é˜³ç»¼åˆ
 http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
-#EXTINF:-1 tvg-name=ÏåÑô¹«¹²group-title=ÎÀÊÓ,ÏåÑô¹«¹²
+#EXTINF:-1 tvg-name=è¥„é˜³å…¬å…±group-title=å«è§†,è¥„é˜³å…¬å…±
 http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
-#EXTINF:-1 tvg-name=¶÷Ê©×ÛºÏgroup-title=ÎÀÊÓ,¶÷Ê©×ÛºÏ
+#EXTINF:-1 tvg-name=æ©æ–½ç»¼åˆgroup-title=å«è§†,æ©æ–½ç»¼åˆ
 http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
-#EXTINF:-1 tvg-name=¶÷Ê©¹«¹²group-title=ÎÀÊÓ,¶÷Ê©¹«¹²
+#EXTINF:-1 tvg-name=æ©æ–½å…¬å…±group-title=å«è§†,æ©æ–½å…¬å…±
 http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
-#EXTINF:-1 tvg-name=Ğ¢¸ĞĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Ğ¢¸ĞĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å­æ„Ÿæ–°é—»ç»¼åˆgroup-title=å«è§†,å­æ„Ÿæ–°é—»ç»¼åˆ
 http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
-#EXTINF:-1 tvg-name=Ğ¢¸Ğ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Ğ¢¸Ğ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å­æ„Ÿå…¬å…±é¢‘é“group-title=å«è§†,å­æ„Ÿå…¬å…±é¢‘é“
 http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
-#EXTINF:-1 tvg-name=»Æ¸ÔĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,»Æ¸ÔĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=é»„å†ˆæ–°é—»é¢‘é“group-title=å«è§†,é»„å†ˆæ–°é—»é¢‘é“
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1 tvg-name=»Æ¸Ô¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,»Æ¸Ô¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=é»„å†ˆå…¬å…±é¢‘é“group-title=å«è§†,é»„å†ˆå…¬å…±é¢‘é“
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
-#EXTINF:-1 tvg-name=ÏÉÌÒÉú»îÎÄÌågroup-title=ÎÀÊÓ,ÏÉÌÒÉú»îÎÄÌå
+#EXTINF:-1 tvg-name=ä»™æ¡ƒç”Ÿæ´»æ–‡ä½“group-title=å«è§†,ä»™æ¡ƒç”Ÿæ´»æ–‡ä½“
 http://36979.hlsplay.aodianyun.com/guangdianyun_36979/tv_channel_510.m3u8
-#EXTINF:-1 tvg-name=ÏÌÄş×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÏÌÄş×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å’¸å®ç»¼åˆé¢‘é“group-title=å«è§†,å’¸å®ç»¼åˆé¢‘é“
 http://xianning.live.cjyun.org/video/s10140-XNTV-1/index.m3u8
-#EXTINF:-1 tvg-name=Àû´¨ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Àû´¨ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=åˆ©å·æ–°é—»ç»¼åˆgroup-title=å«è§†,åˆ©å·æ–°é—»ç»¼åˆ
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lczh.m3u8
-#EXTINF:-1 tvg-name=Àû´¨¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Àû´¨¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=åˆ©å·å…¬å…±é¢‘é“group-title=å«è§†,åˆ©å·å…¬å…±é¢‘é“
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
-#EXTINF:-1 tvg-name=Ğ¢²ıĞÂÎÅµ³½¨group-title=ÎÀÊÓ,Ğ¢²ıĞÂÎÅµ³½¨
+#EXTINF:-1 tvg-name=å­æ˜Œæ–°é—»å…šå»ºgroup-title=å«è§†,å­æ˜Œæ–°é—»å…šå»º
 http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
-#EXTINF:-1 tvg-name=Ğ¢²ıÉú»îÆµµÀgroup-title=ÎÀÊÓ,Ğ¢²ıÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=å­æ˜Œç”Ÿæ´»é¢‘é“group-title=å«è§†,å­æ˜Œç”Ÿæ´»é¢‘é“
 http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
-#EXTINF:-1 tvg-name=ÂŞÌï×ÛºÏgroup-title=ÎÀÊÓ,ÂŞÌï×ÛºÏ
+#EXTINF:-1 tvg-name=ç½—ç”°ç»¼åˆgroup-title=å«è§†,ç½—ç”°ç»¼åˆ
 http://luotian.live.cjyun.org/video/s10013-LTZH/index.m3u8
-#EXTINF:-1 tvg-name=ÂŞÌïÂÃÓÎgroup-title=ÎÀÊÓ,ÂŞÌïÂÃÓÎ
+#EXTINF:-1 tvg-name=ç½—ç”°æ—…æ¸¸group-title=å«è§†,ç½—ç”°æ—…æ¸¸
 http://luotian.live.cjyun.org/video/s10013-LTLY/index.m3u8
-#EXTINF:-1 tvg-name=ºì°²×ÛºÏgroup-title=ÎÀÊÓ,ºì°²×ÛºÏ
+#EXTINF:-1 tvg-name=çº¢å®‰ç»¼åˆgroup-title=å«è§†,çº¢å®‰ç»¼åˆ
 http://hongan.live.cjyun.org/video/s10063-HAZH.m3u8
-#EXTINF:-1 tvg-name=´óÎò×ÛºÏgroup-title=ÎÀÊÓ,´óÎò×ÛºÏ
+#EXTINF:-1 tvg-name=å¤§æ‚Ÿç»¼åˆgroup-title=å«è§†,å¤§æ‚Ÿç»¼åˆ
 http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
-#EXTINF:-1 tvg-name=Ó¦³ÇĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Ó¦³ÇĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=åº”åŸæ–°é—»ç»¼åˆgroup-title=å«è§†,åº”åŸæ–°é—»ç»¼åˆ
 http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
-#EXTINF:-1 tvg-name=Ó¦³ÇÉú»îÆµµÀgroup-title=ÎÀÊÓ,Ó¦³ÇÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=åº”åŸç”Ÿæ´»é¢‘é“group-title=å«è§†,åº”åŸç”Ÿæ´»é¢‘é“
 http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
-#EXTINF:-1 tvg-name=ïö¹éĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ïö¹éĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ç§­å½’æ–°é—»ç»¼åˆgroup-title=å«è§†,ç§­å½’æ–°é—»ç»¼åˆ
 http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
-#EXTINF:-1 tvg-name=´óÒ±Ò»Ì×group-title=ÎÀÊÓ,´óÒ±Ò»Ì×
+#EXTINF:-1 tvg-name=å¤§å†¶ä¸€å¥—group-title=å«è§†,å¤§å†¶ä¸€å¥—
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-#EXTINF:-1 tvg-name=´óÒ±¶şÌ×group-title=ÎÀÊÓ,´óÒ±¶şÌ×
+#EXTINF:-1 tvg-name=å¤§å†¶äºŒå¥—group-title=å«è§†,å¤§å†¶äºŒå¥—
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
-#EXTINF:-1 tvg-name=¼ÎÓãĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,¼ÎÓãĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å˜‰é±¼æ–°é—»ç»¼åˆgroup-title=å«è§†,å˜‰é±¼æ–°é—»ç»¼åˆ
 http://jiayu.live.tempsource.cjyun.org/videotmp/s10131-jyzh.m3u8
-#EXTINF:-1 tvg-name=º×·å×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,º×·å×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é¹¤å³°ç»¼åˆé¢‘é“group-title=å«è§†,é¹¤å³°ç»¼åˆé¢‘é“
 http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
-#EXTINF:-1 tvg-name=ÒÄÁê×ÛºÏgroup-title=ÎÀÊÓ,ÒÄÁê×ÛºÏ
+#EXTINF:-1 tvg-name=å¤·é™µç»¼åˆgroup-title=å«è§†,å¤·é™µç»¼åˆ
 http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
-#EXTINF:-1 tvg-name=¹ãË®ĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,¹ãË®ĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=å¹¿æ°´æ–°é—»é¢‘é“group-title=å«è§†,å¹¿æ°´æ–°é—»é¢‘é“
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 tvg-name=ÔÆÃÎ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÔÆÃÎ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=äº‘æ¢¦ç»¼åˆé¢‘é“group-title=å«è§†,äº‘æ¢¦ç»¼åˆé¢‘é“
 http://yunshangyunmeng.live.cjyun.org/video/s10130-ymzh.m3u8
-#EXTINF:-1 tvg-name=ÔÆÃÎµ³½¨Å©Òµgroup-title=ÎÀÊÓ,ÔÆÃÎµ³½¨Å©Òµ
+#EXTINF:-1 tvg-name=äº‘æ¢¦å…šå»ºå†œä¸šgroup-title=å«è§†,äº‘æ¢¦å…šå»ºå†œä¸š
 http://yunshangyunmeng.live.cjyun.org/video/s10130-ymdjny.m3u8
-#EXTINF:-1 tvg-name=ÖêÖŞĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÖêÖŞĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ ªæ´²æ–°é—»ç»¼åˆgroup-title=å«è§†,æ ªæ´²æ–°é—»ç»¼åˆ
 http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¦µ××ÛºÏÆµµÀgroup-title=ÎÀÊÓ,Â¦µ××ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å¨„åº•ç»¼åˆé¢‘é“group-title=å«è§†,å¨„åº•ç»¼åˆé¢‘é“
 http://218.77.102.118:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name=Â¦µ×¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Â¦µ×¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å¨„åº•å…¬å…±é¢‘é“group-title=å«è§†,å¨„åº•å…¬å…±é¢‘é“
 http://218.77.102.118:1935/live/gonggong/playlist.m3u8
-#EXTINF:-1 tvg-name=ÒËÕÂĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÒËÕÂĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å®œç« æ–°é—»ç»¼åˆgroup-title=å«è§†,å®œç« æ–°é—»ç»¼åˆ
 http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÒËÕÂÉç»á·¨ÖÆgroup-title=ÎÀÊÓ,ÒËÕÂÉç»á·¨ÖÆ
+#EXTINF:-1 tvg-name=å®œç« ç¤¾ä¼šæ³•åˆ¶group-title=å«è§†,å®œç« ç¤¾ä¼šæ³•åˆ¶
 http://hnyz.chinashadt.com:2036/live/stream:tv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÉÛ¶«×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÉÛ¶«×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é‚µä¸œç»¼åˆé¢‘é“group-title=å«è§†,é‚µä¸œç»¼åˆé¢‘é“
 http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ë«·åµçÊÓÒ»Ì×group-title=ÎÀÊÓ,Ë«·åµçÊÓÒ»Ì×
+#EXTINF:-1 tvg-name=åŒå³°ç”µè§†ä¸€å¥—group-title=å«è§†,åŒå³°ç”µè§†ä¸€å¥—
 http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÄÏ¾©ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å—äº¬æ–°é—»ç»¼åˆgroup-title=å«è§†,å—äº¬æ–°é—»ç»¼åˆ
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©Ó°ÊÓgroup-title=ÎÀÊÓ,ÄÏ¾©Ó°ÊÓ
+#EXTINF:-1 tvg-name=å—äº¬å½±è§†group-title=å«è§†,å—äº¬å½±è§†
 http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©Éú»îgroup-title=ÎÀÊÓ,ÄÏ¾©Éú»î
+#EXTINF:-1 tvg-name=å—äº¬ç”Ÿæ´»group-title=å«è§†,å—äº¬ç”Ÿæ´»
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©ÓéÀÖgroup-title=ÎÀÊÓ,ÄÏ¾©ÓéÀÖ
+#EXTINF:-1 tvg-name=å—äº¬å¨±ä¹group-title=å«è§†,å—äº¬å¨±ä¹
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©Ê®°Ëgroup-title=ÎÀÊÓ,ÄÏ¾©Ê®°Ë
+#EXTINF:-1 tvg-name=å—äº¬åå…«group-title=å«è§†,å—äº¬åå…«
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©ÉÙ¶ùgroup-title=ÎÀÊÓ,ÄÏ¾©ÉÙ¶ù
+#EXTINF:-1 tvg-name=å—äº¬å°‘å„¿group-title=å«è§†,å—äº¬å°‘å„¿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name=ÎŞÎıÉú»îgroup-title=ÎÀÊÓ,ÎŞÎıÉú»î
+#EXTINF:-1 tvg-name=æ— é”¡ç”Ÿæ´»group-title=å«è§†,æ— é”¡ç”Ÿæ´»
 http://live-wx.wifiwx.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÕÅ¼Ò¸ÛĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÕÅ¼Ò¸ÛĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å¼ å®¶æ¸¯æ–°é—»ç»¼åˆgroup-title=å«è§†,å¼ å®¶æ¸¯æ–°é—»ç»¼åˆ
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 tvg-name=ÕÅ¼Ò¸ÛÉç»áÉú»îgroup-title=ÎÀÊÓ,ÕÅ¼Ò¸ÛÉç»áÉú»î
+#EXTINF:-1 tvg-name=å¼ å®¶æ¸¯ç¤¾ä¼šç”Ÿæ´»group-title=å«è§†,å¼ å®¶æ¸¯ç¤¾ä¼šç”Ÿæ´»
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 tvg-name=½­ÒõĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,½­ÒõĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ±Ÿé˜´æ–°é—»ç»¼åˆgroup-title=å«è§†,æ±Ÿé˜´æ–°é—»ç»¼åˆ
 http://w3.wifijiangyin.com:1936/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1 tvg-name=½­ÒõÃñÉúÆµµÀgroup-title=ÎÀÊÓ,½­ÒõÃñÉúÆµµÀ
+#EXTINF:-1 tvg-name=æ±Ÿé˜´æ°‘ç”Ÿé¢‘é“group-title=å«è§†,æ±Ÿé˜´æ°‘ç”Ÿé¢‘é“
 http://w3.wifijiangyin.com:1936/live/mspd_gq/playlist.m3u8
-#EXTINF:-1 tvg-name=ÒËĞËĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ÒËĞËĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=å®œå…´æ–°é—»é¢‘é“group-title=å«è§†,å®œå…´æ–°é—»é¢‘é“
 http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
-#EXTINF:-1 tvg-name=ÚüÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÚüÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é‚³å·ç»¼åˆé¢‘é“group-title=å«è§†,é‚³å·ç»¼åˆé¢‘é“
 http://stream.pznews.com/pztv1/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÚüÖİ×ÛÒÕÆµµÀgroup-title=ÎÀÊÓ,ÚüÖİ×ÛÒÕÆµµÀ
+#EXTINF:-1 tvg-name=é‚³å·ç»¼è‰ºé¢‘é“group-title=å«è§†,é‚³å·ç»¼è‰ºé¢‘é“
 http://stream.pznews.com/pztv2/sd/live.m3u8
-#EXTINF:-1 tvg-name=¾äÈİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,¾äÈİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å¥å®¹æ–°é—»ç»¼åˆgroup-title=å«è§†,å¥å®¹æ–°é—»ç»¼åˆ
 http://218.3.92.100:1937/live/jrxwzh/playlist.m3u8
-#EXTINF:-1 tvg-name=¾äÈİÉú»îÆµµÀgroup-title=ÎÀÊÓ,¾äÈİÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=å¥å®¹ç”Ÿæ´»é¢‘é“group-title=å«è§†,å¥å®¹ç”Ÿæ´»é¢‘é“
 http://218.3.92.100:1937/live/shenghuo/playlist.m3u8
-#EXTINF:-1 tvg-name=¾äÈİÓ°ÊÓÆµµÀgroup-title=ÎÀÊÓ,¾äÈİÓ°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=å¥å®¹å½±è§†é¢‘é“group-title=å«è§†,å¥å®¹å½±è§†é¢‘é“
 http://218.3.92.100:1937/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-name=î¡Äş×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,î¡Äş×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ç¢å®ç»¼åˆé¢‘é“group-title=å«è§†,ç¢å®ç»¼åˆé¢‘é“
 http://jssn.chinashadt.com:2036/live/1002.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=î¡ÄşÉú»î½ÌÓıgroup-title=ÎÀÊÓ,î¡ÄşÉú»î½ÌÓı
+#EXTINF:-1 tvg-name=ç¢å®ç”Ÿæ´»æ•™è‚²group-title=å«è§†,ç¢å®ç”Ÿæ´»æ•™è‚²
 http://jssn.chinashadt.com:2036/live/1003.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=î¡ÄşÈıÅ©ÆµµÀgroup-title=ÎÀÊÓ,î¡ÄşÈıÅ©ÆµµÀ
+#EXTINF:-1 tvg-name=ç¢å®ä¸‰å†œé¢‘é“group-title=å«è§†,ç¢å®ä¸‰å†œé¢‘é“
 http://jssn.chinashadt.com:2036/live/1004.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=î¡Äş×ÊÑ¶ÆµµÀgroup-title=ÎÀÊÓ,î¡Äş×ÊÑ¶ÆµµÀ
+#EXTINF:-1 tvg-name=ç¢å®èµ„è®¯é¢‘é“group-title=å«è§†,ç¢å®èµ„è®¯é¢‘é“
 http://jssn.chinashadt.com:2036/live/1005.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ì©ĞËĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,Ì©ĞËĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=æ³°å…´æ–°é—»é¢‘é“group-title=å«è§†,æ³°å…´æ–°é—»é¢‘é“
 http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
-#EXTINF:-1 tvg-name=¾¸½­ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,¾¸½­ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é–æ±Ÿæ–°é—»ç»¼åˆgroup-title=å«è§†,é–æ±Ÿæ–°é—»ç»¼åˆ
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:-1 tvg-name=±õº£ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,±õº£ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ»¨æµ·æ–°é—»ç»¼åˆgroup-title=å«è§†,æ»¨æµ·æ–°é—»ç»¼åˆ
 http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=±¦Ó¦ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,±¦Ó¦ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å®åº”æ–°é—»ç»¼åˆgroup-title=å«è§†,å®åº”æ–°é—»ç»¼åˆ
 http://jsby.chinashadt.com:2035/live/by1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=±¦Ó¦Éú»î×ÊÑ¶group-title=ÎÀÊÓ,±¦Ó¦Éú»î×ÊÑ¶
+#EXTINF:-1 tvg-name=å®åº”ç”Ÿæ´»èµ„è®¯group-title=å«è§†,å®åº”ç”Ÿæ´»èµ„è®¯
 http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÆÜÏ¼ĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ÆÜÏ¼ĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=æ –éœæ–°é—»é¢‘é“group-title=å«è§†,æ –éœæ–°é—»é¢‘é“
 http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
-#EXTINF:-1 tvg-name=¸§Öİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,¸§Öİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æŠšå·ç»¼åˆé¢‘é“group-title=å«è§†,æŠšå·ç»¼åˆé¢‘é“
 http://111.75.179.195:30767/video/live_vide.m3u8
-#EXTINF:-1 tvg-name=µÂĞËĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,µÂĞËĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å¾·å…´æ–°é—»ç»¼åˆgroup-title=å«è§†,å¾·å…´æ–°é—»ç»¼åˆ
 http://218.64.168.174:5011/vod/hls/c01/live.m3u8
-#EXTINF:-1 tvg-name=Ô¬Öİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,Ô¬Öİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=è¢å·ç»¼åˆé¢‘é“group-title=å«è§†,è¢å·ç»¼åˆé¢‘é“
 http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8
-#EXTINF:-1 tvg-name=ÓÀĞÂµçÊÓÒ»Ì×group-title=ÎÀÊÓ,ÓÀĞÂµçÊÓÒ»Ì×
+#EXTINF:-1 tvg-name=æ°¸æ–°ç”µè§†ä¸€å¥—group-title=å«è§†,æ°¸æ–°ç”µè§†ä¸€å¥—
 http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÓÀĞÂµçÊÓ¶şÌ×group-title=ÎÀÊÓ,ÓÀĞÂµçÊÓ¶şÌ×
+#EXTINF:-1 tvg-name=æ°¸æ–°ç”µè§†äºŒå¥—group-title=å«è§†,æ°¸æ–°ç”µè§†äºŒå¥—
 http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÍòÔØ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÍòÔØ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ä¸‡è½½ç»¼åˆé¢‘é“group-title=å«è§†,ä¸‡è½½ç»¼åˆé¢‘é“
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=¼ªÁÖ½ÌÓıgroup-title=ÎÀÊÓ,¼ªÁÖ½ÌÓı
+#EXTINF:-1 tvg-name=å‰æ—æ•™è‚²group-title=å«è§†,å‰æ—æ•™è‚²
 http://stream1.jletv.cn/jljy/sd/live.m3u8
-#EXTINF:-1 tvg-name=³¤´ºÓéÀÖgroup-title=ÎÀÊÓ,³¤´ºÓéÀÖ
+#EXTINF:-1 tvg-name=é•¿æ˜¥å¨±ä¹group-title=å«è§†,é•¿æ˜¥å¨±ä¹
 http://stream.chinactv.com/ctv2/sd/live.m3u8
-#EXTINF:-1 tvg-name=³¤´ºÊĞÃñgroup-title=ÎÀÊÓ,³¤´ºÊĞÃñ
+#EXTINF:-1 tvg-name=é•¿æ˜¥å¸‚æ°‘group-title=å«è§†,é•¿æ˜¥å¸‚æ°‘
 http://stream.chinactv.com/ctv3/sd/live.m3u8
-#EXTINF:-1 tvg-name=³¤´ºÉÌÒµgroup-title=ÎÀÊÓ,³¤´ºÉÌÒµ
+#EXTINF:-1 tvg-name=é•¿æ˜¥å•†ä¸šgroup-title=å«è§†,é•¿æ˜¥å•†ä¸š
 http://stream.chinactv.com/ctv4/sd/live.m3u8
-#EXTINF:-1 tvg-name=³¤´ºĞÂÖªgroup-title=ÎÀÊÓ,³¤´ºĞÂÖª
+#EXTINF:-1 tvg-name=é•¿æ˜¥æ–°çŸ¥group-title=å«è§†,é•¿æ˜¥æ–°çŸ¥
 http://stream.chinactv.com/ctv5/sd/live.m3u8
-#EXTINF:-1 tvg-name=Í¨»¯ĞÂÎÅgroup-title=ÎÀÊÓ,Í¨»¯ĞÂÎÅ
+#EXTINF:-1 tvg-name=é€šåŒ–æ–°é—»group-title=å«è§†,é€šåŒ–æ–°é—»
 http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ªÁÖÊĞĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,¼ªÁÖÊĞĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å‰æ—å¸‚æ–°é—»ç»¼åˆgroup-title=å«è§†,å‰æ—å¸‚æ–°é—»ç»¼åˆ
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Å©°²ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Å©°²ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å†œå®‰æ–°é—»ç»¼åˆgroup-title=å«è§†,å†œå®‰æ–°é—»ç»¼åˆ
 http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 tvg-name=°°É½Í¼ÎÄÆµµÀgroup-title=ÎÀÊÓ,°°É½Í¼ÎÄÆµµÀ
+#EXTINF:-1 tvg-name=éå±±å›¾æ–‡é¢‘é“group-title=å«è§†,éå±±å›¾æ–‡é¢‘é“
 http://live2.asbctv.com:8134/hls-live/livepkgr/_definst_/liveevent/3GtPeVD2t6OWb3SFZxUQL6FW0X7ojmndKJS9fdRjpdhgB71.m3u8
-#EXTINF:-1 tvg-name=Òø´¨Éú»îgroup-title=ÎÀÊÓ,Òø´¨Éú»î
+#EXTINF:-1 tvg-name=é“¶å·ç”Ÿæ´»group-title=å«è§†,é“¶å·ç”Ÿæ´»
 http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-#EXTINF:-1 tvg-name=°²¶àÎÀÊÓgroup-title=ÎÀÊÓ,°²¶àÎÀÊÓ
+#EXTINF:-1 tvg-name=å®‰å¤šå«è§†group-title=å«è§†,å®‰å¤šå«è§†
 http://118.122.239.157:1235/hls/hd-live.m3u8
-#EXTINF:-1 tvg-name=º£ÄÏÖİ²ØÓïÆµµÀgroup-title=ÎÀÊÓ,º£ÄÏÖİ²ØÓïÆµµÀ
+#EXTINF:-1 tvg-name=æµ·å—å·è—è¯­é¢‘é“group-title=å«è§†,æµ·å—å·è—è¯­é¢‘é“
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name=º£Î÷Öİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,º£Î÷Öİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æµ·è¥¿å·ç»¼åˆé¢‘é“group-title=å«è§†,æµ·è¥¿å·ç»¼åˆé¢‘é“
 http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Î÷°²ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=è¥¿å®‰æ–°é—»ç»¼åˆgroup-title=å«è§†,è¥¿å®‰æ–°é—»ç»¼åˆ
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²°×¸ë¶¼ÊĞgroup-title=ÎÀÊÓ,Î÷°²°×¸ë¶¼ÊĞ
+#EXTINF:-1 tvg-name=è¥¿å®‰ç™½é¸½éƒ½å¸‚group-title=å«è§†,è¥¿å®‰ç™½é¸½éƒ½å¸‚
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²ÎÄ»¯Ó°ÊÓgroup-title=ÎÀÊÓ,Î÷°²ÎÄ»¯Ó°ÊÓ
+#EXTINF:-1 tvg-name=è¥¿å®‰æ–‡åŒ–å½±è§†group-title=å«è§†,è¥¿å®‰æ–‡åŒ–å½±è§†
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-name=Î÷°²Ë¿Â·ÆµµÀgroup-title=ÎÀÊÓ,Î÷°²Ë¿Â·ÆµµÀ
+#EXTINF:-1 tvg-name=è¥¿å®‰ä¸è·¯é¢‘é“group-title=å«è§†,è¥¿å®‰ä¸è·¯é¢‘é“
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-name=Ôæ×¯½ÌÓıÆµµÀgroup-title=ÎÀÊÓ,Ôæ×¯½ÌÓıÆµµÀ
+#EXTINF:-1 tvg-name=æ£åº„æ•™è‚²é¢‘é“group-title=å«è§†,æ£åº„æ•™è‚²é¢‘é“
 http://stream.zzgd.tv/2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Ôæ×¯¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,Ôæ×¯¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=æ£åº„å…¬å…±é¢‘é“group-title=å«è§†,æ£åº„å…¬å…±é¢‘é“
 http://stream.zzgd.tv/3/sd/live.m3u8
-#EXTINF:-1 tvg-name=¶«Óª×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,¶«Óª×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ä¸œè¥ç»¼åˆé¢‘é“group-title=å«è§†,ä¸œè¥ç»¼åˆé¢‘é“
 http://stream.hhek.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name=¶«Óª¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,¶«Óª¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=ä¸œè¥å…¬å…±é¢‘é“group-title=å«è§†,ä¸œè¥å…¬å…±é¢‘é“
 http://stream.hhek.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¶«Óª¿Æ½ÌÆµµÀgroup-title=ÎÀÊÓ,¶«Óª¿Æ½ÌÆµµÀ
+#EXTINF:-1 tvg-name=ä¸œè¥ç§‘æ•™é¢‘é“group-title=å«è§†,ä¸œè¥ç§‘æ•™é¢‘é“
 http://stream.hhek.cn/dyjy/sd/live.m3u8
-#EXTINF:-1 tvg-name=µÂÖİĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,µÂÖİĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=å¾·å·æ–°é—»é¢‘é“group-title=å«è§†,å¾·å·æ–°é—»é¢‘é“
 http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1 tvg-name=µÂÖİ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,µÂÖİ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å¾·å·å…¬å…±é¢‘é“group-title=å«è§†,å¾·å·å…¬å…±é¢‘é“
 http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
-#EXTINF:-1 tvg-name=µÂÖİÍ¼ÎÄÆµµÀgroup-title=ÎÀÊÓ,µÂÖİÍ¼ÎÄÆµµÀ
+#EXTINF:-1 tvg-name=å¾·å·å›¾æ–‡é¢‘é“group-title=å«è§†,å¾·å·å›¾æ–‡é¢‘é“
 http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8
-#EXTINF:-1 tvg-name=±õÖİ¹«¹²µçÊÓ¾çgroup-title=ÎÀÊÓ,±õÖİ¹«¹²µçÊÓ¾ç
+#EXTINF:-1 tvg-name=æ»¨å·å…¬å…±ç”µè§†å‰§group-title=å«è§†,æ»¨å·å…¬å…±ç”µè§†å‰§
 http://stream.bzcm.net/1/sd/live.m3u8
-#EXTINF:-1 tvg-name=¶«²ıµ¼ÊÓÆµµÀgroup-title=ÎÀÊÓ,¶«²ıµ¼ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=ä¸œæ˜Œå¯¼è§†é¢‘é“group-title=å«è§†,ä¸œæ˜Œå¯¼è§†é¢‘é“
 http://sddc.chinashadt.com:1936/live/gonggong.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ĞÂÌ©×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ĞÂÌ©×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ–°æ³°ç»¼åˆé¢‘é“group-title=å«è§†,æ–°æ³°ç»¼åˆé¢‘é“
 http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
-#EXTINF:-1 tvg-name=ĞÂÌ©Ïç´åµ³½¨group-title=ÎÀÊÓ,ĞÂÌ©Ïç´åµ³½¨
+#EXTINF:-1 tvg-name=æ–°æ³°ä¹¡æ‘å…šå»ºgroup-title=å«è§†,æ–°æ³°ä¹¡æ‘å…šå»º
 http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-#EXTINF:-1 tvg-name=ĞÂÌ©Ó°ÊÓÆµµÀgroup-title=ÎÀÊÓ,ĞÂÌ©Ó°ÊÓÆµµÀ
+#EXTINF:-1 tvg-name=æ–°æ³°å½±è§†é¢‘é“group-title=å«è§†,æ–°æ³°å½±è§†é¢‘é“
 http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 tvg-name=Áú¿ÚĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Áú¿ÚĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é¾™å£æ–°é—»ç»¼åˆgroup-title=å«è§†,é¾™å£æ–°é—»ç»¼åˆ
 http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Áú¿ÚÉú»îÆµµÀgroup-title=ÎÀÊÓ,Áú¿ÚÉú»îÆµµÀ
+#EXTINF:-1 tvg-name=é¾™å£ç”Ÿæ´»é¢‘é“group-title=å«è§†,é¾™å£ç”Ÿæ´»é¢‘é“
 http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÜìÏØµçÊÓ¶şÌ×group-title=ÎÀÊÓ,ÜìÏØµçÊÓ¶şÌ×
+#EXTINF:-1 tvg-name=è’å¿ç”µè§†äºŒå¥—group-title=å«è§†,è’å¿ç”µè§†äºŒå¥—
 http://61.162.225.122:8181/live/test2.m3u8
-#EXTINF:-1 tvg-name=ÜìÏØÍ¼ÎÄÆµµÀgroup-title=ÎÀÊÓ,ÜìÏØÍ¼ÎÄÆµµÀ
+#EXTINF:-1 tvg-name=è’å¿å›¾æ–‡é¢‘é“group-title=å«è§†,è’å¿å›¾æ–‡é¢‘é“
 http://61.162.225.122:8181/live/test3.m3u8
-#EXTINF:-1 tvg-name=ÎŞé¦×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÎŞé¦×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=æ— æ££ç»¼åˆé¢‘é“group-title=å«è§†,æ— æ££ç»¼åˆé¢‘é“
 http://sdwd.chinashadt.com:1935/live/wdzh.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÎŞé¦×ÛÒÕÆµµÀgroup-title=ÎÀÊÓ,ÎŞé¦×ÛÒÕÆµµÀ
+#EXTINF:-1 tvg-name=æ— æ££ç»¼è‰ºé¢‘é“group-title=å«è§†,æ— æ££ç»¼è‰ºé¢‘é“
 http://sdwd.chinashadt.com:1935/live/wdzy.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÁÙëÔĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,ÁÙëÔĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=ä¸´æœæ–°é—»é¢‘é“group-title=å«è§†,ä¸´æœæ–°é—»é¢‘é“
 http://sdlqx.chinashadt.com:2036/live/lqxw.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÁÙëÔÏÈ·æÆµµÀgroup-title=ÎÀÊÓ,ÁÙëÔÏÈ·æÆµµÀ
+#EXTINF:-1 tvg-name=ä¸´æœå…ˆé”‹é¢‘é“group-title=å«è§†,ä¸´æœå…ˆé”‹é¢‘é“
 http://sdlqx.chinashadt.com:2036/live/lqxf.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÇàÖİ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÇàÖİ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é’å·ç»¼åˆé¢‘é“group-title=å«è§†,é’å·ç»¼åˆé¢‘é“
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÇàÖİÎÄ»¯ÂÃÓÎgroup-title=ÎÀÊÓ,ÇàÖİÎÄ»¯ÂÃÓÎ
+#EXTINF:-1 tvg-name=é’å·æ–‡åŒ–æ—…æ¸¸group-title=å«è§†,é’å·æ–‡åŒ–æ—…æ¸¸
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=É½Î÷¿Æ½Ìgroup-title=ÎÀÊÓ,É½Î÷¿Æ½Ì
+#EXTINF:-1 tvg-name=å±±è¥¿ç§‘æ•™group-title=å«è§†,å±±è¥¿ç§‘æ•™
 http://sxxx.chinashadt.com:2037/live/4.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÁÙ·Ú×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÁÙ·Ú×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ä¸´æ±¾ç»¼åˆé¢‘é“group-title=å«è§†,ä¸´æ±¾ç»¼åˆé¢‘é“
 http://sxxx.chinashadt.com:2037/live/1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=½úÖĞĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,½úÖĞĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=æ™‹ä¸­æ–°é—»é¢‘é“group-title=å«è§†,æ™‹ä¸­æ–°é—»é¢‘é“
 http://jzlive.jztvnews.com:8092/live/jzzh.m3u8
-#EXTINF:-1 tvg-name=½úÖĞ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,½úÖĞ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=æ™‹ä¸­å…¬å…±é¢‘é“group-title=å«è§†,æ™‹ä¸­å…¬å…±é¢‘é“
 http://jzlive.jztvnews.com:8092/live/jzgg.m3u8
-#EXTINF:-1 tvg-name=ÚôÏØĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÚôÏØĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=éš°å¿æ–°é—»ç»¼åˆgroup-title=å«è§†,éš°å¿æ–°é—»ç»¼åˆ
 http://sxxx.chinashadt.com:2037/live/2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=½»³ÇµçÊÓÌ¨group-title=ÎÀÊÓ,½»³ÇµçÊÓÌ¨
+#EXTINF:-1 tvg-name=äº¤åŸç”µè§†å°group-title=å«è§†,äº¤åŸç”µè§†å°
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ÁÙÏØµçÊÓÌ¨group-title=ÎÀÊÓ,ÁÙÏØµçÊÓÌ¨
+#EXTINF:-1 tvg-name=ä¸´å¿ç”µè§†å°group-title=å«è§†,ä¸´å¿ç”µè§†å°
 http://sxlx.chinashadt.com:2036/live/stream:lxtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Î÷É½µçÊÓÌ¨group-title=ÎÀÊÓ,Î÷É½µçÊÓÌ¨
+#EXTINF:-1 tvg-name=è¥¿å±±ç”µè§†å°group-title=å«è§†,è¥¿å±±ç”µè§†å°
 http://218.26.97.12:5021/live_hls/1/c01.m3u8
-#EXTINF:-1 tvg-name=ËìÄşĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ËìÄşĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é‚å®æ–°é—»ç»¼åˆgroup-title=å«è§†,é‚å®æ–°é—»ç»¼åˆ
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
-#EXTINF:-1 tvg-name=°ÍÖĞ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,°ÍÖĞ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å·´ä¸­ç»¼åˆé¢‘é“group-title=å«è§†,å·´ä¸­ç»¼åˆé¢‘é“
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 tvg-name=°ÍÖĞ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,°ÍÖĞ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å·´ä¸­å…¬å…±é¢‘é“group-title=å«è§†,å·´ä¸­å…¬å…±é¢‘é“
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1 tvg-name=ËÉÅËĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ËÉÅËĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ¾æ½˜æ–°é—»ç»¼åˆgroup-title=å«è§†,æ¾æ½˜æ–°é—»ç»¼åˆ
 http://111.231.197.215:85/live/spxwzh_600k.m3u8
-#EXTINF:-1 tvg-name=¾ÅÕ¯¹µĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,¾ÅÕ¯¹µĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä¹å¯¨æ²Ÿæ–°é—»ç»¼åˆgroup-title=å«è§†,ä¹å¯¨æ²Ÿæ–°é—»ç»¼åˆ
 http://111.231.194.231:85/live/xwzh.m3u8
-#EXTINF:-1 tvg-name=ÈÊÊÙĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÈÊÊÙĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä»å¯¿æ–°é—»ç»¼åˆgroup-title=å«è§†,ä»å¯¿æ–°é—»ç»¼åˆ
 http://118.122.224.176:8091/live/xwzh.m3u8
-#EXTINF:-1 tvg-name=ÈÊÊÙÉú»î×ÊÑ¶group-title=ÎÀÊÓ,ÈÊÊÙÉú»î×ÊÑ¶
+#EXTINF:-1 tvg-name=ä»å¯¿ç”Ÿæ´»èµ„è®¯group-title=å«è§†,ä»å¯¿ç”Ÿæ´»èµ„è®¯
 http://118.122.224.176:8091/live/shzx.m3u8
-#EXTINF:-1 tvg-name=ĞûººĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ĞûººĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å®£æ±‰æ–°é—»ç»¼åˆgroup-title=å«è§†,å®£æ±‰æ–°é—»ç»¼åˆ
 http://60.255.77.232/1001/1001.m3u8
-#EXTINF:-1 tvg-name=Ğûºº³ÇÊĞ¹«ÖÚgroup-title=ÎÀÊÓ,Ğûºº³ÇÊĞ¹«ÖÚ
+#EXTINF:-1 tvg-name=å®£æ±‰åŸå¸‚å…¬ä¼—group-title=å«è§†,å®£æ±‰åŸå¸‚å…¬ä¼—
 http://60.255.77.232/1000/1000.m3u8
-#EXTINF:-1 tvg-name=½­ÓÍĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,½­ÓÍĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ±Ÿæ²¹æ–°é—»ç»¼åˆgroup-title=å«è§†,æ±Ÿæ²¹æ–°é—»ç»¼åˆ
 http://vod.scjygd.com:1935/live/smil:xwzh_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=½­ÓÍÎÄ»¯½ÌÓıgroup-title=ÎÀÊÓ,½­ÓÍÎÄ»¯½ÌÓı
+#EXTINF:-1 tvg-name=æ±Ÿæ²¹æ–‡åŒ–æ•™è‚²group-title=å«è§†,æ±Ÿæ²¹æ–‡åŒ–æ•™è‚²
 http://vod.scjygd.com:1935/live/smil:whjy_copy.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=°²ÖİĞÂÎÅÆµµÀgroup-title=ÎÀÊÓ,°²ÖİĞÂÎÅÆµµÀ
+#EXTINF:-1 tvg-name=å®‰å·æ–°é—»é¢‘é“group-title=å«è§†,å®‰å·æ–°é—»é¢‘é“
 http://60.255.137.43:1936/aztvch1/playlist.m3u8
-#EXTINF:-1 tvg-name=°²ÖİµçÊÓ¾çÆµµÀgroup-title=ÎÀÊÓ,°²ÖİµçÊÓ¾çÆµµÀ
+#EXTINF:-1 tvg-name=å®‰å·ç”µè§†å‰§é¢‘é“group-title=å«è§†,å®‰å·ç”µè§†å‰§é¢‘é“
 http://60.255.137.43:1936/aztvch2/playlist.m3u8
-#EXTINF:-1 tvg-name=ÃàÖñĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÃàÖñĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ç»µç«¹æ–°é—»ç»¼åˆgroup-title=å«è§†,ç»µç«¹æ–°é—»ç»¼åˆ
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
-#EXTINF:-1 tvg-name=ÈÀÌÁ×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,ÈÀÌÁ×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=å£¤å¡˜ç»¼åˆé¢‘é“group-title=å«è§†,å£¤å¡˜ç»¼åˆé¢‘é“
 http://118.122.239.157:1236/hls/hd-live.m3u8
-#EXTINF:-1 tvg-name=¶ë±ßµçÊÓÌ¨group-title=ÎÀÊÓ,¶ë±ßµçÊÓÌ¨
+#EXTINF:-1 tvg-name=å³¨è¾¹ç”µè§†å°group-title=å«è§†,å³¨è¾¹ç”µè§†å°
 http://218.6.224.15:8011/vms/videos/channellive/channel15/playlist.m3u8
-#EXTINF:-1 tvg-name=Î÷ÇàĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,Î÷ÇàĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=è¥¿é’æ–°é—»ç»¼åˆgroup-title=å«è§†,è¥¿é’æ–°é—»ç»¼åˆ
 http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 tvg-name=²©ÖİººÓï×ÛºÏgroup-title=ÎÀÊÓ,²©ÖİººÓï×ÛºÏ
+#EXTINF:-1 tvg-name=åšå·æ±‰è¯­ç»¼åˆgroup-title=å«è§†,åšå·æ±‰è¯­ç»¼åˆ
 http://klmyyun.chinavas.com/hls/bozhou1.m3u8
-#EXTINF:-1 tvg-name=²©ÖİÎ¬Óï×ÛºÏgroup-title=ÎÀÊÓ,²©ÖİÎ¬Óï×ÛºÏ
+#EXTINF:-1 tvg-name=åšå·ç»´è¯­ç»¼åˆgroup-title=å«è§†,åšå·ç»´è¯­ç»¼åˆ
 http://klmyyun.chinavas.com/hls/bozhou3.m3u8
-#EXTINF:-1 tvg-name=¸£º£ººÓï×ÛºÏgroup-title=ÎÀÊÓ,¸£º£ººÓï×ÛºÏ
+#EXTINF:-1 tvg-name=ç¦æµ·æ±‰è¯­ç»¼åˆgroup-title=å«è§†,ç¦æµ·æ±‰è¯­ç»¼åˆ
 http://klmyyun.chinavas.com/hls/fuhai2.m3u8
-#EXTINF:-1 tvg-name=ÃÀÀöÔÆÄÏgroup-title=ÎÀÊÓ,ÃÀÀöÔÆÄÏ
+#EXTINF:-1 tvg-name=ç¾ä¸½äº‘å—group-title=å«è§†,ç¾ä¸½äº‘å—
 http://www.ynbit.cn:1935/cyds-mlyn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name=ºìºÓÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ºìºÓÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=çº¢æ²³å·æ–°é—»ç»¼åˆgroup-title=å«è§†,çº¢æ²³å·æ–°é—»ç»¼åˆ
 http://live.hhtv.cc:9099/ch1/ch1.m3u8
-#EXTINF:-1 tvg-name=ºìºÓÖİ¾­¼ÃÉú»îgroup-title=ÎÀÊÓ,ºìºÓÖİ¾­¼ÃÉú»î
+#EXTINF:-1 tvg-name=çº¢æ²³å·ç»æµç”Ÿæ´»group-title=å«è§†,çº¢æ²³å·ç»æµç”Ÿæ´»
 http://live.hhtv.cc:9099/ch2/ch2.m3u8
-#EXTINF:-1 tvg-name=µÏÇì²ØÓïgroup-title=ÎÀÊÓ,µÏÇì²ØÓï
+#EXTINF:-1 tvg-name=è¿ªåº†è—è¯­group-title=å«è§†,è¿ªåº†è—è¯­
 http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=Ëç½­×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,Ëç½­×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=ç»¥æ±Ÿç»¼åˆé¢‘é“group-title=å«è§†,ç»¥æ±Ÿç»¼åˆé¢‘é“
 http://60.160.23.32:6055/sjtv/sjtv.m3u8
-#EXTINF:-1 tvg-name=¸ö¾É×ÛºÏgroup-title=ÎÀÊÓ,¸ö¾É×ÛºÏ
+#EXTINF:-1 tvg-name=ä¸ªæ—§ç»¼åˆgroup-title=å«è§†,ä¸ªæ—§ç»¼åˆ
 http://live.hhtv.cc:9098/gjtv/gjtv.m3u8
-#EXTINF:-1 tvg-name=ºìºÓÏØ×ÛºÏgroup-title=ÎÀÊÓ,ºìºÓÏØ×ÛºÏ
+#EXTINF:-1 tvg-name=çº¢æ²³å¿ç»¼åˆgroup-title=å«è§†,çº¢æ²³å¿ç»¼åˆ
 http://live.hhtv.cc:9099/hhtv/hhtv.m3u8
-#EXTINF:-1 tvg-name=ºÓ¿Ú×ÛºÏgroup-title=ÎÀÊÓ,ºÓ¿Ú×ÛºÏ
+#EXTINF:-1 tvg-name=æ²³å£ç»¼åˆgroup-title=å«è§†,æ²³å£ç»¼åˆ
 http://live.hhtv.cc:9098/hktv/hktv.m3u8
-#EXTINF:-1 tvg-name=ÆÁ±ß×ÛºÏgroup-title=ÎÀÊÓ,ÆÁ±ß×ÛºÏ
+#EXTINF:-1 tvg-name=å±è¾¹ç»¼åˆgroup-title=å«è§†,å±è¾¹ç»¼åˆ
 http://live.hhtv.cc:9098/pbtv/pbtv.m3u8
-#EXTINF:-1 tvg-name=ÔªÑô×ÛºÏgroup-title=ÎÀÊÓ,ÔªÑô×ÛºÏ
+#EXTINF:-1 tvg-name=å…ƒé˜³ç»¼åˆgroup-title=å«è§†,å…ƒé˜³ç»¼åˆ
 http://live.hhtv.cc:9098/yytv/yytv.m3u8
-#EXTINF:-1 tvg-name=À¼Æº×ÛºÏgroup-title=ÎÀÊÓ,À¼Æº×ÛºÏ
+#EXTINF:-1 tvg-name=å…°åªç»¼åˆgroup-title=å«è§†,å…°åªç»¼åˆ
 http://r.gslb.lecloud.com/live/hls/2018070530000000n13/desc.m3u8
-#EXTINF:-1 tvg-name=½ğ»ª½ÌÓı¿Æ¼¼group-title=ÎÀÊÓ,½ğ»ª½ÌÓı¿Æ¼¼
+#EXTINF:-1 tvg-name=é‡‘åæ•™è‚²ç§‘æŠ€group-title=å«è§†,é‡‘åæ•™è‚²ç§‘æŠ€
 http://stream.jinhua.com.cn/jykj/app/live.m3u8
-#EXTINF:-1 tvg-name=½ğ»ª¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,½ğ»ª¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=é‡‘åå…¬å…±é¢‘é“group-title=å«è§†,é‡‘åå…¬å…±é¢‘é“
 http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
-#EXTINF:-1 tvg-name=½ğ»ª¶¼ÊĞÅ©´ågroup-title=ÎÀÊÓ,½ğ»ª¶¼ÊĞÅ©´å
+#EXTINF:-1 tvg-name=é‡‘åéƒ½å¸‚å†œæ‘group-title=å«è§†,é‡‘åéƒ½å¸‚å†œæ‘
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
-#EXTINF:-1 tvg-name=ÖÛÉ½ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÖÛÉ½ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=èˆŸå±±æ–°é—»ç»¼åˆgroup-title=å«è§†,èˆŸå±±æ–°é—»ç»¼åˆ
 http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÖÛÉ½¹«¹²Éú»îgroup-title=ÎÀÊÓ,ÖÛÉ½¹«¹²Éú»î
+#EXTINF:-1 tvg-name=èˆŸå±±å…¬å…±ç”Ÿæ´»group-title=å«è§†,èˆŸå±±å…¬å…±ç”Ÿæ´»
 http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 tvg-name=ºşÖİ¹«¹²ÃñÉúgroup-title=ÎÀÊÓ,ºşÖİ¹«¹²ÃñÉú
+#EXTINF:-1 tvg-name=æ¹–å·å…¬å…±æ°‘ç”Ÿgroup-title=å«è§†,æ¹–å·å…¬å…±æ°‘ç”Ÿ
 http://live2.hzitv.cn/tslslive/z6NexHK/hls/live_sd.m3u8
-#EXTINF:-1 tvg-name=ÎÂÖİ¾­¼Ã¿Æ½Ìgroup-title=ÎÀÊÓ,ÎÂÖİ¾­¼Ã¿Æ½Ì
+#EXTINF:-1 tvg-name=æ¸©å·ç»æµç§‘æ•™group-title=å«è§†,æ¸©å·ç»æµç§‘æ•™
 http://hls.dhtv.cn:8080/live/v2_12.m3u8
-#EXTINF:-1 tvg-name=ÎÂÖİ¶¼ÊĞÉú»îgroup-title=ÎÀÊÓ,ÎÂÖİ¶¼ÊĞÉú»î
+#EXTINF:-1 tvg-name=æ¸©å·éƒ½å¸‚ç”Ÿæ´»group-title=å«è§†,æ¸©å·éƒ½å¸‚ç”Ÿæ´»
 http://hls.dhtv.cn:8080/live/v3_13.m3u8
-#EXTINF:-1 tvg-name=ÎÂÖİ¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ÎÂÖİ¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=æ¸©å·å…¬å…±é¢‘é“group-title=å«è§†,æ¸©å·å…¬å…±é¢‘é“
 http://hls.dhtv.cn:8080/live/v4_14.m3u8
-#EXTINF:-1 tvg-name=ÏôÉ½ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÏôÉ½ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=è§å±±æ–°é—»ç»¼åˆgroup-title=å«è§†,è§å±±æ–°é—»ç»¼åˆ
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name=ÏôÉ½Éú»îÆµµÀgroup-title=ÎÀÊÓ,ÏôÉ½Éú»îÆµµÀ
+#EXTINF:-1 tvg-name=è§å±±ç”Ÿæ´»é¢‘é“group-title=å«è§†,è§å±±ç”Ÿæ´»é¢‘é“
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-name=ÓàÒ¦ĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÓàÒ¦ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä½™å§šæ–°é—»ç»¼åˆgroup-title=å«è§†,ä½™å§šæ–°é—»ç»¼åˆ
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-name=ÓàÒ¦Ò¦½­ÎÄ»¯group-title=ÎÀÊÓ,ÓàÒ¦Ò¦½­ÎÄ»¯
+#EXTINF:-1 tvg-name=ä½™å§šå§šæ±Ÿæ–‡åŒ–group-title=å«è§†,ä½™å§šå§šæ±Ÿæ–‡åŒ–
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-name=áÓÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,áÓÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=åµŠå·æ–°é—»ç»¼åˆgroup-title=å«è§†,åµŠå·æ–°é—»ç»¼åˆ
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name=ÉÏÓİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÉÏÓİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=ä¸Šè™æ–°é—»ç»¼åˆgroup-title=å«è§†,ä¸Šè™æ–°é—»ç»¼åˆ
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name=ÉÏÓİ¾­¼ÃÎÄ»¯group-title=ÎÀÊÓ,ÉÏÓİ¾­¼ÃÎÄ»¯
+#EXTINF:-1 tvg-name=ä¸Šè™ç»æµæ–‡åŒ–group-title=å«è§†,ä¸Šè™ç»æµæ–‡åŒ–
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-name=ÉÏÓİĞÂÉÌ¶¼group-title=ÎÀÊÓ,ÉÏÓİĞÂÉÌ¶¼
+#EXTINF:-1 tvg-name=ä¸Šè™æ–°å•†éƒ½group-title=å«è§†,ä¸Šè™æ–°å•†éƒ½
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name=ĞÂ²ıĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ĞÂ²ıĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æ–°æ˜Œæ–°é—»ç»¼åˆgroup-title=å«è§†,æ–°æ˜Œæ–°é—»ç»¼åˆ
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 tvg-name=ĞÂ²ıĞİÏĞÓ°ÊÓgroup-title=ÎÀÊÓ,ĞÂ²ıĞİÏĞÓ°ÊÓ
+#EXTINF:-1 tvg-name=æ–°æ˜Œä¼‘é—²å½±è§†group-title=å«è§†,æ–°æ˜Œä¼‘é—²å½±è§†
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 tvg-name=¶«ÑôÓ°ÊÓÉú»îgroup-title=ÎÀÊÓ,¶«ÑôÓ°ÊÓÉú»î
+#EXTINF:-1 tvg-name=ä¸œé˜³å½±è§†ç”Ÿæ´»group-title=å«è§†,ä¸œé˜³å½±è§†ç”Ÿæ´»
 http://stream.dybtv.com/yssh/GQ/live.m3u8
-#EXTINF:-1 tvg-name=ÇÕÖİ×ÛºÏgroup-title=ÎÀÊÓ,ÇÕÖİ×ÛºÏ
+#EXTINF:-1 tvg-name=é’¦å·ç»¼åˆgroup-title=å«è§†,é’¦å·ç»¼åˆ
 http://live.gxqztv.com/cspd1/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÁøÖİĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÁøÖİĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=æŸ³å·æ–°é—»ç»¼åˆgroup-title=å«è§†,æŸ³å·æ–°é—»ç»¼åˆ
 http://liveplay.lztvnet.com/live/31750_cc3fcb0f68b311e992905cb9018cf0d4.m3u8
-#EXTINF:-1 tvg-name=ÁøÖİ¿Æ½Ìgroup-title=ÎÀÊÓ,ÁøÖİ¿Æ½Ì
+#EXTINF:-1 tvg-name=æŸ³å·ç§‘æ•™group-title=å«è§†,æŸ³å·ç§‘æ•™
 http://liveplay.lztvnet.com/live/31750_e1bbfc0b68b311e992905cb9018cf0d4.m3u8
-#EXTINF:-1 tvg-name=ºşÄÏÎÀÊÓgroup-title=ÎÀÊÓ,ºşÄÏÎÀÊÓ
+#EXTINF:-1 tvg-name=æ¹–å—å«è§†group-title=å«è§†,æ¹–å—å«è§†
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-name=°²»ÕÎÀÊÓHDgroup-title=ÎÀÊÓ,°²»ÕÎÀÊÓHD
+#EXTINF:-1 tvg-name=å®‰å¾½å«è§†HDgroup-title=å«è§†,å®‰å¾½å«è§†HD
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 tvg-name=ºÚÁú½­ÎÀÊÓHDgroup-title=ÎÀÊÓ,ºÚÁú½­ÎÀÊÓHD
+#EXTINF:-1 tvg-name=é»‘é¾™æ±Ÿå«è§†HDgroup-title=å«è§†,é»‘é¾™æ±Ÿå«è§†HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-name=½­ËÕÎÀÊÓgroup-title=ÎÀÊÓ,½­ËÕÎÀÊÓ
+#EXTINF:-1 tvg-name=æ±Ÿè‹å«è§†group-title=å«è§†,æ±Ÿè‹å«è§†
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-name=ÏÃÃÅ¶şÌ×group-title=ÎÀÊÓ,ÏÃÃÅ¶şÌ×
+#EXTINF:-1 tvg-name=å¦é—¨äºŒå¥—group-title=å«è§†,å¦é—¨äºŒå¥—
 http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-name=ÏÃÃÅÈıÌ×group-title=ÎÀÊÓ,ÏÃÃÅÈıÌ×
+#EXTINF:-1 tvg-name=å¦é—¨ä¸‰å¥—group-title=å«è§†,å¦é—¨ä¸‰å¥—
 http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 tvg-name=ÏÃÃÅÒ»Ì×group-title=ÎÀÊÓ,ÏÃÃÅÒ»Ì×
+#EXTINF:-1 tvg-name=å¦é—¨ä¸€å¥—group-title=å«è§†,å¦é—¨ä¸€å¥—
 http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-name=ÏÃÃÅÒÆ¶¯µçÊÓgroup-title=ÎÀÊÓ,ÏÃÃÅÒÆ¶¯µçÊÓ
+#EXTINF:-1 tvg-name=å¦é—¨ç§»åŠ¨ç”µè§†group-title=å«è§†,å¦é—¨ç§»åŠ¨ç”µè§†
 http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
-#EXTINF:-1 tvg-name=SEAgroup-title=ÎÀÊÓ,SEA
+#EXTINF:-1 tvg-name=SEAgroup-title=å«è§†,SEA
 http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name=Steelbirdgroup-title=ÎÀÊÓ,Steelbird
+#EXTINF:-1 tvg-name=Steelbirdgroup-title=å«è§†,Steelbird
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-name=FASHIONgroup-title=ÎÀÊÓ,FASHION
+#EXTINF:-1 tvg-name=FASHIONgroup-title=å«è§†,FASHION
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-name=ºÓ±±Ó°ÊÓgroup-title=ÎÀÊÓ,ºÓ±±Ó°ÊÓ
+#EXTINF:-1 tvg-name=æ²³åŒ—å½±è§†group-title=å«è§†,æ²³åŒ—å½±è§†
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-#EXTINF:-1 tvg-name=½ğ²ı¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,½ğ²ı¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=é‡‘æ˜Œå…¬å…±é¢‘é“group-title=å«è§†,é‡‘æ˜Œå…¬å…±é¢‘é“
 http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-#EXTINF:-1 tvg-name=½ğ²ı×ÛºÏÆµµÀgroup-title=ÎÀÊÓ,½ğ²ı×ÛºÏÆµµÀ
+#EXTINF:-1 tvg-name=é‡‘æ˜Œç»¼åˆé¢‘é“group-title=å«è§†,é‡‘æ˜Œç»¼åˆé¢‘é“
 http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-#EXTINF:-1 tvg-name=½ğ»ªĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,½ğ»ªĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=é‡‘åæ–°é—»ç»¼åˆgroup-title=å«è§†,é‡‘åæ–°é—»ç»¼åˆ
 http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
-#EXTINF:-1 tvg-name=ÄÏ¾©½Ì¿Ægroup-title=ÎÀÊÓ,ÄÏ¾©½Ì¿Æ
+#EXTINF:-1 tvg-name=å—äº¬æ•™ç§‘group-title=å«è§†,å—äº¬æ•™ç§‘
 http://live.nbs.cn/channels/njtv/jkpd/flv:500k/live
-#EXTINF:-1 tvg-name=ÄÏ¾©ÉÙ¶ùgroup-title=ÎÀÊÓ,ÄÏ¾©ÉÙ¶ù
+#EXTINF:-1 tvg-name=å—äº¬å°‘å„¿group-title=å«è§†,å—äº¬å°‘å„¿
 http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
-#EXTINF:-1 tvg-name=ÄÏ¾©Éú»îgroup-title=ÎÀÊÓ,ÄÏ¾©Éú»î
+#EXTINF:-1 tvg-name=å—äº¬ç”Ÿæ´»group-title=å«è§†,å—äº¬ç”Ÿæ´»
 http://live.nbs.cn/channels/njtv/shpd/flv:500k/live
-#EXTINF:-1 tvg-name=½­ËÕĞìÖİ1ÆµµÀgroup-title=ÎÀÊÓ,½­ËÕĞìÖİ1ÆµµÀ
+#EXTINF:-1 tvg-name=æ±Ÿè‹å¾å·1é¢‘é“group-title=å«è§†,æ±Ÿè‹å¾å·1é¢‘é“
 http://stream.huaihai.tv/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name=½­ËÕĞìÖİ2ÆµµÀgroup-title=ÎÀÊÓ,½­ËÕĞìÖİ2ÆµµÀ
+#EXTINF:-1 tvg-name=æ±Ÿè‹å¾å·2é¢‘é“group-title=å«è§†,æ±Ÿè‹å¾å·2é¢‘é“
 http://stream.huaihai.tv/jjsh/sd/live.m3u8
-#EXTINF:-1 tvg-name=½­ËÕĞìÖİ3ÆµµÀgroup-title=ÎÀÊÓ,½­ËÕĞìÖİ3ÆµµÀ
+#EXTINF:-1 tvg-name=æ±Ÿè‹å¾å·3é¢‘é“group-title=å«è§†,æ±Ÿè‹å¾å·3é¢‘é“
 http://stream.huaihai.tv/wyys/sd/live.m3u8
-#EXTINF:-1 tvg-name=½­ËÕĞìÖİ4ÆµµÀgroup-title=ÎÀÊÓ,½­ËÕĞìÖİ4ÆµµÀ
+#EXTINF:-1 tvg-name=æ±Ÿè‹å¾å·4é¢‘é“group-title=å«è§†,æ±Ÿè‹å¾å·4é¢‘é“
 http://stream.huaihai.tv/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏĞÂÎÅgroup-title=ÎÀÊÓ,¼ÃÄÏĞÂÎÅ
+#EXTINF:-1 tvg-name=æµå—æ–°é—»group-title=å«è§†,æµå—æ–°é—»
 http://ts1.ijntv.cn/xwhd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÓ°ÊÓgroup-title=ÎÀÊÓ,¼ÃÄÏÓ°ÊÓ
+#EXTINF:-1 tvg-name=æµå—å½±è§†group-title=å«è§†,æµå—å½±è§†
 http://ts1.ijntv.cn/yshd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÓéÀÖgroup-title=ÎÀÊÓ,¼ÃÄÏÓéÀÖ
+#EXTINF:-1 tvg-name=æµå—å¨±ä¹group-title=å«è§†,æµå—å¨±ä¹
 http://ts2.ijntv.cn/jnyl/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉú»îgroup-title=ÎÀÊÓ,¼ÃÄÏÉú»î
+#EXTINF:-1 tvg-name=æµå—ç”Ÿæ´»group-title=å«è§†,æµå—ç”Ÿæ´»
 http://ts2.ijntv.cn/jnsh/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉÙ¶ùgroup-title=ÎÀÊÓ,¼ÃÄÏÉÙ¶ù
+#EXTINF:-1 tvg-name=æµå—å°‘å„¿group-title=å«è§†,æµå—å°‘å„¿
 http://ts2.ijntv.cn/jnse/sd1/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉÌÎñgroup-title=ÎÀÊÓ,¼ÃÄÏÉÌÎñ
+#EXTINF:-1 tvg-name=æµå—å•†åŠ¡group-title=å«è§†,æµå—å•†åŠ¡
 http://ts1.ijntv.cn/jnsw/sd/live.m3u8
-#EXTINF:-1 tvg-name=ÈÕÕÕÜìÏØ-1group-title=ÎÀÊÓ,ÈÕÕÕÜìÏØ-1
+#EXTINF:-1 tvg-name=æ—¥ç…§è’å¿-1group-title=å«è§†,æ—¥ç…§è’å¿-1
 http://61.162.225.122:8181/live/test1.m3u8
-#EXTINF:-1 tvg-name=ÖÜ¿ÚĞÂÎÅ×ÛºÏgroup-title=ÎÀÊÓ,ÖÜ¿ÚĞÂÎÅ×ÛºÏ
+#EXTINF:-1 tvg-name=å‘¨å£æ–°é—»ç»¼åˆgroup-title=å«è§†,å‘¨å£æ–°é—»ç»¼åˆ
 http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8
-#EXTINF:-1 tvg-name=ÖÜ¿Ú¾­¼ÃÉú»îgroup-title=ÎÀÊÓ,ÖÜ¿Ú¾­¼ÃÉú»î
+#EXTINF:-1 tvg-name=å‘¨å£ç»æµç”Ÿæ´»group-title=å«è§†,å‘¨å£ç»æµç”Ÿæ´»
 http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
-#EXTINF:-1 tvg-name=ÖÜ¿Ú¿Æ½ÌÎÄ»¯group-title=ÎÀÊÓ,ÖÜ¿Ú¿Æ½ÌÎÄ»¯
+#EXTINF:-1 tvg-name=å‘¨å£ç§‘æ•™æ–‡åŒ–group-title=å«è§†,å‘¨å£ç§‘æ•™æ–‡åŒ–
 http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
-#EXTINF:-1 tvg-name=ÖÜ¿ÚÍ¼ÎÄĞÅÏ¢group-title=ÎÀÊÓ,ÖÜ¿ÚÍ¼ÎÄĞÅÏ¢
+#EXTINF:-1 tvg-name=å‘¨å£å›¾æ–‡ä¿¡æ¯group-title=å«è§†,å‘¨å£å›¾æ–‡ä¿¡æ¯
 http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
-#EXTINF:-1 tvg-name=ÄÏÑô¹«¹²ÆµµÀgroup-title=ÎÀÊÓ,ÄÏÑô¹«¹²ÆµµÀ
+#EXTINF:-1 tvg-name=å—é˜³å…¬å…±é¢‘é“group-title=å«è§†,å—é˜³å…¬å…±é¢‘é“
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
-#EXTINF:-1 tvg-name=ÑÓ±ß-ÎÀÊÓ-ÆµµÀgroup-title=ÎÀÊÓ,ÑÓ±ß-ÎÀÊÓ-ÆµµÀ
+#EXTINF:-1 tvg-name=å»¶è¾¹-å«è§†-é¢‘é“group-title=å«è§†,å»¶è¾¹-å«è§†-é¢‘é“
 http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-#EXTINF:-1 tvg-name=ÑÓ±ß³¯ÏÊÓï×ÛºÏgroup-title=ÎÀÊÓ,ÑÓ±ß³¯ÏÊÓï×ÛºÏ
+#EXTINF:-1 tvg-name=å»¶è¾¹æœé²œè¯­ç»¼åˆgroup-title=å«è§†,å»¶è¾¹æœé²œè¯­ç»¼åˆ
 http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
-#EXTINF:-1 tvg-name=ÑÓ±ßººÓï×ÛºÏgroup-title=ÎÀÊÓ,ÑÓ±ßººÓï×ÛºÏ
+#EXTINF:-1 tvg-name=å»¶è¾¹æ±‰è¯­ç»¼åˆgroup-title=å«è§†,å»¶è¾¹æ±‰è¯­ç»¼åˆ
 http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
-#EXTINF:-1 tvg-name=±õº£1group-title=ÎÀÊÓ,±õº£1
+#EXTINF:-1 tvg-name=æ»¨æµ·1group-title=å«è§†,æ»¨æµ·1
 http://60.30.52.41/live/bhtv1/playlist.m3u8
-#EXTINF:-1 tvg-name=±õº£2group-title=ÎÀÊÓ,±õº£2
+#EXTINF:-1 tvg-name=æ»¨æµ·2group-title=å«è§†,æ»¨æµ·2
 http://60.30.52.41/live/bhtv2/playlist.m3u8
-#EXTINF:-1 tvg-name=±õº£ĞÂÎÅgroup-title=ÎÀÊÓ,±õº£ĞÂÎÅ
+#EXTINF:-1 tvg-name=æ»¨æµ·æ–°é—»group-title=å«è§†,æ»¨æµ·æ–°é—»
 http://cstvpull.live.wscdns.com/live/tianjinbh.flv
-#EXTINF:-1 tvg-name=±õº£×ÛÒÕgroup-title=ÎÀÊÓ,±õº£×ÛÒÕ
+#EXTINF:-1 tvg-name=æ»¨æµ·ç»¼è‰ºgroup-title=å«è§†,æ»¨æµ·ç»¼è‰º
 http://cstvpull.live.wscdns.com/live/tianjinbh2.flv
-#EXTINF:-1 tvg-name=¼ÃÄÏÓ°ÊÓHDgroup-title=ÎÀÊÓ,¼ÃÄÏÓ°ÊÓHD
+#EXTINF:-1 tvg-name=æµå—å½±è§†HDgroup-title=å«è§†,æµå—å½±è§†HD
 http://ts1.ijntv.cn/yshd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏĞÂÎÅHDgroup-title=ÎÀÊÓ,¼ÃÄÏĞÂÎÅHD
+#EXTINF:-1 tvg-name=æµå—æ–°é—»HDgroup-title=å«è§†,æµå—æ–°é—»HD
 http://ts1.ijntv.cn/xwhd/hd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉÙ¶ùgroup-title=ÎÀÊÓ,¼ÃÄÏÉÙ¶ù
+#EXTINF:-1 tvg-name=æµå—å°‘å„¿group-title=å«è§†,æµå—å°‘å„¿
 http://ts2.ijntv.cn/jnse/sd1/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏ¶¼ÊĞgroup-title=ÎÀÊÓ,¼ÃÄÏ¶¼ÊĞ
+#EXTINF:-1 tvg-name=æµå—éƒ½å¸‚group-title=å«è§†,æµå—éƒ½å¸‚
 http://ts1.ijntv.cn/jnds/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÓéÀÖgroup-title=ÎÀÊÓ,¼ÃÄÏÓéÀÖ
+#EXTINF:-1 tvg-name=æµå—å¨±ä¹group-title=å«è§†,æµå—å¨±ä¹
 http://ts2.ijntv.cn/jnyl/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉú»îgroup-title=ÎÀÊÓ,¼ÃÄÏÉú»î
+#EXTINF:-1 tvg-name=æµå—ç”Ÿæ´»group-title=å«è§†,æµå—ç”Ÿæ´»
 http://ts2.ijntv.cn/jnsh/sd/live.m3u8
-#EXTINF:-1 tvg-name=¼ÃÄÏÉÌÎñgroup-title=ÎÀÊÓ,¼ÃÄÏÉÌÎñ
+#EXTINF:-1 tvg-name=æµå—å•†åŠ¡group-title=å«è§†,æµå—å•†åŠ¡
 http://ts1.ijntv.cn/jnsw/sd/live.m3u8
-#EXTINF:-1 tvg-name=±õÖİĞÂÎÅgroup-title=ÎÀÊÓ,±õÖİĞÂÎÅ
+#EXTINF:-1 tvg-name=æ»¨å·æ–°é—»group-title=å«è§†,æ»¨å·æ–°é—»
 http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 tvg-name=Â¦µ×group-title=ÎÀÊÓ,Â¦µ×
+#EXTINF:-1 tvg-name=å¨„åº•group-title=å«è§†,å¨„åº•
 http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w67585331.m3u8
-#EXTINF:-1 tvg-name=ÀûÖİHDgroup-title=ÎÀÊÓ,ÀûÖİHD
+#EXTINF:-1 tvg-name=åˆ©å·HDgroup-title=å«è§†,åˆ©å·HD
 http://3g.dzsm.com/streamer/gylztv.m3u8
-#EXTINF:-1 tvg-name=Íú²ÔĞÂÎÅgroup-title=ÎÀÊÓ,Íú²ÔĞÂÎÅ
+#EXTINF:-1 tvg-name=æ—ºè‹æ–°é—»group-title=å«è§†,æ—ºè‹æ–°é—»
 http://3g.dzsm.com/streamer/gycttv.m3u8
-#EXTINF:-1 tvg-name=ËìÄş¸ßÇågroup-title=ÎÀÊÓ,ËìÄş¸ßÇå
+#EXTINF:-1 tvg-name=é‚å®é«˜æ¸…group-title=å«è§†,é‚å®é«˜æ¸…
 http://snlive.scsntv.com:8091/live/gggy.m3u8
-#EXTINF:-1 tvg-name=¾¸½­ĞÂÎÅ¸ßÇågroup-title=ÎÀÊÓ,¾¸½­ĞÂÎÅ¸ßÇå
+#EXTINF:-1 tvg-name=é–æ±Ÿæ–°é—»é«˜æ¸…group-title=å«è§†,é–æ±Ÿæ–°é—»é«˜æ¸…
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 tvg-name=NHKgroup-title=¹ú¼Ê,NHK
+#EXTINF:-1 tvg-name=NHKgroup-title=å›½é™…,NHK
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:-1 tvg-name=NEWSMAXgroup-title=¹ú¼Ê,NEWSMAX
+#EXTINF:-1 tvg-name=NEWSMAXgroup-title=å›½é™…,NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name=FRANCE-Alsace-20group-title=¹ú¼Ê,FRANCE-Alsace-20
+#EXTINF:-1 tvg-name=FRANCE-Alsace-20group-title=å›½é™…,FRANCE-Alsace-20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-name=NEW-ZEALAND-Wairarapa-TVgroup-title=¹ú¼Ê,NEW-ZEALAND-Wairarapa-TV
+#EXTINF:-1 tvg-name=NEW-ZEALAND-Wairarapa-TVgroup-title=å›½é™…,NEW-ZEALAND-Wairarapa-TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-#EXTINF:-1 tvg-name=IRELAND-TG4group-title=¹ú¼Ê,IRELAND-TG4
+#EXTINF:-1 tvg-name=IRELAND-TG4group-title=å›½é™…,IRELAND-TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-name=MEXICO-Once-TVgroup-title=¹ú¼Ê,MEXICO-Once-TV
+#EXTINF:-1 tvg-name=MEXICO-Once-TVgroup-title=å›½é™…,MEXICO-Once-TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=MEXICO-Telemargroup-title=¹ú¼Ê,MEXICO-Telemar
+#EXTINF:-1 tvg-name=MEXICO-Telemargroup-title=å›½é™…,MEXICO-Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-name=MEXICO-RCG-1-TVgroup-title=¹ú¼Ê,MEXICO-RCG-1-TV
+#EXTINF:-1 tvg-name=MEXICO-RCG-1-TVgroup-title=å›½é™…,MEXICO-RCG-1-TV
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-name=PAKISTAN-Dunya-TVgroup-title=¹ú¼Ê,PAKISTAN-Dunya-TV
+#EXTINF:-1 tvg-name=PAKISTAN-Dunya-TVgroup-title=å›½é™…,PAKISTAN-Dunya-TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=PAKISTAN-Eye-95-TVgroup-title=¹ú¼Ê,PAKISTAN-Eye-95-TV
+#EXTINF:-1 tvg-name=PAKISTAN-Eye-95-TVgroup-title=å›½é™…,PAKISTAN-Eye-95-TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1 tvg-name=LEBANON-Future-TVgroup-title=¹ú¼Ê,LEBANON-Future-TV
+#EXTINF:-1 tvg-name=LEBANON-Future-TVgroup-title=å›½é™…,LEBANON-Future-TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-name=LEBANON-Al-Manargroup-title=¹ú¼Ê,LEBANON-Al-Manar
+#EXTINF:-1 tvg-name=LEBANON-Al-Manargroup-title=å›½é™…,LEBANON-Al-Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 tvg-name=SYRIA-ANNgroup-title=¹ú¼Ê,SYRIA-ANN
+#EXTINF:-1 tvg-name=SYRIA-ANNgroup-title=å›½é™…,SYRIA-ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-name=IRA-Sharqiya-Newsgroup-title=¹ú¼Ê,IRA-Sharqiya-News
+#EXTINF:-1 tvg-name=IRA-Sharqiya-Newsgroup-title=å›½é™…,IRA-Sharqiya-News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
