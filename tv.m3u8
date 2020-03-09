@@ -64,13 +64,17 @@ http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1 tvg-name=深圳蛇口 group-title=广东,深圳蛇口
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1 tvg-name=无线新闻 group-title=港澳,无线新闻
-http://pull.scphsd.com/live/c91a0b7621a71f25b13221a3c/playlist.m3u8
-#EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
-http://pull.scphsd.com/live/8b1a5b171c1615f921bf0329c/playlist.m3u8
-#EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
-https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8?sessionID=bWeaIvz2ts1umQyio00sQwzz
+http://47.240.60.73/wxxw.php?id=inews?is_hd
+#EXTINF:-1 tvg-name=无线新闻 group-title=港澳,无线新闻
+http://103.145.38.45/dl/hk608.php?id=9
 #EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
+#EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
+https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
+#EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
+https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8
+#EXTINF:-1 tvg-name=有线新闻台 group-title=港澳,有线新闻台
+https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-name=凤凰香港 group-title=港澳,凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
 #EXTINF:-1 tvg-name=凤凰香港 group-title=港澳,凤凰香港

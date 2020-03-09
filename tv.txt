@@ -32,18 +32,18 @@
 蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
 深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
 港澳
-无线新闻,http://pull.scphsd.com/live/c91a0b7621a71f25b13221a3c/playlist.m3u8
-无线新闻,http://104.233.176.66:13164/play.m3u8?token=6EKKxAhQ1hlq6p2X1j64blWu&tid=gt&id=9
-有线新闻台,http://104.233.176.66:13164/play.m3u8?token=Tn4JBmfCH1pnx7j3p1VmfgZg&tid=gt&id=31
-有线新闻台,http://pull.scphsd.com/live/8b1a5b171c1615f921bf0329c/playlist.m3u8
+无线新闻,http://47.240.60.73/wxxw.php?id=inews?is_hd
+无线新闻,http://103.145.38.45/dl/hk608.php?id=9
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8?sessionID=bWeaIvz2ts1umQyio00sQwzz
+有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
+有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8
+有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
 凤凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 凤凰香港,rtmp://58.200.131.2:1935/livetv/fhzw&autoPlay=true
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文 HD,http://223.82.250.72/live/fhchinese/1.m3u8
+凤凰中文,http://223.82.250.72/live/fhchinese/1.m3u8
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://223.82.250.72/live/fhzixun/1.m3u8
