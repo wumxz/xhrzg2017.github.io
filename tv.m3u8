@@ -11,6 +11,8 @@ http://nclive.grtn.cn/gjpd/sd/live.m3u8
 http://nclive.grtn.cn/typd/sd/live.m3u8
 #EXTINF:-1 tvg-name=广东卫视group-title=广东,广东卫视
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name=广东卫视group-title=广东,广东卫视
+http://ivi.bupt.edu.cn/hls/gdtv.m3u8
 #EXTINF:-1 tvg-name=广东新闻group-title=广东,广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 tvg-name=广东影视group-title=广东,广东影视
@@ -29,8 +31,6 @@ http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
 #EXTINF:-1 tvg-name=嘉佳卡通group-title=广东,嘉佳卡通
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 tvg-name=高尔夫频道group-title=广东,高尔夫频道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8
 #EXTINF:-1 tvg-name=广东经济科教group-title=广东,广东经济科教
 http://nclive.grtn.cn/tvs1/sd/live.m3u8
 #EXTINF:-1 tvg-name=广东少儿group-title=广东,广东少儿
@@ -222,65 +222,115 @@ http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1 tvg-name=CCTV1group-title=央视,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name=CCTV1group-title=央视,CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-name=CCTV1group-title=央视,CCTV1
 http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-name=CCTV2group-title=央视,CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name=CCTV2group-title=央视,CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 tvg-name=CCTV3group-title=央视,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name=CCTV3group-title=央视,CCTV3
+#EXTINF:-1 tvg-name=CCTV3group-title=CCTV3.http://ivi.bupt.edu.cn/hls/cctv3.m3u8,CCTV3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name=CCTV4group-title=央视,CCTV4
+#EXTINF:-1 tvg-name=CCTV4group-title=CCTV3.http://ivi.bupt.edu.cn/hls/cctv3.m3u8,CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name=CCTV4group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV4
 http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1 tvg-name=CCTV5group-title=央视,CCTV5
+#EXTINF:-1 tvg-name=CCTV5group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV5
 http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-name=CCTV5+group-title=央视,CCTV5+
+#EXTINF:-1 tvg-name=CCTV5+group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-name=CCTV5+group-title=央视,CCTV5+
+#EXTINF:-1 tvg-name=CCTV5+group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV5+
 http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
-#EXTINF:-1 tvg-name=CCTV6group-title=央视,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV6
 http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=央视,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name=CCTV6group-title=央视,CCTV6
+#EXTINF:-1 tvg-name=CCTV6group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 tvg-name=CCTV6group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV6
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=央视,CCTV8
+#EXTINF:-1 tvg-name=CCTV7group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7HD.m3u8
+#EXTINF:-1 tvg-name=CCTV7group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-name=CCTV8group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=央视,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 tvg-name=CCTV8group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-name=CCTV8group-title=央视,CCTV8
+#EXTINF:-1 tvg-name=CCTV8group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV8
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV9group-title=央视,CCTV9
+#EXTINF:-1 tvg-name=CCTV9group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV9
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name=CCTV9group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-name=CCTV9group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV9
 http://cctvcnch5c.v.wscdns.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10group-title=央视,CCTV10
+#EXTINF:-1 tvg-name=CCTV10group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV10
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name=CCTV10group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-name=CCTV10group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV10
 http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10group-title=央视,CCTV10
+#EXTINF:-1 tvg-name=CCTV10group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV10
 http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV11group-title=央视,CCTV11
+#EXTINF:-1 tvg-name=CCTV10group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV10
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-name=CCTV11group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-name=CCTV11group-title=央视,CCTV11
+#EXTINF:-1 tvg-name=CCTV11group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV11
 http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=央视,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV12
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name=CCTV12group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-name=CCTV12group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV12
 http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=央视,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV12
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-name=CCTV12group-title=央视,CCTV12
+#EXTINF:-1 tvg-name=CCTV12group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV12
 http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-name=CCTV13group-title=央视,CCTV13
+#EXTINF:-1 tvg-name=CCTV13group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-name=CCTV13group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 tvg-name=CCTV14group-title=央视,CCTV14
+#EXTINF:-1 tvg-name=CCTV14group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV14
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name=CCTV14group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-name=CCTV14group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV14
 http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1 tvg-name=CCTV15group-title=央视,CCTV15
+#EXTINF:-1 tvg-name=CCTV15group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-name=CCTV15group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV15
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 tvg-name=CCTV15group-title=央视,CCTV15
+#EXTINF:-1 tvg-name=CCTV15group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV15
 http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
-#EXTINF:-1 tvg-name=CCTV15group-title=央视,CCTV15
+#EXTINF:-1 tvg-name=CCTV15group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV15
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?
+#EXTINF:-1 tvg-name=CGTNgroup-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CGTN
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+#EXTINF:-1 tvg-name=CCTV17group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV17
+http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-name=CCTV17group-title=CCTV4http://ivi.bupt.edu.cn/hls/cctv4.m3u8,CCTV17
+http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 #EXTINF:-1 tvg-name=北京卫视group-title=北京,北京卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 tvg-name=BTV卫视group-title=北京,BTV卫视
+#EXTINF:-1 tvg-name=北京卫视group-title=北京,北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name=北京卫视group-title=北京,北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-name=BTV文艺group-title=北京,BTV文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name=BTV文艺group-title=北京,BTV文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
 #EXTINF:-1 tvg-name=BTV科教group-title=北京,BTV科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 tvg-name=BTV影视group-title=北京,BTV影视
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name=BTV影视group-title=北京,BTV影视
 http://ivi.bupt.edu.cn/hls/btv4.m3u8
 #EXTINF:-1 tvg-name=BTV财经group-title=北京,BTV财经
@@ -290,12 +340,28 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 #EXTINF:-1 tvg-name=BTV青年group-title=北京,BTV青年
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
 #EXTINF:-1 tvg-name=BTV新闻group-title=北京,BTV新闻
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name=BTV新闻group-title=北京,BTV新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 tvg-name=BTV纪实group-title=北京,BTV纪实
+#EXTINF:-1 tvg-name=卡酷少儿group-title=北京,卡酷少儿
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 tvg-name=北京纪实group-title=北京,北京纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-name=山东教育group-title=山东,山东教育
+#EXTINF:-1 tvg-name=北京纪实group-title=北京,北京纪实
+http://ivi.bupt.edu.cn/hls/btv11.m3u8
+#EXTINF:-1 tvg-name=兵团卫视group-title=新疆,兵团卫视
+http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 tvg-name=中国教育1台group-title=中国教育电视台,中国教育1台
+http://ivi.bupt.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 tvg-name=中国教育3台group-title=中国教育电视台,中国教育3台
+http://ivi.bupt.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 tvg-name=中国教育4台group-title=中国教育电视台,中国教育4台
+http://ivi.bupt.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1 tvg-name=山东教育group-title=中国教育电视台,山东教育
+http://ivi.bupt.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 tvg-name=山东教育group-title=中国教育电视台,山东教育
 http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
-#EXTINF:-1 tvg-name=山东教育group-title=山东,山东教育
+#EXTINF:-1 tvg-name=山东教育group-title=中国教育电视台,山东教育
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-name=济南新闻group-title=山东,济南新闻
 http://ts1.ijntv.cn/xwhd/hd/live.m3u8
