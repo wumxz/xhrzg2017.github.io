@@ -33,7 +33,12 @@
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 港澳台
+翡翠台,http://103.145.38.45/dl/hk608.php?id=1
 无线新闻,http://103.145.38.45/dl/hk608.php?id=9
+无线财经,http://103.145.38.45/dl/hk608.php?id=10
+TVB星河频道,http://103.145.38.45/dl/hk608.php?id=17
+J2,http://103.145.38.45/dl/hk608.php?id=12
+有线新闻台,http://103.145.38.45/dl/hk608.php?id=31
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8
@@ -49,6 +54,7 @@
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+耀才财经台,http://103.145.38.45/dl/hk608.php?id=19
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
@@ -63,17 +69,20 @@
 TVBS新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 4K专区
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
+IPTV5+,http://117.156.28.21/PLTV/88888888/224/3221225904/index.m3u8
+NEWTV动作电影,http://112.17.40.147/PLTV/88888888/224/3221226747/index.m3u8
 百视通4K(移动网),http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-乐视【综合】,http://www.zgrqq.top/letv.m3u8?id=zonghe_1300
-乐视【综艺】,http://www.zgrqq.top/letv.m3u8?id=ent_1300
-乐视【娱乐】,http://www.zgrqq.top/letv.m3u8?id=yule_1300
-乐视【喜剧人】,http://www.zgrqq.top/letv.m3u8?id=hlxjr_1300
-乐视【动作电影】,http://www.zgrqq.top/letv.m3u8?id=dzdy_1300
-乐视【喜剧电影】,http://www.zgrqq.top/letv.m3u8?id=comedy_1300
-乐视【华语电影】,http://www.zgrqq.top/letv.m3u8?id=hydy_1300
-乐视【深圳旁边电影】,http://www.zgrqq.top/letv.m3u8?id=hkmovie_1300
-乐视【抗战剧】,http://www.zgrqq.top/letv.m3u8?id=kangz_1300
-乐视【亲子课堂】,http://www.zgrqq.top/letv.m3u8?id=make_1300
+乐视综合,http://www.zgrqq.top/letv.m3u8?id=zonghe_1300
+乐视综艺,http://www.zgrqq.top/letv.m3u8?id=ent_1300
+乐视娱乐,http://www.zgrqq.top/letv.m3u8?id=yule_1300
+乐视喜剧人,http://www.zgrqq.top/letv.m3u8?id=hlxjr_1300
+乐视动作电影,http://www.zgrqq.top/letv.m3u8?id=dzdy_1300
+乐视喜剧电影,http://www.zgrqq.top/letv.m3u8?id=comedy_1300
+乐视华语电影,http://www.zgrqq.top/letv.m3u8?id=hydy_1300
+乐视深圳旁边电影,http://www.zgrqq.top/letv.m3u8?id=hkmovie_1300
+乐视抗战剧,http://www.zgrqq.top/letv.m3u8?id=kangz_1300
+乐视亲子课堂,http://www.zgrqq.top/letv.m3u8?id=make_1300
 爱奇艺_电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 爱奇艺_好莱坞大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 爱奇艺_五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
@@ -111,7 +120,28 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 华数28,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
 华数29,http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 华数30,http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-
+NewTV爱情喜剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+NewTV搏击 FHD,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+NewTV潮妈辣婆 FHD,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
+NewTV动作电影 FHD,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+NewTV古装剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+NewTV海外剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+NewTV家庭剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+NewTV健康有约 FHD,http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
+NewTV金牌综艺 FHD,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+NewTV惊悚悬疑 FHD,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+NewTV精品大剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+NewTV精品记录 FHD,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+NewTV军旅剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+NewTV军事评论 FHD,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+NewTV明星大片 FHD,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+NewTV农业致富 FHD,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
+NewTV炫舞未来 FHD,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+NewTV中国功夫 FHD,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
+NewTV超级电视剧(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+NewTV超级电影(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
+NewTV超级体育(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+NewTV超级综艺(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
 央视
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
@@ -164,7 +194,8 @@ CCTV15,http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+高尔夫网球,http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
 北京
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
