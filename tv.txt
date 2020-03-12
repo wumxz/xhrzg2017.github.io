@@ -4,8 +4,11 @@
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广东卫视,http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
+广东卫视,http://112.17.40.140/PLTV/88888888/224/3221226585/index.m3u8
 广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 广东卫视,http://ivi.bupt.edu.cn/hls/gdtv.m3u8
+广东卫视,http://112.17.40.140/PLTV/88888888/224/3221226510/index.m3u8
 广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
@@ -46,9 +49,11 @@ J2,http://103.145.38.45/dl/hk608.php?id=12
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
 凤凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
+凤凰中文,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://223.82.250.72/live/fhchinese/1.m3u8
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
+凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://223.82.250.72/live/fhzixun/1.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -67,11 +72,43 @@ J2,http://103.145.38.45/dl/hk608.php?id=12
 澳视体育,http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
 三立新闻台,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 TVBS新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+移动IPTV直播&回看
+纪录片-1,http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
+纪录片-2,http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+欧美电影,http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
+黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+黑莓电竞,http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
+四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
+NEWTV动作电影,http://112.17.40.147/PLTV/88888888/224/3221226747/index.m3u8
+NewTV爱情喜剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+NewTV搏击 FHD,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+NewTV潮妈辣婆 FHD,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
+NewTV动作电影 FHD,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+NewTV古装剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+NewTV海外剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+NewTV家庭剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+NewTV健康有约 FHD,http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
+NewTV金牌综艺 FHD,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+NewTV惊悚悬疑 FHD,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+NewTV精品大剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+NewTV精品记录 FHD,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+NewTV军旅剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+NewTV军事评论 FHD,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+NewTV明星大片 FHD,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+NewTV农业致富 FHD,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
+NewTV炫舞未来 FHD,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+NewTV中国功夫 FHD,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
+NewTV超级电视剧,http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+NewTV超级电影,http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
+NewTV超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+NewTV超级综艺,http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+
 4K专区
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
 IPTV5+,http://117.156.28.21/PLTV/88888888/224/3221225904/index.m3u8
-百视通4K(移动网),http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 疫情直播
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 雷神山实时画面1,http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
@@ -107,33 +144,12 @@ MC_方块Q学员,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
 派对时刻,http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
 野小叶,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
 玩美咖,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-NEWTV动作电影,http://112.17.40.147/PLTV/88888888/224/3221226747/index.m3u8
-NewTV爱情喜剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
-NewTV搏击 FHD,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
-NewTV潮妈辣婆 FHD,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
-NewTV动作电影 FHD,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
-NewTV古装剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
-NewTV海外剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
-NewTV家庭剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
-NewTV健康有约 FHD,http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
-NewTV金牌综艺 FHD,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
-NewTV惊悚悬疑 FHD,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
-NewTV精品大剧 FHD,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
-NewTV精品记录 FHD,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
-NewTV军旅剧场 FHD,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
-NewTV军事评论 FHD,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
-NewTV明星大片 FHD,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
-NewTV农业致富 FHD,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
-NewTV炫舞未来 FHD,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-NewTV中国功夫 FHD,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
-NewTV超级电视剧,http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
-NewTV超级电影,http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
-NewTV超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
-NewTV超级综艺,http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+
+
 网络频道2
 央视新闻,https://aldirect.rtmp.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_2500.m3u8
 春晚相声小品,https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_2500.m3u8
-成  龙,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
+成龙,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8
 林正英(搞笑系列),https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
 林正英2,https://aldirect.rtmp.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 李连杰,https://al.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
@@ -188,6 +204,7 @@ NewTV超级综艺,http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
 陈翔六点半,https://aldirect.rtmp.huya.com/backsrc/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_2500.m3u8
 男人帮(挑战极限),https://aldirect.rtmp.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_2500.m3u8
 好莱坞动作电影,https://aldirect.rtmp.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_2500.m3u8
+
 央视
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
@@ -238,11 +255,17 @@ CCTV15,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 CCTV15,http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 CCTV15,http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CGTN,http://112.17.40.140/PLTV/88888888/224/3221226314/index.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+数字付费
 CCTV高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 高尔夫网球,http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
+怀旧剧场,http://h5live.gslb.cmvideo.cn/ws_v/2018/hjjc/hjjc450/350/index.m3u8?msisdn=20200312071834&mdspid=&spid=699004&netType=0&sid=2200019453&pid=2028597799&timestamp=20200312071834&Channel_ID=H5_&ProgramID=623364608&ParentNodeID=-99&assertID=2200019453&client_ip=223.111.216.186&SecurityKey=20200312071834&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=c22f9434aee958f24159cb39ff92a079
+世界地理,http://h5live.gslb.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/index.m3u8?msisdn=20200312084912&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200312084912&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=183.131.181.19&SecurityKey=20200312084912&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=80a1525dedc02208399524f33fe1fd5b
+
+
 北京
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
@@ -271,9 +294,18 @@ BTV新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 山东教育,http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
 山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 少儿
+金鹰卡通http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
+优漫卡通,http://112.17.40.140/PLTV/88888888/224/3221226172/index.m3u8
+哈哈悦动,http://112.17.40.140/PLTV/88888888/224/3221226745/index.m3u8
 猫和老鼠,https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_2500.m3u8
 猫小帅,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 小马宝莉,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+上海
+东方卫视,http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
+东方卫视,http://112.17.40.140/PLTV/88888888/224/3221226621/index.m3u8
+浙江
+浙江卫视,http://112.17.40.140/PLTV/88888888/224/3221226136/index.m3u8
+浙江卫视,http://112.17.40.140/PLTV/88888888/224/3221226619/index.m3u8
 山东
 济南新闻,http://ts1.ijntv.cn/xwhd/hd/live.m3u8
 济南影视,http://ts1.ijntv.cn/yshd/hd/live.m3u8
@@ -306,6 +338,12 @@ BTV新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 厦门移动电视,http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
 湖南
 湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
+湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
+湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226569/index.m3u8
+湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226615/index.m3u8
+金鹰纪实,http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
+金鹰卡通http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 株洲新闻综合,http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
 陕西
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
