@@ -139,10 +139,6 @@ http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-name=澳视体育 group-title=港澳台,澳视体育
 http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name=三立新闻台 group-title=港澳台,三立新闻台
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 tvg-name=TVBS新闻台 group-title=港澳台,TVBS新闻台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-name=纪录片-1 group-title=移动IPTV直播&回看,纪录片-1
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-name=纪录片-2 group-title=移动IPTV直播&回看,纪录片-2
@@ -501,8 +497,6 @@ http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-name=高尔夫网球 group-title=数字付费,高尔夫网球
 http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
-#EXTINF:-1 tvg-name=怀旧剧场 group-title=数字付费,怀旧剧场
-http://h5live.gslb.cmvideo.cn/ws_v/2018/hjjc/hjjc450/350/index.m3u8?msisdn=20200312071834&mdspid=&spid=699004&netType=0&sid=2200019453&pid=2028597799&timestamp=20200312071834&Channel_ID=H5_&ProgramID=623364608&ParentNodeID=-99&assertID=2200019453&client_ip=223.111.216.186&SecurityKey=20200312071834&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=c22f9434aee958f24159cb39ff92a079
 #EXTINF:-1 tvg-name=世界地理 group-title=数字付费,世界地理
 http://h5live.gslb.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/index.m3u8?msisdn=20200312084912&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200312084912&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=183.131.181.19&SecurityKey=20200312084912&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=80a1525dedc02208399524f33fe1fd5b
 #EXTINF:-1 tvg-name=北京卫视 group-title=北京,北京卫视
