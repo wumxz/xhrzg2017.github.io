@@ -256,6 +256,7 @@ CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CGTN,http://112.17.40.140/PLTV/88888888/224/3221226314/index.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CCTV17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+《舌尖上的中国》,https://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 数字付费
 CCTV高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
@@ -291,7 +292,7 @@ BTV新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 山东教育,http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
 山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 少儿
-金鹰卡通http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
+金鹰卡通,http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 优漫卡通,http://112.17.40.140/PLTV/88888888/224/3221226172/index.m3u8
 哈哈悦动,http://112.17.40.140/PLTV/88888888/224/3221226745/index.m3u8
 猫和老鼠,https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_2500.m3u8
@@ -340,7 +341,7 @@ BTV新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226569/index.m3u8
 湖南卫视,http://112.17.40.140/PLTV/88888888/224/3221226615/index.m3u8
 金鹰纪实,http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
-金鹰卡通http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
+金鹰卡通,http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 株洲新闻综合,http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
 陕西
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
