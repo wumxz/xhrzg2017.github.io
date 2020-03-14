@@ -36,6 +36,7 @@
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 港澳台
+翡翠台,http://www.chengbo.org/proxy/proxy3.m3u8?id=jade&tm=1584152125&key=58f1f963b03f196b7445e5d60c53d35e
 翡翠台,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd2&token=1234567&u=85402369
 明珠台,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd3&token=1234567&u=85402369
 无线新闻,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd1&token=1234567&u=85402369

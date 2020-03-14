@@ -72,6 +72,8 @@ http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 #EXTINF:-1 tvg-name=潮安影视 group-title=广东,潮安影视
 http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 #EXTINF:-1 tvg-name=翡翠台 group-title=港澳台,翡翠台
+http://www.chengbo.org/proxy/proxy3.m3u8?id=jade&tm=1584152125&key=58f1f963b03f196b7445e5d60c53d35e
+#EXTINF:-1 tvg-name=翡翠台 group-title=港澳台,翡翠台
 http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd2&token=1234567&u=85402369
 #EXTINF:-1 tvg-name=明珠台 group-title=港澳台,明珠台
 http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd3&token=1234567&u=85402369
