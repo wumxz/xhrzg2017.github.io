@@ -36,16 +36,17 @@
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 港澳台
-翡翠台,http://103.145.38.45/dl/hk608.php?id=1
-无线新闻,http://103.145.38.45/dl/hk608.php?id=9
-无线财经,http://103.145.38.45/dl/hk608.php?id=10
-TVB星河频道,http://103.145.38.45/dl/hk608.php?id=17
-J2,http://103.145.38.45/dl/hk608.php?id=12
-有线新闻台,http://103.145.38.45/dl/hk608.php?id=31
+翡翠台,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd2&token=1234567&u=85402369
+明珠台,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd3&token=1234567&u=85402369
+无线新闻,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd1&token=1234567&u=85402369
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8
+J2,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd4&token=1234567&u=85402369
+TVB星河频道,http://www.chengbo.org/proxy/proxy3.m3u8?id=xh&tm=1584145818&key=3f70f5f716b1289ec1cae76d3dece061
+TVB星河频道,http://www.chengbo.org/proxy/proxy3.m3u8?id=xh&tm=1584145863&key=f8452421eccb894fde26c71250b61171
+TVB星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
 凤凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
@@ -59,7 +60,6 @@ J2,http://103.145.38.45/dl/hk608.php?id=12
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-耀才财经台,http://103.145.38.45/dl/hk608.php?id=19
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
@@ -102,7 +102,6 @@ NewTV超级电视剧,http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
 NewTV超级电影,http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
 NewTV超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
 NewTV超级综艺,http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
-
 4K专区
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
@@ -111,7 +110,6 @@ IPTV5+,http://117.156.28.21/PLTV/88888888/224/3221225904/index.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 雷神山实时画面1,http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
 雷神山实时画面2,http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8
-火神雷神山双画面,http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8
 火神山医院实时画面1,https://b1.pengyou.com/livechina/cntv10-jyg02.m3u8?auth_key=1836526433-0-0-76222a60fd53c00d00d794a1792bf33b
 武汉加油,http://live.us.sinaimg.cn/001ZrMYCjx07ANATAdBu070d01000dnY0k01.m3u8
 工作防护,https://download-t.zhixueyun.com:443/default/M00/00/00/01-GZQYFH01.mp4
@@ -119,14 +117,11 @@ IPTV5+,http://117.156.28.21/PLTV/88888888/224/3221225904/index.m3u8
 居家防护,https://download-t.zhixueyun.com/default/M00/00/00/03-JJFH03.mp4
 认识病毒,https://download-t.zhixueyun.com/default/M00/00/00/04-XXGZBDFYGRDZS04.mp4
 网络频道
-爱奇艺_电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 爱奇艺_好莱坞大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 爱奇艺_五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 爱奇艺_黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 爱奇艺_喜剧电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-爱奇艺_经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-华数吃鸡,http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
 华数PCL吃鸡,http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
 华数PCL吃鸡,http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
 华数PCM吃鸡,http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
@@ -134,7 +129,6 @@ QG电子竞技直播,http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
 AG超玩会,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
 电竞世界,http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
 MC_阿阳历险记,http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
-MC_方块Q学员,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
 种草吧麻麻,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 造物集,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
 时装秀,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
@@ -142,8 +136,6 @@ MC_方块Q学员,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
 派对时刻,http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
 野小叶,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
 玩美咖,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-
-
 网络频道2
 央视新闻,https://aldirect.rtmp.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_2500.m3u8
 春晚相声小品,https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_2500.m3u8
@@ -153,7 +145,6 @@ MC_方块Q学员,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
 李连杰,https://al.rtmp.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2500.m3u8
 吴京,https://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_2500.m3u8
 周润发,https://aldirect.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_2500.m3u8
-周星驰,https://bd.rtmp.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8
 黄渤,https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
 刘德华,https://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 徐峥,https://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
@@ -196,13 +187,11 @@ MC_方块Q学员,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
 楚汉传奇,https://aldirect.rtmp.huya.com/backsrc/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_2500.m3u8
 聊斋志异,https://aldirect.rtmp.huya.com/huyalive/29169025-2750736098-11814321580836651008-3048991666-10057-A-0-1_2500.m3u8
 小众电影,https://aldirect.rtmp.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1_2500.m3u8
-韩国动作,https://aldirect.rtmp.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2500.m3u8
 卧底警匪片,https://aldirect.rtmp.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_2500.m3u8
 银河护卫队,https://aldirect.rtmp.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8
 陈翔六点半,https://aldirect.rtmp.huya.com/backsrc/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_2500.m3u8
 男人帮(挑战极限),https://aldirect.rtmp.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_2500.m3u8
 好莱坞动作电影,https://aldirect.rtmp.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_2500.m3u8
-
 央视
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
@@ -222,7 +211,6 @@ CCTV6,http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 CCTV6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 CCTV6,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 CCTV6,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-CCTV7,http://ivi.bupt.edu.cn/hls/cctv7HD.m3u8
 CCTV7,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 CCTV8,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
@@ -242,7 +230,6 @@ CCTV12,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 CCTV12,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 CCTV12,http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 CCTV12,http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
 CCTV14,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
@@ -261,9 +248,6 @@ CCTV17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 CCTV高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 高尔夫网球,http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
-世界地理,http://h5live.gslb.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/index.m3u8?msisdn=20200312084912&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200312084912&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=183.131.181.19&SecurityKey=20200312084912&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=80a1525dedc02208399524f33fe1fd5b
-
-
 北京
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
