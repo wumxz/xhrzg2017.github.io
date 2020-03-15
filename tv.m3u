@@ -125,8 +125,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-name=澳亚卫视 group-title=港澳台,澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 tvg-name=澳视澳门 group-title=港澳台,澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-name=澳门有线①台 group-title=港澳台,澳门有线①台
 http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1 tvg-name=澳门有线②台 group-title=港澳台,澳门有线②台
@@ -141,6 +139,8 @@ http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-name=澳视体育 group-title=港澳台,澳视体育
 http://61.244.22.5/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name=莲花卫视 group-title=港澳台,莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-name=纪录片-1 group-title=移动IPTV直播&回看,纪录片-1
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-name=纪录片-2 group-title=移动IPTV直播&回看,纪录片-2
@@ -209,6 +209,10 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
 #EXTINF:-1 tvg-name=IPTV5+ group-title=4K专区,IPTV5+
 http://117.156.28.21/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 tvg-name=BesTV4K group-title=4K专区,BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-name=纯享4k group-title=4K专区,纯享4k
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name=新华中文 group-title=疫情直播,新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-name=雷神山实时画面1 group-title=疫情直播,雷神山实时画面1
@@ -481,6 +485,8 @@ https://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 #EXTINF:-1 tvg-name=CCTV4K group-title=数字付费,CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-name=CCTV4K group-title=数字付费,CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-name=高尔夫网球 group-title=数字付费,高尔夫网球
 http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
 #EXTINF:-1 tvg-name=北京卫视 group-title=北京,北京卫视
